@@ -31,4 +31,4 @@ comments:
 plugins:
  - jekyll-feed
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
