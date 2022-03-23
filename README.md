@@ -98,4 +98,4 @@ Contrast comes preinstalled with a leightweight alternative to MathJax called [K
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
 
-![image](https://github.com/Sebastian1981/myDataScienceUniverse/blob/master/universe.png)
+![screenshot](https://github.com/Sebastian1981/myDataScienceUniverse/blob/master/universe.png)
