@@ -5,4 +5,4 @@ title: CV
 Hello World!
 
 ![screenshot](/cv/cv_german.png)
-![link](/cv/cv_german.pdf)
+![link](/cv/Lebenslauf_2022_D)
