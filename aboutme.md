@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: About me
 ---
 ![screenshot](images/universe.png)
 
-Ich bin Physiker und Data Scientist mit über 10 Jahren Forschungshintergrund in Bereichen Statistik und Signalverarbeitung und über 4 Jahren Industrieerfahrung im Bereich Data Science Umsetzung und Beratung. Sog. "KI-Blackbox"-Systeme mögen performant sein, doch neigen zu intransparenten und diskriminierenden Entscheidungen, wodurch direkte oder indirekte Kosten entstehen. Verantwortungsvolle KI-Systeme hingegen zeichnen sich durch Transparenz und Fairness aus. Diese Eigenschaften sind v.a. bei Use Cases mit personenbezogenen Daten wichtig (z.B. Kündigerscore, Kundenwert, Kundensegmentierung, Kreditausfallscore, Krankheitsrisikoscore). 
+I am a physicist and data scientist with over 10 years of research background in statistics and signal processing and over 4 years of industry experience in data science implementation and consulting. So-called "AI black box" systems may be high-performing, but tend to make non-transparent and discriminatory decisions, which result in direct or indirect costs. Responsible AI systems, on the other hand, are characterized by transparency and fairness. These properties are particularly important for use cases with personal data (e.g. churn score, customer value, customer segmentation, credit default score, health risk score).
 
-Lieblingszitat: *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
+Favorite Quote: *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P Feynman ―*
