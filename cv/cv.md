@@ -4,4 +4,5 @@ title: CV
 ---
 Hello World!
 
-![cv](/cv/cv_german.pdf)
+![screenshot](/cv/cv_german.pdf)
+
