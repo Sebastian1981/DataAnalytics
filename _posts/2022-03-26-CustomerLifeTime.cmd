@@ -11,30 +11,30 @@ In this project two seperate approaches were chosen to model the CLV. In the [CL
 ### Exploratory Data Analysis (EDA)
 The pearson correlation analysis between numeric features and the target (i.e. CLV) reveals moderate correlations for the features "Monthly Premium Auto" and "Total Claim Amount".
 
-![Pearson Correlation Table ](/images/PearsonCorrelation.jpg)
+#![Pearson Correlation Table ](/images/PearsonCorrelation.jpg)
 
 The boxplots show a clear effect of the feature "Vehicle Class" on CLV.
 
-![Boxplot: CLV vs Vehicle Class](/images/CLV_vehicle_class.jpg)
+#![Boxplot: CLV vs Vehicle Class](/images/CLV_vehicle_class.jpg)
 
 With respect to gender, no apparent effect on CLV can be observed which is an important precondition for model fairness.
 
-![Boxplot: CLV vs Gender](/images/CLV_gender.jpg)
+#![Boxplot: CLV vs Gender](/images/CLV_gender.jpg)
 
 ### CLV Model Evaluation
 For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
 
-![Regression Model result ](/images/CLV_regression_model.jpg)
+#![Regression Model result ](/images/CLV_regression_model.jpg)
 
 ### CLV Model Explanation and Model Fairness 
 #### Global Explanation
 In consistence with the EDA-findings the SHAP values reveal that overall the features "Number of Policies" and "Monthly Premium Auto" have a significant impact on CLV. The feature "Vehicle Class" in return has only moderate impact. With respect to model Fairness, the sensitive feature "Gender" also has moderate impact on CLV, which is important to note. 
 
-![Regression Model mean abs shap vals ](/images/regression_model_meanshap.jpg)
+#![Regression Model mean abs shap vals ](/images/regression_model_meanshap.jpg)
 
 #### Local Explanation
 With focus on local model explanation, the plot below shows the effects of the different features on the CLV of a single customer. We can see that the expected CLV is located around 8400 (base-value). The features "Monthly Premium Auto" and "Number of Policies" push the CLV to lower values of around 5100 whereas other features like "Income" have a positive effect increasing the CLV to the final value of around 5500.  
 
-![Regression Model shap forceplot](/images/regression_model_shaplocal.jpg)
+#![Regression Model shap forceplot](/images/regression_model_shaplocal.jpg)
 
 
