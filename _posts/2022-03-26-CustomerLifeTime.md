@@ -30,9 +30,6 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 ![CLV_gender](https://user-images.githubusercontent.com/21213464/162006161-2ecb957d-bc22-45e4-8802-aef6b1db0d71.jpg)
 
 
-
-
-
 ### CLV Model Evaluation
 For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
 
@@ -43,8 +40,6 @@ For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) w
 In consistence with the EDA-findings the SHAP values reveal that overall the features "Number of Policies" and "Monthly Premium Auto" have a significant impact on CLV. The feature "Vehicle Class" in return has only moderate impact. With respect to model Fairness, the sensitive feature "Gender" also has moderate impact on CLV, which is important to note. 
 
 ![regression_model_meanshap](https://user-images.githubusercontent.com/21213464/162039215-5eccbc03-4207-4cab-ae6a-e559bee784c7.jpg)
-
-Model Mean Abs Shap Vals ](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/regression_model_meanshap.jpg)
 
 #### Local Explanation
 With focus on local model explanation, the plot below shows the effects of the different features on the CLV of a single customer. We can see that the expected CLV is located around 8400 (base-value). The features "Monthly Premium Auto" and "Number of Policies" push the CLV to lower values of around 5100 whereas other features like "Income" have a positive effect increasing the CLV to the final value of around 5500.  
