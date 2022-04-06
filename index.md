@@ -11,5 +11,5 @@ My special focus is on the development of so-called "responsible" AI systems whi
 As a freelance data scientist, I would be very happy to work along your side on state of the art customer analytics projects to solve real-world challenges using responsible AI.
 
 My favourite quote:
-*“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P Feynman ―*
+*“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
 
