@@ -7,7 +7,7 @@ categories: media
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
-
+![Boxplot: CLV vs Gender](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/CLV_gender.jpg)
 
 ## Project Overview
 >In marketing, customer lifetime value (CLV or often CLTV), lifetime customer value (LCV), or life-time value (LTV) is a prognostication of the net profit contributed to the whole future relationship with a customer. The prediction model can have varying levels of sophistication and accuracy, ranging from a crude heuristic to the use of complex predictive analytics techniques. One of the major uses of CLV is customer segmentation, which starts with the understanding that not all customers are equally important. CLV-based segmentation model allows the company to predict the most profitable group of customers, understand those customers' common characteristics, and focus more on them rather than on less profitable customers. CLV-based segmentation can be combined with a Share of Wallet (SOW) model to identify "high CLV but low SOW" customers with the assumption that the company's profit could be maximized by investing marketing resources in those customers. [**Ref:** https://en.wikipedia.org/wiki/Customer_lifetime_value]
@@ -29,6 +29,10 @@ The boxplots show a clear effect of the feature "Vehicle Class" on CLV.
 With respect to gender, no apparent effect on CLV can be observed which is an important precondition for model fairness.
 
 ![Boxplot: CLV vs Gender](images/CLV_gender.jpg)
+
+
+
+
 
 ### CLV Model Evaluation
 #For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
