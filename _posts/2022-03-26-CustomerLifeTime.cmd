@@ -27,7 +27,7 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 ![Boxplot: CLV vs Gender](/images/CLV_gender.jpg)
 
 ### CLV Model Evaluation
-For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
+#For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
 
 #![Regression Model result ](/images/CLV_regression_model.jpg)
 
