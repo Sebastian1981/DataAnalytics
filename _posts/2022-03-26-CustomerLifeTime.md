@@ -29,7 +29,10 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 
 [Boxplot: CLV vs Gender](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/CLV_gender.jpg)
 
-![Boxplot: CLV vs Gender](/_posts/images/CLV_gender.jpg)
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
+![Boxplot: CLV vs Gender](./_posts/images/CLV_gender.jpg)
+
 
 
 ### CLV Model Evaluation
