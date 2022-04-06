@@ -25,21 +25,7 @@ The boxplots show a clear effect of the feature "Vehicle Class" on CLV.
 
 With respect to gender, no apparent effect on CLV can be observed which is an important precondition for model fairness.
 
-![Boxplot: CLV vs Gender](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/CLV_gender.jpg)
-
-[Boxplot: CLV vs Gender](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/CLV_gender.jpg)
-
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
-
-![Boxplot: CLV vs Gender](/_posts/images/CLV_gender.jpg)
-
-![screenshot](/_posts/images/CLV_gender.jpg)
-
-![title](/assets/CLV_gender.jpg)
-
-![title](https://github.com/Sebastian1981/DataAnalytics/blob/14662e0ce817e0b4aeaf21fe61b1d9f4f4b0da08/assets/CLV_gender.jpg)
-
-
+![CLV gender](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/CLV_gender.jpg)
 
 ![CLV_gender](https://user-images.githubusercontent.com/21213464/162006161-2ecb957d-bc22-45e4-8802-aef6b1db0d71.jpg)
 
