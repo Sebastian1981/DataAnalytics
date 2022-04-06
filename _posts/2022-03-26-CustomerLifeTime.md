@@ -33,6 +33,8 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 
 ![Boxplot: CLV vs Gender](/_posts/images/CLV_gender.jpg)
 
+![screenshot](cv/cv_german_public-2.jpg)
+
 
 
 ### CLV Model Evaluation
