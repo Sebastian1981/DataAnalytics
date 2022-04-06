@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV", sidebaricon: home}
   - {file: "aboutme.md", title: "About me"}
-  - {file: "index.html", title: "My Projects"}
+  - {file: "myprojects.md", title: "My Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: XING, icon: xing, url: "https://www.xing.com/profile/rernatSebastian_Domsch"}
