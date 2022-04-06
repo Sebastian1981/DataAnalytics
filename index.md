@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Vision: Building Powerful Responsible AI Systems
+title: My Vision - Building Powerful and Responsible AI Systems
 ---
 ![screenshot](images/artificial_intelligence.png)
 
