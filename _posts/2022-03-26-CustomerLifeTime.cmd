@@ -24,8 +24,7 @@ The boxplots show a clear effect of the feature "Vehicle Class" on CLV.
 
 With respect to gender, no apparent effect on CLV can be observed which is an important precondition for model fairness.
 
-#![Boxplot: CLV vs Gender](/images/clv/CLV_gender.jpg)
-[Boxplot: CLV vs Gender](https://github.com/Sebastian1981/DataAnalytics/blob/94296dd9049e0114d557459d020dcc235a521fad/images/clv/CLV_gender.jpg) 
+![Boxplot: CLV vs Gender](./images/clv/CLV_gender.jpg)
 
 ### CLV Model Evaluation
 For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
