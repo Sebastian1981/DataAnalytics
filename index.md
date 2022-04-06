@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: My Vision: Building Powerful Responsible AI Systems
 ---
 ![screenshot](images/artificial_intelligence.png)
 
