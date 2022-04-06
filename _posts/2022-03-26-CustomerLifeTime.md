@@ -37,6 +37,9 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 
 ![title](/assets/CLV_gender.jpg)
 
+![title](https://github.com/Sebastian1981/DataAnalytics/blob/14662e0ce817e0b4aeaf21fe61b1d9f4f4b0da08/assets/CLV_gender.jpg)
+
+
 
 
 
