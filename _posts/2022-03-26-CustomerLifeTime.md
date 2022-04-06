@@ -11,7 +11,7 @@ categories: media
 
 In this project two seperate approaches were chosen to model the CLV. In the [CLV-regression approach](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/main/CustomerLifetimeValue_Regression.ipynb), a regression model was fit to estimate the individual CLV of each customer. In the [CLV-classification approach](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/main/CustomerLifetimeValue_Multiclass.ipynb), a binary classifier was fit to assign each customer to either the segment "Low-CLV" or "High-CLV". The machine learning models are build on historical customer data with the CLVs been pre-computed for each customers as shown below. Besides pure building and evaluating machine learnign models the focus was also set on model explainability and model fairness.
 
-#![Customer Data Table ](/images/datatable.jpg)
+![Customer Data Table ](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/datatable.jpg)
 
 ## CLV Regression Modeling Results
 ### Exploratory Data Analysis (EDA)
@@ -29,7 +29,7 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 
 
 ### CLV Model Evaluation
-#For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
+For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
 
 ![Regression Model Result ](https://github.com/Sebastian1981/CustomerAnalytics_CLV/blob/d923638dcca450f305c9dd2592199951e12e7917/images/CLV_regression_model.jpg)
 
