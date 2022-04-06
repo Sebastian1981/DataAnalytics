@@ -41,6 +41,10 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 
 
 
+![CLV_gender](https://user-images.githubusercontent.com/21213464/162006161-2ecb957d-bc22-45e4-8802-aef6b1db0d71.jpg)
+
+
+
 
 
 ### CLV Model Evaluation
