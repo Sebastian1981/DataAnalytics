@@ -36,9 +36,9 @@ For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) w
 
 ![CLV_regression_model](https://user-images.githubusercontent.com/21213464/162039110-b39b3007-e4c1-45cf-b9c4-64b4a9d43af2.jpg)
 
-### Model Explanation and Model Fairness 
+### Model Explanation 
 #### Global Explanation
-In consistence with the EDA-findings the SHAP values reveal that overall the features "Number of Policies" and "Monthly Premium Auto" have a significant impact on CLV. The feature "Vehicle Class" in return has only moderate impact. With respect to model Fairness, the sensitive feature "Gender" also has moderate impact on CLV, which is important to note. 
+In consistence with the EDA-findings the SHAP values reveal that overall the features "Number of Policies" and "Monthly Premium Auto" have a significant impact on CLV. The feature "Vehicle Class" in return has only moderate impact. 
 
 ![regression_model_meanshap](https://user-images.githubusercontent.com/21213464/162039215-5eccbc03-4207-4cab-ae6a-e559bee784c7.jpg)
 
