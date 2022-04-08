@@ -16,7 +16,7 @@ In this project two seperate approaches were chosen to model the CLV. In the [CL
 
 
 
-## CLV Regression Modeling Results
+## Regression Modeling Results
 ### Exploratory Data Analysis (EDA)
 The pearson correlation analysis between numeric features and the target (i.e. CLV) reveals moderate correlations for the features "Monthly Premium Auto" and "Total Claim Amount".
 
@@ -31,12 +31,12 @@ With respect to gender, no apparent effect on CLV can be observed which is an im
 ![CLV_gender](https://user-images.githubusercontent.com/21213464/162006161-2ecb957d-bc22-45e4-8802-aef6b1db0d71.jpg)
 
 
-### CLV Model Evaluation
+### Model Evaluation
 For modeling the CLV, a "Light Gradient Boosting Machine" algorithm (LightGBM) was used explaining 68% (=R2) of the variance on unseen customer data.
 
 ![CLV_regression_model](https://user-images.githubusercontent.com/21213464/162039110-b39b3007-e4c1-45cf-b9c4-64b4a9d43af2.jpg)
 
-### CLV Model Explanation and Model Fairness 
+### Model Explanation and Model Fairness 
 #### Global Explanation
 In consistence with the EDA-findings the SHAP values reveal that overall the features "Number of Policies" and "Monthly Premium Auto" have a significant impact on CLV. The feature "Vehicle Class" in return has only moderate impact. With respect to model Fairness, the sensitive feature "Gender" also has moderate impact on CLV, which is important to note. 
 
@@ -46,4 +46,17 @@ In consistence with the EDA-findings the SHAP values reveal that overall the fea
 With focus on local model explanation, the plot below shows the effects of the different features on the CLV of a single customer. We can see that the expected CLV is located around 8400 (base-value). The features "Monthly Premium Auto" and "Number of Policies" push the CLV to lower values of around 5100 whereas other features like "Income" have a positive effect increasing the CLV to the final value of around 5500.  
 
 ![regression_model_shaplocal](https://user-images.githubusercontent.com/21213464/162039242-0fa0f761-ae20-46d3-88a2-47e51f68adc3.jpg)
+
+
+### Model Fairness
+#### Unmitigated Model
+With respect to model fairness, the figure below shows the gender-biased model performance in terms of R2 towards the female subgroup. This indicates that the model can predict the CLV for women clearly better than for men. 
+
+![R2_gender_biased](https://user-images.githubusercontent.com/21213464/162387921-a631a8f2-e605-4f48-ab32-078867b98fb9.png)
+
+To mitigate this effect, several models were trained to find the best trade-off between model performance and model fairness, as depicted below.
+
+![model_fairness](https://user-images.githubusercontent.com/21213464/162388089-5449eebe-1ca1-4291-a78d-c9b43035491e.png)
+
+As we can the, the average model performance of the unmitigated model was between r2=0.65 and r2=0.66 while the r2 group difference was between 0.08-0.10. However, to mitigate model unfairness, we could e.g. choose "model_mitigated #4" in order to clearly reduce the r2 group differnce to the range between 0.06-0.08 while preserving a strong model performance of r2 between r2=0.64 and r2=0.65.
 
