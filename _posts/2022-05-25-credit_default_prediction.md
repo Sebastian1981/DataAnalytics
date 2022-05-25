@@ -10,14 +10,12 @@ The purpose of this AI project is to predict the risk that individuals will defa
 ## Exploratory Data Analysis
 The distribution of the target variable shows a class imbalance having around 20% loan repayment defaulters. This class imbalance was considered for modeling in order to achieve optimal model performances.
 
-![target distribution](/images/credit_default_prediction/target_distribution.png)
+![target distribution](https://user-images.githubusercontent.com/21213464/170312869-be3712e4-0522-4641-9ec1-b149c1e648a9.png)
 
 The web application let´s you easily select particular features to be displayed in terms of their distriutions, as shown below. For example, from the boxplots for the income variable can be seen that the risk for credit default is higher for lower incomes, as can be expected.
 
-![numeric feature distribution](/images/credit_default_prediction/numeric_feature_distribution.PNG)
+![numeric feature distribution](https://user-images.githubusercontent.com/21213464/170312707-02a6986f-e6b3-408e-bc29-6e0b84b72129.png)
 
 The figure below shows the credit default distribution stratified by gender.
 
-![categorical feature distribution](/images/credit_default_prediction/categorical_feature_distribution.PNG)
-
-![grafik](https://user-images.githubusercontent.com/21213464/170311669-7368066f-070a-40c9-be33-21f3e2a25fdb.png)
+![categorical feature distribution](https://user-images.githubusercontent.com/21213464/170311669-7368066f-070a-40c9-be33-21f3e2a25fdb.png)
