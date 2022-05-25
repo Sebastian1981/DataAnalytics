@@ -20,3 +20,4 @@ The figure below shows the credit default distribution stratified by gender.
 
 ![categorical feature distribution](/images/credit_default_prediction/categorical_feature_distribution.PNG)
 
+![grafik](https://user-images.githubusercontent.com/21213464/170311669-7368066f-070a-40c9-be33-21f3e2a25fdb.png)
