@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Publications
 ---
 ![screenshot](publications/publications.jpg)
