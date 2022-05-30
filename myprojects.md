@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sample Projects"
+title: "Personal Fun-Projects"
 ---
 
 {% if site.show_excerpts %}
