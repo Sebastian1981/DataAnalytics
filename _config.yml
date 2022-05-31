@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: XING, icon: xing, url: "https://www.xing.com/profile/rernatSebastian_Domsch"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/dr-sebastian-domsch-342a3642"}
-  - {title: Utube, icon: YouTube, url: "https://github.com/Sebastian1981"}
+  #- {title: Utube, icon: YouTube, url: "https://github.com/Sebastian1981"}
   - {title: Github, icon: github, url: "https://github.com/Sebastian1981"}
   - {title: Researchgate, icon: Researchgate, url: "https://www.researchgate.net/profile/Sebastian-Domsch"}
   - {title: Mail, icon: envelope, url: "mailto:sebastian.domsch@googlemail.com"}
