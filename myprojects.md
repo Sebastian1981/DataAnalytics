@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Personal Interest Projects"
+title: "Github Projects"
 ---
 
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="Sample Projects" %}
+  {% include archive.html title="Sample of Personal Interest Projects" %}
 {% endif %}
