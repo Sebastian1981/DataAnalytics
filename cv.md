@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 ## Project & Professional Experience
 
-### **08/2019 – today | Research Consultant (freelance)** 
+**08/2019 – today | Research Consultant (freelance)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
 **Delft, Netherlands**
 - Advice on the use of machine learning models to improve patient comfort with MRI measurements
@@ -13,14 +13,14 @@ title: Curriculum Vitae
 - Support in preparing the research results for publication
 - Tools: Python, Jupyter Notebook, VSCode
 
-### **04/2022 – 06/2022 | Research Data Scientist (freelance)** 
+**04/2022 – 06/2022 | Research Data Scientist (freelance)**\
 **mediaire GmbH | Digital Innovation in Radiology**\
 **Berlin, Germany**
 - Development of machine learning solutions for the detection of cerebral structural changes based on MRT image data
 - Research and documentation of relevant research work
 - Tools: Python, Jupyter Notebook, Google Colab, VSCode, Gitlab
 
-### **09/2017 – 09/2021 | Data Scientist (permanent)** 
+**09/2017 – 09/2021 | Data Scientist (permanent)**\
 **COUNT+CARE GmbH | Subsidariary of ENTEGA AG | Department for New Solutions**\
 **Darmstadt, Germany**
 - Teaching of data science basics at management level within the framework of a group-wide data competence center
@@ -32,7 +32,7 @@ title: Curriculum Vitae
 - Technical supervision of a working student as part of an AI project
 - Tools: Python, R, SPSS, SQL, Git, Powerpoint
 
-### **06/2013 – 05/2017 | Research Group Leader | Postdoc (permanent)** 
+**06/2013 – 05/2017 | Research Group Leader | Postdoc (permanent)**\
 **Insitute of Computer Assisted Clinical Medicince | University Medicince Mannheim**\
 **Mannheim, Germany**
 - Technical supervisor of 2-4 students (doctoral, master's, bachelor's theses)
