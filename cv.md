@@ -33,7 +33,7 @@ title: Curriculum Vitae
 - Tools: Python, R, SPSS, SQL, Git, Powerpoint
 
 **06/2013 – 05/2017 | Research Group Leader | Postdoc (permanent)**\
-**Insitute of Computer Assisted Clinical Medicince | University Medicince Mannheim**\
+**Insitute of Computer Assisted Clinical Medicince | University Medicince Mannheim | Heidelberg University**\
 **Mannheim, Germany**
 - Technical supervisor of 2-4 students (doctoral, master's, bachelor's theses)
 - Obtaining third-party funds for the research project: "Quantification of tissue oxygenation and diffusion in the human brain using magnetic resonance imaging (MRI) for planning radiotherapy", funded with 63,000 € from 2015-2017 by the Junior Academy Medical Technology (German Research Foundation)
@@ -41,3 +41,13 @@ title: Curriculum Vitae
 - Lecturer for teaching physical principles within lectures and seminars in the fields of physics, medicine, medical physics and medical engineering
 - Publication of research results in national and international peer-reviewed journals and at research conferences
 - Reviewer for various international research journals for imaging methods
+
+
+## Education
+
+**10/2008 – 06/2013 | Preparation of a Doctoral Thesis (Grade: "Magna Cum Laude")**\
+**Insitute of Computer Assisted Clinical Medicince | University Medicince Mannheim | Heidelberg University**\
+**Mannheim, Germany**
+- Prototype development of fast MRI imaging sequences in C++ to robustly measure neural activity in the human brain; Working title: "Functional magnetic resonance imaging with high spatial and temporal resolution, using EPI combined with various k-space undersampling techniques at 3 Tesla"
+- Evaluation of complex fMRI studies in Matlab based on 3D-image data and time-series data
+- Publication of research results in national and international journals and at research conferences
