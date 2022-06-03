@@ -30,7 +30,7 @@ title: Curriculum Vitae
 - Support for data engineers in integrating machine learning models into a productive environment
 - Support in setting up a group-wide big-data platform
 - Technical supervision of a working student as part of an AI project
-- Tools: Python, R, SPSS, SQL, Git, Powerpoint
+- Tools: Python, R, SPSS, SQL, Git, Microsoft Powerpoint
 
 **06/2013 – 05/2017 | Research Group Leader | Postdoc (permanent / onsite)**\
 **Insitute of Computer Assisted Clinical Medicince | University Medicince Mannheim | Heidelberg University**\
@@ -61,7 +61,7 @@ title: Curriculum Vitae
 - Tasks: Prototype development of MR imaging sequences in C++ to measure neuronal activity in the human brain; Implementation of image/signal analysis methods in Matlab
 - Tools: Matlab, C++, Latex, Microsoft Powerpoint, Microsoft Excel
 
-**10/2001 – 06/2008 | Diploma in Physics (overall grade: *"good"*)**\
+**10/2001 – 06/2008 | Diploma in Physics**\
 **University of Heidelberg**\
 ***Heidelberg, Germany***
 - Majors: Experimental Physics, Theoretical Mechanics
@@ -80,10 +80,39 @@ title: Curriculum Vitae
 - Supervision of trainees (e.g. tutoring in mathematics and physics or playing chess)
 - Organization of sports events
 
-**09/1991 – 06/2000 | High-School (graduation grade: 2,6)**\
+**09/1991 – 06/2000 | High-School**\
 **Gymnasium Starnberg**\
 ***Starnberg, Germany***
 - Abitur examination subjects: mathematics (**grade: *“very good”***), physics
 (**grade: *"good"***), history (**grade: *"very good"***), English (**grade: *"satisfactory"***)
+
+
+## Qualifications
+
+**Expertise**
+- translation of business probems into data science use cases
+- exploratory data analysis and data visualization 
+- rapid model prototyping, model evaluation and communication of the results to a non-technical audience
+- monte carlo simulations & A/B testing 
+- pyhsics & (functional) magnetic resonance imaging 
+- image processing & signal processing 
+- KANBAN & teamwork
+
+**Programming**
+- Python (+++)
+- R (++) 
+- Matlab (+++)
+- SQL (+)
+
+**Tools**
+- VSCode (+++)
+- Jupyter (+++)
+- RStudio (++)
+- SPSS-Modeller (++)
+- Git (++)
+
+**Linguistic Proficiency**
+- German (mother tongue)
+- English (C1)
 
 
