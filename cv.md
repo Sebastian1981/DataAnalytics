@@ -141,30 +141,30 @@ title: Curriculum Vitae
 **2010 – 2013 | International Graduate Program *"Translational Neuroscience"* (120 ECTS) | Collaborative Research Center | German Research Foundation (SFB 636)**\
 ***Mannheim, Germany***
 - Attending lectures, seminars, workshops on the topic of "Learning, memory, and brain plasticity: Implications for psychopathology"
-- 01/2012 – 03/2012 | Research Internship | Clinic for Addictive Behavior and Addiction Medicine | Central Institute for Mental Health: Tasks: Optimization of MR-sequences to measure the orbitofrontal cortex and implementation of statistical evaluation methods to detect neuronal activation
+- 01/2012 – 03/2012, Research Internship, Clinic for Addictive Behavior and Addiction Medicine, Central Institute for Mental Health: Tasks: Optimization of MR-sequences to measure the orbitofrontal cortex and implementation of statistical evaluation methods to detect neuronal activation
 
 ## Conferences & Presentations
 
 ### Meetings on Machine Learning and Artificial Intelligence
-- 2021 | *Predictive Analytics World* (virtual visitor) | Berlin, Germany
-- 2020 | *Mind Mastering Machines* (visitor) | Mannheim, Germany
-- 2019 | *Predictive Analytics World* (visitor) | Berlin, Germany
+- 2021 - *Predictive Analytics World* (virtual visitor) | Berlin, Germany
+- 2020 - *Mind Mastering Machines* (visitor) | Mannheim, Germany
+- 2019 - *Predictive Analytics World* (visitor) | Berlin, Germany
 
 ### Meetings of the International Society for Magnetic Resonance in Medicine (*ISMRM*) and Biology (*ESMRMB*)
-- 2016 | *ESMRMB* (speaker & poster presenter) | Vienna, Austria
-- 2015 | *ESMRMB* (speaker & poster presenter) | Edinburgh, Scotland
-- 2015 | *ISMRM* (poster presenter) | Toronto, Canada
-- 2014 | *ISMRM* (poster presenter) | Milan, Italy
-- 2012 | *ISMRM* (poster presenter) | Melbourne, Australia
-- 2011 | *ISMRM* (poster presenter) | Montreal, Canada
-- 2010 | *ISMRM* (poster presenter) | Stockholm, Sweden
-- 2009 | *ESMRMB* (poster presenter) | Antalya, Turkey
-- 2007 | *ISMRM* (speaker & poster presenter) | Wuerzburg, Germany
+- 2016 - *ESMRMB* (speaker & poster presenter) | Vienna, Austria
+- 2015 - *ESMRMB* (speaker & poster presenter) | Edinburgh, Scotland
+- 2015 - *ISMRM* (poster presenter) | Toronto, Canada
+- 2014 - *ISMRM* (poster presenter) | Milan, Italy
+- 2012 - *ISMRM* (poster presenter) | Melbourne, Australia
+- 2011 - *ISMRM* (poster presenter) | Montreal, Canada
+- 2010 - *ISMRM* (poster presenter) | Stockholm, Sweden
+- 2009 - *ESMRMB* (poster presenter) | Antalya, Turkey
+- 2007 - *ISMRM* (speaker & poster presenter) | Wuerzburg, Germany
 
 
 ## Awards and Promotions
-- 2014 | Dissertation prize, awarded 10,000 € by the *Thomas Gessmann Foundation* for the engineering department
-- 2011-2012 | Doctoral scholarship, funded by the *Collaborative Research Center (SFB 636)* of the German Research Foundation
+- 2014 - Dissertation prize, awarded 10,000 € by the *Thomas Gessmann Foundation* for the engineering department
+- 2011/2012 - Doctoral scholarship, funded by the *Collaborative Research Center (SFB 636)* of the German Research Foundation
 
 ## Interests
 - Physics, Science, Artifical Intelligence 
