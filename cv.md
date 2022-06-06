@@ -77,14 +77,17 @@ title: Curriculum Vitae
 **08/1997 – 06/1998 | Exchange Student - Stay Abroad**\
 **South Cameron High-School**\
 ***Cameron - Louisiana, USA***
-- Supervision of trainees (e.g. tutoring in mathematics and physics or playing chess)
-- Organization of sports events
+- Qualfication & participation in the Louisiana state mathematics competition
+- Qualfication & participation in the Louisiana state championship in track & field
 
 **09/1991 – 06/2000 | High-School**\
 **Gymnasium Starnberg**\
 ***Starnberg, Germany***
-- Abitur examination subjects: mathematics (**grade: *“very good”***), physics
-(**grade: *"good"***), history (**grade: *"very good"***), English (**grade: *"satisfactory"***)
+- Abitur examination subjects: 
+- mathematics (**grade: *“very good”***) 
+- physics (**grade: *"good"***) 
+- history (**grade: *"very good"***) 
+- English (**grade: *"satisfactory"***)
 
 
 ## Qualifications
@@ -112,7 +115,19 @@ title: Curriculum Vitae
 - Git (++)
 
 **Linguistic Proficiency**
-- German (mother tongue)
+- German (C2, mother tongue)
 - English (C1)
 
+## Certified Additional Qualifications and Training
 
+**2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
+**Bitkom Academy Certificate Course | Steinbeis University Berlin**\
+***Berlin, Germany***
+- Modules: data science fields and applications, data management & data governance, data acquisition & data access, data science algorithms, visualization & communication of analytical results
+- Project working title: “Stockmarket Prediction Using Predictive Analytics”
+
+**2015 – 2016 | Certified Advanced Training Courses from the University of Heidelberg**\
+***Heidelberg, Germany***
+- Course: "Fundamentals of Business Administration" (5 ECTS)
+- Course: "Project Management" (2 ECTS)
+- Course: "Management Consulting & Management Consulting" (2 ECTS)
