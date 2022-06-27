@@ -27,8 +27,4 @@ I can help with the following challenges:
 - implementing and deploy Azure´s Cognitive Services such as text analytics and computer vision
 - hand over projects to the data science and data engineering team in form of clean, modularized and well documented code
 
-So if you think that I can help you and your company with my data science expertise, you are very welcome to contact me via Xing, LinkedIn or email to clarify the project details. 
-My favorite data science projects are characterized by a clear goal and a continuous and close coordination with all stake holders, including data scientists, data engineers and domain experts from the department.
-
-- Hourly rate before tax: €90
-- Availability: Monday-Thursday (preferably remote)
+I would be happy to support you and your company with my data science expertise. You are very welcome to contact me via Xing, LinkedIn or email to clarify the project details. My favorite data science projects are characterized by a clear goal and a continuous and close colaboration with all stake holders, including data scientists, data engineers and domain experts. My hourly rate before tax is €90 and I am available from Monday-Thursday (preferably remote).
