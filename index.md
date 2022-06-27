@@ -26,4 +26,5 @@ I can help with the following challenges:
 - implementing a monitoring service in Azure Machine Learning Studio to track model performance and data-drifts over time
 - hand over projects to the data science and data engineering team in form of clean, modularized and well documented code
 
-So if you think that I can help you and your company with my data science expertise, you are very welcome to contact me via Xing, LinkedIn or email to clarify the project details. My favorite data science projects are characterized by the fact that there is continuous and close coordination with all stakeholders, the project team consists of at least data scientists, data engineers and domain experts and there is a clear definition of the project´s goals. My pre-tax hourly rate is 85€ and I work remotely most of the time.
+So if you think that I can help you and your company with my data science expertise, you are very welcome to contact me via Xing, LinkedIn or email to clarify the project details. 
+My favorite data science projects are characterized by a clear goal and a continuous and close coordination with all stake holders, including data scientists, data engineers and domain experts from the department. My hourly rate before tax is €90 and I work remotely most of the time.
