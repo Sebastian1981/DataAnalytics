@@ -21,8 +21,8 @@ As a passionate and experienced freelance data scientist, I would be happy to wo
 I can help with the following challenges:
 - translating business-specific questions of the specialist department into well defined data science use cases
 - performing proof-of-concept (POC) studies inside and outside of Azure Machine Learning Studio as efficiently and quickly as possible including the following steps: exploratory data analysis, feature engineering, model training and evaluation, model tuning and model selection
-- presenting key-findings of the POC study in a clear and understandable way to both technical and non-technical audiences 
-- model deployment in Microsoft Azure as a real-time and scalable web service
+- presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
+- model deployment in Microsoft Azure Machine Learning Studio as a real-time and scalable web service
 - implementing a monitoring service in Azure Machine Learning Studio to track model performance and data-drifts over time
 - hand over projects to the data science and data engineering team in form of clean, modularized and well documented code
 
