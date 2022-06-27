@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Mission - Development of Explainable State-of-the Art Machine-Learning Models with Focus on Solving both Customer Analytics and Time Series Forecasting Challenges
+title: Offering - Designing and Implementing Explainable and Fair Data Science Solutions in Microsoft Azure Cloud with Special Focus on Customer Analytics and Time Series Forecasting
 ---
 ![screenshot](images/artificial_intelligence.png)
 
@@ -12,7 +12,7 @@ My core competencies are to support specialist departments in translating busine
 
 According to my previous academic and industry experience in the field of machine learning and artificial intelligence, my main competencies lie in the areas of time series analysis and customer analytics. Time series analyzes includes, for example, use cases such as demand or load forecasts, machine failure forecasts (predictive maintenance) or anomaly detection. Customer analytics includes use cases such as churn prediction, customer-lifetime-value prediction, customer segmentation or in a wider sense health-risk models and many more. Moreover, due to my personal interest in financial data analysis, I can develop e.g. credit default models, stock models or apply capital asset prizing models for portfolio optimization.
 
-Independent of the use case, my focus is on the development of  transparent and explainable machine learning models. Often times, complex state-of-the art machine learning models are highly performant but at the same time lack transparency (so called "black-box" models). The experience in this field shows that black-box models are rarely used on a daily basis to support the business due to mistrust of the end-users. My personal goal and passion is about developing highly performant but also explainable AI-models to solve real-world data analytics challenges.
+My focus is on the development of  transparent and explainable machine learning models. Often times, complex state-of-the art machine learning models are highly performant but at the same time lack transparency (so called "black-box" models). The experience in this field shows that black-box models are rarely used on a daily basis to support the business due to mistrust of the end-users. My personal goal and passion is about developing highly performant but also explainable AI-models to solve real-world data analytics challenges.
 
 ## My Offer to Support Your Business
 As a passionate and experienced freelance data scientist, I would be happy to work along your side on state-of-the art customer analytics or time-series analysis projects to solve your business challenges by leveraging the power data combined with machine learning and artificial intelligence.
