@@ -24,6 +24,7 @@ I can help with the following challenges:
 - presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
 - model deployment in Microsoft Azure Machine Learning Studio as a real-time and scalable web service
 - implementing a monitoring service in Azure Machine Learning Studio to track model performance and data-drifts over time
+- implementing and deploy Azure´s Cognitive Services such as text analytics and computer vision
 - hand over projects to the data science and data engineering team in form of clean, modularized and well documented code
 
 So if you think that I can help you and your company with my data science expertise, you are very welcome to contact me via Xing, LinkedIn or email to clarify the project details. 
