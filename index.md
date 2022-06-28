@@ -6,7 +6,7 @@ title: Designing and Implementing Responsible Data Science Solutions in Microsof
 
 
 ## My Personal Background
-I am passionate Data Scientist and former researcher with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging. After academie, I gained a wide range of experience in the renewable energy industry in the role of a data scientist implementing machine learning models and consulting various departments for the development of data-driven solutions.
+I am passionate Data Scientist and former researcher with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging. After academia, I gained a wide range of experience in the renewable energy industry in the role of a data scientist implementing machine learning models and consulting various departments for the development of data-driven solutions.
 
 My favourite quote:
 *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
