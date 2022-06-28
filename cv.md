@@ -99,20 +99,24 @@ title: Curriculum Vitae
 - monte carlo simulations & A/B testing 
 - pyhsics & (functional) magnetic resonance imaging 
 - image processing & signal processing 
-- KANBAN & teamwork
+- agile working (e.g. KANBAN) & teamwrok
 
 **Programming**
 - Python (+++)
-- R (++) 
 - Matlab (+++)
+- R (++) 
 - SQL (+)
 
 **Tools**
 - VSCode (+++)
 - Jupyter (+++)
+- Google Colab (+++)
+- Azure Machine Learning SDK (+++)
+- Azure Cognitive Services API (++)
+- Amazon Sagemaker Studio (++)
 - RStudio (++)
 - SPSS-Modeller (++)
-- Git (++)
+- Git (+)
 
 **Linguistic Proficiency**
 - German (C2, mother tongue)
@@ -131,12 +135,6 @@ title: Curriculum Vitae
 - Course: "Fundamentals of Business Administration" (5 ECTS)
 - Course: "Project Management" (2 ECTS)
 - Course: "Management Consulting" (2 ECTS)
-
-**2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
-**Bitkom Academy Certificate Course | Steinbeis University Berlin**\
-***Berlin, Germany***
-- Modules: data science fields and applications, data management & data governance, data acquisition & data access, data science algorithms, visualization & communication of analytical results
-- Project working title: “Stockmarket Prediction Using Predictive Analytics”
 
 **2010 – 2013 | International Graduate Program *"Translational Neuroscience"* (120 ECTS) | Collaborative Research Center | German Research Foundation (SFB 636)**\
 ***Mannheim, Germany***
