@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Designing and Implementing Responsible Data Science Solutions in Microsoft Azure with Special Focus on Customer Analytics and Time Series Forecasting
+title: Cloud Data Scientist - Designing and Implementing Responsible Data Science Solutions in Microsoft Azure
 ---
 ![screenshot](images/artificial_intelligence.png)
 
