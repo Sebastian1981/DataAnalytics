@@ -27,6 +27,6 @@ As a data scientist (not to be confused with a machine learning engineer), I can
 - presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
 - model deployment as a real-time and scalable web service in Microsoft Azure Machine Learning Studio
 - implementing Azure services to monitor the model´s performance and data-drifts 
-- hand over projects to the data science and data engineering team in form of clean, modularized and well documented code
+- hand over projects to the machine learning engineers in form of clean, modularized and well documented code
 
 You are very welcome to contact me via Xing, LinkedIn or email to clarify the project details. My favorite data science projects are characterized by a clear goal, lots of available data and a continuous and close colaboration with all stake holders including data scientists, data engineers, machine learning engineers and domain experts. Moreover, clear role definitions of the data scientist, machine learning engineers (e.g. MLOps) and data engineers is crucial. The basis for negotiation for my hourly rate is 90€ (before taxes). I am available for your project from Monday to Thursday, preferably remote.
