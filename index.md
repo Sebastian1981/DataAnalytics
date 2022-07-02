@@ -23,7 +23,7 @@ As an experienced data scientist, I would be happy to work along your side on st
 
 As a data scientist (not to be confused with a machine learning engineer), I can help with the following challenges:
 - translating business-specific questions of the specialist department into well defined data science use cases
-- developing explainable and fair machine learning models within proof-of-concept (POC) studies inside and outside of Azure Machine Learning Studio as efficiently and quickly as possible including the following steps: exploratory data analysis, (automated) feature engineering, model training and evaluation, model tuning and selection or automated machine learning (auto-ml)
+- developing explainable and fair machine learning models within proof-of-concept (POC) studies inside and outside of Azure Machine Learning Studio as efficiently and quickly as possible including the following steps: exploratory data analysis, (automated) feature engineering and selection, model training and evaluation, model tuning and selection or automated machine learning (auto-ml)
 - presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
 - model deployment as a real-time and scalable web service in Microsoft Azure Machine Learning Studio
 - implementing Azure services to monitor the model´s performance and data-drifts 
