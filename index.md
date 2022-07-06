@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Scientist | Azure Machine Learning Developer - Specialized on Designing and Implementing Explainable and Fair Data Science Solutions in Microsoft Azure for Personal Data and Time Series Data
+title: Data Scientist - Specialized on Designing and Implementing Explainable and Fair Data Science Solutions in Microsoft Azure
 ---
 ![screenshot](images/artificial_intelligence.png)
 
