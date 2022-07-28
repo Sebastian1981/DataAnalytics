@@ -62,10 +62,10 @@ title: Research Publications
 
 - J. Zapp, **S. Domsch** and L. Schad. „T2' Relaxometry of the Human Lung at 1.5 and 3 Tesla."; Proc. Int. Soc. Magn. Reson. Med., Toronto, Canada, 23, p.1464 (2015)
 
-- J. Chacón-Caldera, P. Krämer, **S. Domsch**, S. Geraci, N. Gretz and L. Schad. „Imaging Glomeruli in a Clinical MRI System at 3 T."; Proc. Intl. Soc. Mag. Reson. Med., Milano, Italy, 22, p.2200 (2014)
-
 ### 2014
 - **S. Domsch**, F. Wenz and L. Schad. „Multi-Parametric QBOLD Approach for Robust Oxygen Extraction Fraction Quantification in Clinical Use."; Proc. Intl. Soc. Mag. Reson. Med., Milano, Italy, 22, p.2079 (2014)
+
+- J. Chacón-Caldera, P. Krämer, **S. Domsch**, S. Geraci, N. Gretz and L. Schad. „Imaging Glomeruli in a Clinical MRI System at 3 T."; Proc. Intl. Soc. Mag. Reson. Med., Milano, Italy, 22, p.2200 (2014)
 
 ### 2012
 - **S. Domsch**, A. Lemke, S. Weingärtner and L. Schad. „A Novel Temporal Filtering Strategy for Functional MRI Using UNFOLD."; Proc. Intl. Soc. Mag. Reson. Med., Melbourne, Australia, 20, p.854 (2012)
