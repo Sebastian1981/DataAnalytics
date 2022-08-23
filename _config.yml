@@ -14,9 +14,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu xxx
-
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "CV", sidebaricon: home}
+  - {file: "projects.md", title: "Projects", sidebaricon: home}
   - {file: "publications.md", title: "Publications", sidebaricon: home}
   - {file: "myblog.md", title: "Blog"}
  
