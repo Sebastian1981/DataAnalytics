@@ -7,16 +7,10 @@ In the field of data science and artificial intelligence, it is often usefull to
 
 ## Industry Projects
 
-| Use Case | Type | Goal | my Role | Skills | Tools |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Disease Detection | classification challenge | detect brain diseases | I developed an explainable classification machine learning model based on MRI volumetry datasets. This also included data preparation and data visualization. In addition, I researched and documented relevant publications in this context. Finally, I handed over the proof-of-concept project in a well-developed and documented state to the developers. | Title | Title |
-| Header | Regression | Titleffffffffffffffffffffffffffffff fffffffffffffffffffff fffffffffffffffffff ffffffffffff ffffffffffffffffffffff fffffffffffffffffffffffffff | Title | Title | Title |
-| Paragraph | Clustering | Text | Text | Title | Title |
-| Paragraph | Image Analysis | Text | Text | Title | Title |
-| Paragraph | Natural Language Processing | Text | Text | Title | Title |
-
-
-
+| Use Case | Project Type | Project Goal | my Role | Skills & Tools |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| **Disease Detection** ![brain_volumetry](images/projects/brain_volumetry.png)| **Classification Challenge (*supervised learning*)** | **Identification of Pathological Cerebral Changes** | *I developed an explainable classification machine learning model providing disease propensity scores based on MRI volumetry datasets. The proof-of-concept study also included data preparation, data visualization and model performance evaluation and optimization. In addition, I researched and documented relevant publications in this context. Finally, I handed over the project repository in a well-developed and documented state to the machine learning engieering team.* | Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (Shapley Values), Python, Jupter Notebook, Google-Colab, VSCode, Gitlab |
+| **Disease Detection** ![brain_volumetry](images/projects/brain_volumetry.png)| **Classification Challenge (*supervised learning*)** | **Identification of Pathological Cerebral Changes** | *I developed an explainable classification machine learning model providing disease propensity scores based on MRI volumetry datasets. The proof-of-concept study also included data preparation, data visualization and model performance evaluation and optimization. In addition, I researched and documented relevant publications in this context. Finally, I handed over the project repository in a well-developed and documented state to the machine learning engieering team.* | Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (Shapley Values), Python, Jupter Notebook, Google-Colab, VSCode, Gitlab |
 
 
 
