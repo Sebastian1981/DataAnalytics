@@ -3,11 +3,20 @@ layout: page
 title: Project Experience
 ---
 
-In the field of data science and artificial intelligence, most projects can be classified into the three major categories of regression, classification and segmentation. Furthermore, in the following I differentiate between the projects according to the contexts of industry, research and hobby.
-
-
+In the field of data science and artificial intelligence, it is often usefull to classify projects into the three major categories of regression, classification and segmentation. Furthermore, in the following the projects will be differentiated according to the environment in which they were conducted such as industry projects, research projects or personal interest projects.
 
 ## Industry Projects
+
+| Regression Problem | Goal | My Role | Skills | Tools |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Header | Title | Title | Title | Title |
+| Paragraph | Text | Text | Text | Title |
+
+
+
+
+
+
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
