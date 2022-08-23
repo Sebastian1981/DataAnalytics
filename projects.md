@@ -3,14 +3,17 @@ layout: page
 title: Project Experience
 ---
 
-In the field of data science and artificial intelligence, it is often usefull to classify projects into the three major categories of regression, classification and segmentation. Furthermore, in the following the projects will be differentiated according to the environment in which they were conducted such as industry projects, research projects or personal interest projects.
+In the field of data science and artificial intelligence, it is often usefull to classify projects into the five major technical categories of regression, classification, clustering, image analysis and natural language processing. Furthermore, in the following the projects will be differentiated according to the environment in which they were conducted such as industry projects, research projects or personal interest projects.
 
 ## Industry Projects
 
-| Regression Problem | Goal | My Role | Skills | Tools |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header | Title | Title | Title | Title |
-| Paragraph | Text | Text | Text | Title |
+| Use Case | Type | Goal | my Role | Skills | Tools |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Disease Detection | classification challenge | detect brain diseases | I developed an explainable classification machine learning model based on MRI volumetry datasets. This also included data preparation and data visualization. In addition, I researched and documented relevant publications in this context. Finally, I handed over the proof-of-concept project in a well-developed and documented state to the developers. | Title | Title |
+| Header | Regression | Titleffffffffffffffffffffffffffffff fffffffffffffffffffff fffffffffffffffffff ffffffffffff ffffffffffffffffffffff fffffffffffffffffffffffffff | Title | Title | Title |
+| Paragraph | Clustering | Text | Text | Title | Title |
+| Paragraph | Image Analysis | Text | Text | Title | Title |
+| Paragraph | Natural Language Processing | Text | Text | Title | Title |
 
 
 
