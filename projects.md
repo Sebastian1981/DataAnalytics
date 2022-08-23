@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Project Overview
 ---
 
-## Project & Professional Experience
+## Industry Projects
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
@@ -44,7 +44,7 @@ title: Curriculum Vitae
 - Tools: Matlab, Microsoft Powerpoint, Microsoft Excel
 
 
-## Education
+## Research Projects
 
 **10/2008 – 06/2013 | Preparation of a Doctoral Thesis (grade: *"magna cum laude"*)**\
 **Insitute of Computer Assisted Clinical Medicince | University Medicince Mannheim | Heidelberg University**\
@@ -68,104 +68,12 @@ title: Curriculum Vitae
 - Minors: Mathematics, Computer Science
 - Electives: Medical Physics
 
-**10/2000 – 07/2001 | Civil Service**\
-**Salesianum: Sponsorship of the Salesians of Don Bosco**\
-***Munich, Germany***
-- Supervision of trainees (e.g. tutoring in mathematics and physics or playing chess)
-- Organization of sports events
 
-**08/1997 – 06/1998 | Exchange Student - Stay Abroad**\
-**South Cameron High-School**\
-***Cameron - Louisiana, USA***
-- Qualfication & participation in the Louisiana state mathematics competition
-- Qualfication & participation in the Louisiana state championship in track & field
+## Personal Interest Projects
 
-**09/1991 – 06/2000 | High-School**\
-**Gymnasium Starnberg**\
-***Starnberg, Germany***
-- Abitur examination subjects: 
-- mathematics (**grade: *“very good”***) 
-- physics (**grade: *"good"***) 
-- history (**grade: *"very good"***) 
-- English (**grade: *"satisfactory"***)
-
-
-## Expertise & Tools
-
-**Expertise**
-- translation of business probems into data science use cases
-- exploratory data analysis and data visualization 
-- rapid model prototyping, model evaluation and communication of the results to a non-technical audience
-- monte carlo simulations & A/B testing 
-- pyhsics & (functional) magnetic resonance imaging 
-- image processing & signal processing 
-- agile working (e.g. KANBAN) & teamwrok
-
-**Programming**
-- Python (+++)
-- Matlab (+++)
-- R (++) 
-- SQL (+)
-
-**Tools**
-- VSCode (+++)
-- Jupyter (+++)
-- Google Colab (+++)
-- Azure Machine Learning SDK (+++)
-- Azure Cognitive Services API (++)
-- Amazon Sagemaker Studio (++)
-- RStudio (++)
-- SPSS-Modeller (++)
-- Git (+)
-
-**Linguistic Proficiency**
-- German (C2, mother tongue)
-- English (C1)
-
-## Certified Qualifications
-
-**2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
-**Bitkom Academy Certificate Course | Steinbeis University Berlin**\
-***Berlin, Germany***
-- Modules: data science fields and applications, data management & data governance, data acquisition & data access, data science algorithms, visualization & communication of analytical results
-- Project working title: “Stockmarket Prediction Using Predictive Analytics”
-
-**2015 – 2016 | Certified Advanced Training Courses from the University of Heidelberg**\
+**10/2001 – 06/2008 | Diploma in Physics**\
+**University of Heidelberg**\
 ***Heidelberg, Germany***
-- Course: "Fundamentals of Business Administration" (5 ECTS)
-- Course: "Project Management" (2 ECTS)
-- Course: "Management Consulting" (2 ECTS)
-
-**2010 – 2013 | International Graduate Program *"Translational Neuroscience"* (120 ECTS) | Collaborative Research Center | German Research Foundation (SFB 636)**\
-***Mannheim, Germany***
-- Attending lectures, seminars, workshops on the topic of "Learning, memory, and brain plasticity: Implications for psychopathology"
-- 01/2012 – 03/2012, Research Internship, Clinic for Addictive Behavior and Addiction Medicine, Central Institute for Mental Health: Tasks: Optimization of MR-sequences to measure the orbitofrontal cortex and implementation of statistical evaluation methods to detect neuronal activation
-
-## Conferences & Presentations
-
-### Meetings on Machine Learning and Artificial Intelligence
-- 2021 - *Predictive Analytics World* (virtual visitor) - Berlin, Germany
-- 2020 - *Mind Mastering Machines* (visitor) - Mannheim, Germany
-- 2019 - *Predictive Analytics World* (visitor) - Berlin, Germany
-
-### Meetings of the International Society for Magnetic Resonance in Medicine (*ISMRM*) and Biology (*ESMRMB*)
-- 2016 - *ESMRMB* (speaker & poster presenter) - Vienna, Austria
-- 2015 - *ESMRMB* (speaker & poster presenter) - Edinburgh, Scotland
-- 2015 - *ISMRM* (poster presenter) - Toronto, Canada
-- 2014 - *ISMRM* (poster presenter) - Milan, Italy
-- 2012 - *ISMRM* (poster presenter) - Melbourne, Australia
-- 2011 - *ISMRM* (poster presenter) - Montreal, Canada
-- 2010 - *ISMRM* (poster presenter) - Stockholm, Sweden
-- 2009 - *ESMRMB* (poster presenter) - Antalya, Turkey
-- 2007 - *ISMRM* (speaker & poster presenter) - Wuerzburg, Germany
-
-
-## Awards and Promotions
-- 2014 - Dissertation prize, awarded 10,000 € by the *Thomas Gessmann Foundation* for the engineering department
-- 2011/2012 - Doctoral scholarship, funded by the *Collaborative Research Center (SFB 636)* of the German Research Foundation
-
-## Interests
-- Physics, Science, Artifical Intelligence 
-- Hiking, fitness, model plane aerobatics, skiing, windsurfing
-- Athletics (greatest successes: 2003, German university champion (4x400m relay); 2002, Baden vice champion (400m); 2000/2001, Bavarian junior champion (400m/800m)
-- Memberships: German Physical Society, SOS Children's Village
+- Majors: Experimental Physics, Theoretical Mechanics
+- Minors: Mathematics, Computer Science
+- Electives: Medical Physics
