@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Project Experience
+title: Data Science Project Experience
 ---
 
-In the following, I provide an overview of the relevant data science projects I conducted throughout the years. They will be subdivided into three major categories such as industry related projects, research related projects or personal interest projects.
+In the following, I provide an overview of the relevant data science projects I conducted throughout the years. They will be subdivided into the categories "industry-related projects" and "personal-interest projects". In case you are interested any of the scientific projects I have been involved, please check out my scientific publications.
 ## **Industry-Related Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
@@ -18,11 +18,11 @@ In the following, I provide an overview of the relevant data science projects I 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | **Data Deduplication Model** ![entity_res](images/projects/entity_res.png)| *Show feasibility to remove duplicate names and addresses from large datasets applying machine learning* | *I developed a classification-clustering mixture model (semi-supervised active machine learning) to detect and remove duplicates of names and addresses based on labeled tabular datasets. I further prepared the data, visualized the data and evaluated and optimized the model performance. I also supported the specialist department in an advisory capacity in evaluating the benefit of the model in the event of potential productive use. I also supported the data engineering and software development team with the deployment of the model.* | Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, dedupe), Jupter Notebook, VSCode, git |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| **Customer Value Model** ![customer_value](images/projects/customer_value.png)| *Improve Customer Value Model & Deployment* | *I consulted the specialist department on how to improve the existing customer value model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | Consulting on Machine Learning, SPSS Modeler |
+| **Customer Value Model** ![customer_value](images/projects/customer_value.png)| *Improve customer value model & deployment* | *I consulted the specialist department on how to improve the existing customer value model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | Consulting on Machine Learning, SPSS Modeler |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| **Customer Churn Model** ![churn](images/projects/churn.png)| *Improve Customer Churn Model & Deployment* | *I consulted the specialist department on how to improve the existing customer churn model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | Consulting on Machine Learning, SPSS Modeler |
+| **Customer Churn Model** ![churn](images/projects/churn.png)| *Improve customer churn model & deployment* | *I consulted the specialist department on how to improve the existing customer churn model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | Consulting on Machine Learning, SPSS Modeler |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| **Customer Segmentation Model** ![customer_segmentation](images/projects/customer_segmentation.png)| *Improve Customer Segmentation Model & Deployment* | *I improved the performance of an existing customers segmentation model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | Consulting on Machine Learning, SPSS Modeler |
+| **Customer Segmentation Model** ![customer_segmentation](images/projects/customer_segmentation.png)| *Improve customer segmentation model & deployment* | *I improved the performance of an existing customers segmentation model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | Consulting on Machine Learning, SPSS Modeler |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | **Deal Completion Rate Optimization** ![abschlussquoten_optimierung](images/projects/abschlussquoten_optimierung.png)| *Show feasibility to maximize the likelihood of business deal-completion with machine learning* | *I developed a classification model (supervised machine learning) providing the propensity scores of business deals based on labeled tabular datasets. I further prepared the data, visualized the data and evaluated and optimized the model performance. I also supported the specialist department in an advisory capacity in evaluating the benefit of the model in the event of potential productive use.* | Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn), Jupter Notebook |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
@@ -30,9 +30,5 @@ In the following, I provide an overview of the relevant data science projects I 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | **Electricity Price Forecast Model** ![price](images/projects/price.png)| *Show feasibility to predict daily electricity market prices with machine learning* | *I developed a regression model (supervised machine learning) to estimate the electricity market price for the next day based on historical time-series data. I further prepared the data, visualized the data and evaluated and optimized the model performance. I also supported the specialist department in an advisory capacity in evaluating the benefit of the model in the event of potential productive use.* | Machine Learning, Deep-Learning (RNN model), Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupter Notebook, VSCode |
 
-## Research Projects
-
-
-
-## Personal Interest Projects
+## **Personal-Interest Projects:**
 

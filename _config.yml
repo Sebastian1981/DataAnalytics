@@ -1,4 +1,4 @@
-title: "Dr. Sebastian Domsch - Physicist, Data Scientist & Research Enthusiast"
+title: "Dr. Sebastian Domsch - Physicist & Data Scientist"
 author: "Dr. Sebastian Domsch"
 description: "Contact me to turn your data into rocket fuel!"
 permalink: /:title/
@@ -15,9 +15,9 @@ minimal: false             # use a dark header
 
 # Menu xxx
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.md", title: "CV", sidebaricon: home}
-  - {file: "projects.md", title: "Projects", sidebaricon: home}
-  - {file: "publications.md", title: "Publications", sidebaricon: home}
+  - {file: "cv.md", title: "Curriculume Vitae", sidebaricon: home}
+  - {file: "projects.md", title: "Data Science Projects", sidebaricon: home}
+  - {file: "publications.md", title: "Scientific Publications", sidebaricon: home}
   - {file: "myblog.md", title: "Blog"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Publications
+title: Scientific Publications
 ---
 
 
