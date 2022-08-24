@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Scientist with Special Focus on Developing Performant and also Explainable state-of-the Art Machine-Learning Models to Solve Real-World Business Problems
+title: Data Scientist with Special Focus on Developing Performant and also Explainable state-of-the-art Machine-Learning Models to Solve Real-World Business Problems
 ---
 ![screenshot](images/artificial_intelligence.png)
 
