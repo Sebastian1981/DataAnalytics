@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Scientist - Specialized on Designing and Implementing Explainable and Fair Data Science Solutions in Microsoft Azure
+title: Data Scientist with special focus on developing highly explainable and performant state-of-the art machine learning models
 ---
 ![screenshot](images/artificial_intelligence.png)
 
@@ -17,7 +17,7 @@ According to my academic and industry experience in the field of machine learnin
 
 With respect to specific data science use cases, i gained profound knowledge in time series analyses and forecasting and customer analytics. Time series use cases include e.g. demand or load forecasts, machine failure forecasts (predictive maintenance) or anomaly detection. Customer analytics use cases deal primarily with personal data and include e.g. churn prediction, customer-lifetime-value prediction, customer segmentation or in a wider sense health-risk models and many more.
 ## My Offer
-As an experienced data scientist, I would be happy to work along your side on interesting Data Science projects to support your business with the following challenges:
+As an experienced data scientist, I would be happy to work along your side on interesting data science projects to support your business with the following challenges:
 
 - translating business-specific questions of the specialist department into well defined data science use cases
 - developing highly explainable machine learning models within proof-of-concept (POC) studies as efficiently and quickly as possible including exploratory data analysis, (automated) feature engineering and selection, model training and evaluation, model tuning and selection or automated machine learning (auto-ml)
