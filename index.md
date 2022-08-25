@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Scientist with Special Focus on Developing Explainable Machine-Learning Models to Solve Real-World Business Problems
+title: Data Scientist - Expert for Explainable AI
 ---
 ![screenshot](images/artificial_intelligence.png)
 
