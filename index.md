@@ -15,14 +15,12 @@ My mission is designing and implementing data science solutions to solve real-wo
 ## My Expertise
 According to my academic and industry experience in the field of machine learning and artificial intelligence, my main expertises are firstly, translating business-specific questions of the specialist department into well defined data science use cases. Secondly, performing proof-of-concept (POC) studies as efficiently and quickly as possible including the following steps: exploratory data analysis, (automated) feature engineering, model training and evaluation, model tuning and selection or automated machine learning (auto-ml). Last but not least, presenting and communicating the key analytical findings in a clear and understandable way to both technical and non-technical audiences.
 
-With respect to specific data science use cases, i gained profound knowledge in time series analyses and forecasting and customer analytics. Time series use cases include e.g. demand or load forecasts, machine failure forecasts (predictive maintenance) or anomaly detection. Customer analytics use cases deal primarily with personal data and include e.g. churn prediction, customer-lifetime-value prediction, customer segmentation or in a wider sense health-risk models and many more.
+With respect to specific data science use cases, i gained profound knowledge in time series analyses and forecasting and customer analytics. Time series use cases include e.g. demand or load forecasts or machine failure forecasts (predictive maintenance). Customer analytics use cases deal primarily with personal data and include e.g. churn prediction, customer-lifetime-value prediction, customer segmentation or in a wider sense health-risk models and many more. Under the "Projects" tab, you'll find an overview of the data science projects I have been working on. 
 ## My Offer
-As an experienced data scientist, I would be happy to work along your side on interesting data science projects to support your business with the following challenges:
+I would be happy to work along your side on interesting data science projects to support your business with the following challenges:
 
 - translating business-specific questions of the specialist department into well defined data science use cases
 - developing highly explainable machine learning models within proof-of-concept (POC) studies as efficiently and quickly as possible including exploratory data analysis, (automated) feature engineering and selection, model training and evaluation, model tuning and selection or automated machine learning (auto-ml)
 - presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
 - hand over projects to the machine learning engineers in form of clean, modularized and well documented code
 - support the development team in deploying the model in a productive environment
-
-You are very welcome to contact me via Xing, LinkedIn or email to discuss your project requirements.
