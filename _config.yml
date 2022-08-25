@@ -1,6 +1,6 @@
 title: "Dr. Sebastian Domsch - Physicist & Data Scientist"
 author: "Dr. Sebastian Domsch"
-description: "Contact me to\ turn your data into rocket fuel!"
+description: "Contact me to turn your data into rocket fuel!"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title: "Data Science Projects", sidebaricon: home}
   - {file: "publications.md", title: "Scientific Publications", sidebaricon: home}
   - {file: "myblog.md", title: "Blog Posts"}
+  - {file: "contact.md", title: "Contact"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: XING, icon: xing, url: "https://www.xing.com/profile/rernatSebastian_Domsch"}
