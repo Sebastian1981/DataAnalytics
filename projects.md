@@ -3,7 +3,7 @@ layout: page
 title: Data Science Project Experience
 ---
 
-In the following, I provide an overview of the relevant data science projects I conducted throughout the years. They will be subdivided into the projects I carried out as a data science professional and those I carried out due to my personal interests. Any machine learning or deep learning projects I conducted as a researcher in academia are not listed here focusing on projects more relevant to industry related topics.
+In the following, I provide an overview of the relevant data science projects I conducted throughout the years. They will be subdivided into the projects I carried out as a data science professional and those I carried out due to my personal interests. Any machine learning or deep learning projects I conducted as a researcher in academia are not listed here focusing on projects with high relevant to industry related topics.
 
 ## **Projects as a Data Science Professional:**
 
