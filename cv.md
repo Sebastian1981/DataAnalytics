@@ -12,14 +12,14 @@ title: Curriculum Vitae
 patient comfort in MRI with machine-learning based acoustic noise canceling
 2.) Detection of neuro-electro-magnetic oscillations for direct functional MRI
 - occasional support & advice on publication preparations
-- Tools: MITK-Workbench, Python, Jupyter, VSCode
+- Tools: Python, Jupyter, VSCode, MITK-Workbench 
 
 **04/2022 – 06/2022 | Research Data Scientist (freelance / remote)**\
-**mediaire GmbH | Digital Innovation in Radiology**\
+**mediaire GmbH (digital StartUp of the year 2021) | Digital Innovation in Radiology**\
 ***Berlin, Germany***
 - Development of machine learning solutions for the detection of cerebral structural changes based on MRT image data
-- Research and documentation of relevant research work
-- Tools: Python, Jupyter Notebook, Google Colab, VSCode, Gitlab
+- documentation of relevant scientific publications
+- Tools: Python, Jupyter, Google-Colab, VSCode, Gitlab, MITK-Workbench
 
 **09/2017 – 09/2021 | Data Scientist (permanent / onsite)**\
 **COUNT+CARE GmbH | Subsidariary of ENTEGA AG | Department for New Solutions**\
