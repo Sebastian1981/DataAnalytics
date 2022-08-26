@@ -8,13 +8,12 @@ title: Curriculum Vitae
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
 ***Delft, Netherlands***
-- Occasional support & advice on the following projects: 1.) Improving
-patient comfort in MRI with machine-learning based acoustic noise canceling
-2.) Detection of neuro-electro-magnetic oscillations for direct functional MRI
-- Occasional support & advice on publication preparations
-- Tools: Python, Jupyter, VSCode, MITK-Workbench 
+- Project #1: Support & advice on machine-learning based reduction of noise in MRI
+- Project #2: Support & advice on detection of neural activation induced electro-magnetic oscillations for direct functional MRI 
+- Support & advice on publication preparations
+- Tools: Python, Jupyter, VSCode
 
-**04/2022 – 06/2022 | Research Data Scientist (freelance / remote)**\
+**04/2022 – 06/2022 | Data Scientist (freelance / remote)**\
 **mediaire GmbH (digital StartUp of the year 2021) | Digital Innovation in Radiology**\
 ***Berlin, Germany***
 - Development of machine learning solutions for the detection of cerebral structural changes based on MRT image data
