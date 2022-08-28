@@ -35,7 +35,6 @@ In the following, I provide an overview of the projects related to machine-learn
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | **Meter-Reading Forecast Model** ![meter_reading_forecast](images/projects/meter_reading_forecast.png)| **Show feasibility to forecast meter-readings with machine learning** | *I developed a regression model to forecast meter-readings based on historical time-series data. I further prepared the data, visualized the data and evaluated and optimized the model performance. I also supported the specialist department in an advisory capacity in evaluating the benefit of the model in the event of potential productive use.* | **Machine Learning, Deep-Learning (RNN model), Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupter Notebook, VSCode** |
 
-&nbsp;
 
 ## **My Projects on Machine-Learning as an Academic Researcher:**
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
