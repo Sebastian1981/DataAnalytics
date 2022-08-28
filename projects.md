@@ -3,9 +3,11 @@ layout: page
 title: Data Science Project Experience
 ---
 
-In the following, I provide an overview of the relevant data science projects I conducted throughout the years. They will be subdivided into the projects I carried out as a data science professional and those I carried out due to personal interests. All personal-interest projects are documented on my github. Any machine learning or deep learning projects I conducted as a researcher in academia are not listed here focusing on projects with relevance to industry related topics.
+In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as a data science professional, the projects I carried out as an academic researcher and those I carried out due to personal interests.
 
-## **Projects as a Data Science Professional:**
+&nbsp;
+
+## **My Projects on Machine-Learning as a Data-Science Professional:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -33,8 +35,18 @@ In the following, I provide an overview of the relevant data science projects I 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | **Meter-Reading Forecast Model** ![meter_reading_forecast](images/projects/meter_reading_forecast.png)| **Show feasibility to forecast meter-readings with machine learning** | *I developed a regression model to forecast meter-readings based on historical time-series data. I further prepared the data, visualized the data and evaluated and optimized the model performance. I also supported the specialist department in an advisory capacity in evaluating the benefit of the model in the event of potential productive use.* | **Machine Learning, Deep-Learning (RNN model), Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupter Notebook, VSCode** |
 
+&nbsp;
 
-## **Personal-Interest Projects:**
+## **My Projects on Machine-Learning as an Academic Researcher:**
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| **Medical-Imaging: OEF-Mapping with Artificial Neural Network** ![qBOLD_ann](images/projects/qBOLD_ann.png) | **Estimate voxel-wise oxygen extraction fraction (OEF) using an artifical neural network** | *An artificial neural network regression model was developed with the input being the GESSE-BOLD signal and multiple outputs with one being the oxygen extraction fraction, which is an important parameter for tissue vitality. Compared to normal least-squares fitting, the oef-maps were clearly improved. (More details are provided in: Domsch et al., Magnetic Resonance in Medicine, 79(2), pp.890-899, 2018)* | **Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab** |
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| **Medical-Imaging: Diffusion Parameter Mapping with Artificial Neural Network** ![diff_ann](images/projects/diff_ann.png) | **Estimate voxel-wise diffusion parameters using an artifical neural network** | *An artificial neural network regression model was developed with the input being diffusion-weighted MR images and with multiple outputs being important diffusion parameters reflecting tissue vitality. Compared to normal least-squares regression fitting, the diffusion parameter maps were clearly improved. (More details are provided in: Domsch et al., NMR Biomed, 30(12), 2017)* | **Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab** |
+
+&nbsp;
+
+## **My Personal-Interest Projects on Machine-Learning:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
