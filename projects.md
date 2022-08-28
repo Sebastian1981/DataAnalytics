@@ -37,6 +37,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
+
 ## **My Projects on Machine-Learning as an Academic Researcher:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
