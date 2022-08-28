@@ -37,6 +37,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 
 ## **My Projects on Machine-Learning as an Academic Researcher:**
+
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | **Medical-Imaging: OEF-Mapping with Artificial Neural Network** ![qBOLD_ann](images/projects/qBOLD_ann.png) | **Estimate voxel-wise oxygen extraction fraction (OEF) using an artifical neural network** | *An artificial neural network regression model was developed with the input being the GESSE-BOLD signal and multiple outputs with one being the oxygen extraction fraction, which is an important parameter for tissue vitality. Compared to normal least-squares fitting, the oef-maps were clearly improved. (More details are provided in: Domsch et al., Magnetic Resonance in Medicine, 79(2), pp.890-899, 2018)* | **Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab** |
