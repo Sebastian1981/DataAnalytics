@@ -5,7 +5,7 @@ title: Data Scientist - Expert on Fast Automation of Machine Learning Workflows 
 ![screenshot](images/artificial_intelligence.png)
 
 ## My Personal Background
-I am a former researcher and now passionate data scientist with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging and signal processing. After academia, I gained a wide range of experience in the renewable energy industry in the role of a data scientist consultant and developer. I consulted various departments on developing data science solution to solve real-world business problems. I also implementing numerous machine-learning and deep-learning models in proof-of-concept (PoC) studies following the cross-industry standard process for data mining (CRISP-DM).
+I am a former researcher and now passionate data scientist with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging and signal processing. After academia, I gained a wide range of experience in the renewable energy industry in the role of a data scientist consultant and developer. I consulted various departments on developing data science solution to solve real-world business problems. I also implemented numerous machine-learning and deep-learning models within proof-of-concept (PoC) studies following the cross-industry standard process for data mining (CRISP-DM).
 
 My favourite quote:
 *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
