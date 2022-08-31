@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Data Scientist - Expert for Explainable AI
+title: Data Scientist - Expert on Fast Automation of Machine Learning Workflows in Python
 ---
 ![screenshot](images/artificial_intelligence.png)
 
-
 ## My Personal Background
-I am passionate data scientist and former researcher with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging and signal processing. After academia, I gained a wide range of experience in the renewable energy industry in the role of a data scientist implementing machine learning and deep learning models and consulting various departments for the development of data-driven solutions.
+I am a former researcher and now passionate data scientist with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging and signal processing. After academia, I gained a wide range of experience in the renewable energy industry in the role of a data scientist consultant and developer. I consulted various departments on developing data science solution to solve real-world business problems. I also implementing numerous machine-learning and deep-learning models in proof-of-concept (PoC) studies following the cross-industry standard process for data mining (CRISP-DM).
 
 My favourite quote:
 *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
-## My Mission
-My mission is designing and implementing data science solutions to solve real-world business challenges. Thereby my special focus is to develope highly explainable machine lerarning models rather than so called "black-box" models. Even though black-box models such as complex ensemble models or deep-learning models tend to be highly performant in terms of prediction accuracy, it shows that this model type is rarely used on a daily basis to support the business due to understandable mistrust of the end-users.
-## My Expertise
-According to my academic and industry experience in the field of machine learning and artificial intelligence, my main expertises are firstly, translating business-specific questions of the specialist department into well defined data science use cases. Secondly, performing proof-of-concept (POC) studies as efficiently and quickly as possible including the following steps: exploratory data analysis, (automated) feature engineering, model training and evaluation, model tuning and selection or automated machine learning (auto-ml). Last but not least, presenting and communicating the key analytical findings in a clear and understandable way to both technical and non-technical audiences.
-
-With respect to specific data science use cases, i gained profound knowledge in time series analyses and forecasting and customer analytics. Time series use cases include e.g. demand or load forecasts or machine failure forecasts (predictive maintenance). Customer analytics use cases deal primarily with personal data and include e.g. churn prediction, customer-lifetime-value prediction, customer segmentation or in a wider sense health-risk models and many more. Under the "Projects" tab, you'll find an overview of the data science projects I have been working on. 
-## My Offer
-I would be happy to work along your side on interesting data science projects to support your business with the following challenges:
-
-- translating business-specific questions of the specialist department into well defined data science use cases
-- developing highly explainable machine learning models within proof-of-concept (POC) studies as efficiently and quickly as possible including exploratory data analysis, (automated) feature engineering and selection, model training and evaluation, model tuning and selection or automated machine learning (auto-ml)
-- presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
-- hand over projects to the machine learning engineers in form of clean, modularized and well documented code
-- support the development team in deploying the model in a productive environment
+## My Expertise:
+I have specialized on fast automation of machine learning (ml) workflows using open-source low-code python libraries. An ml-workflow includes the development of model prototypes, model deployment and also monitoring data and model drifts over time. Over the last couple of years numerous of such low-code ml-libraries have been published allowing to speed up the ml-workflow exponentially which significantly benefits the productivity of a data scientist or the whole developer team of data engineers, data scientists and ml-engineers. 
+## My Offers:
+- Explaining data science to both technical and non-technical audiences
+- Supporting the specialist department to translate business questions into well defined data science use cases
+- Conducting proof-of-concept (POC) studies as efficiently and quickly as possible including:
+    - Explore, visualize and understand the data
+    - Prepare the data for modeling (e.g. data resampling, data imputation,  feature engineering, data transformation, data encoding etc.)
+    - Train, tune and test the model
+    - Interpret the model (e.g. explain single model decisions), if necessary
+    - Analyse and improve model fairness, if necessary 
+    - Present the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
+- Model deployment (e.g. via fast-api, streamlit or gradio app)
+- Monitoring data and model drifts over time (e.g. using mlflow)
+- Hand over the project to the developer team in form of clean and well documented code
