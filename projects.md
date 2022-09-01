@@ -3,22 +3,12 @@ layout: page
 title: Data Science Project Experience
 ---
 
-In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as a data science professional, the projects I carried out as an academic researcher and those I carried out due to personal interests.
-
-
-
-
-[Custom foo description](#foo)
-
-
-
-
-
+In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as a data science professional [(link)](#my-projects-on-machine-learning-as-data-science-professional), the projects I carried out as an academic researcher [(link)](#my-projects-on-machine-learning-as-academic-researcher) and those I carried out due to personal interests [(link)](#my-personal-interest-projects-on-machine-learning).
 
 
 &nbsp;
 
-## **My Projects on Machine-Learning as a Data-Science Professional:**
+## **My Projects on Machine Learning as Data Science Professional:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -48,8 +38,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
-
-## **My Projects on Machine-Learning as an Academic Researcher:**
+# **My Projects on Machine Learning as Academic Researcher:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -81,4 +70,3 @@ In the following, I provide an overview of the projects related to machine-learn
 
 
 
-# Foo
