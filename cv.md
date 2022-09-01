@@ -3,11 +3,19 @@ layout: page
 title: Curriculum Vitae
 ---
 
-My resume is structured into the sections [Projects and Professional Experience](#projects-and-professional-experience), [Education](#education), [Expertise and Tools](#expertise-and-tools), [Certified Qualifications](#certified-qualifications), [Conferences and Presentations](#conferences-and-presentations), [Awards and Promotions](#awards-and-promotions), [Hobbies](#hobbies) and [Memberships](#memberships).
+My resume is structured into the following sections: 
+- [Projects and Work Experience](#projects-and-work-experience)
+- [Education](#education) 
+- [Expertise and Tools](#expertise-and-tools) 
+- [Certified Qualifications](#certified-qualifications) 
+- [Conferences and Presentations](#conferences-and-presentations) 
+- [Awards and Promotions](#awards-and-promotions) 
+- [Hobbies](#hobbies) 
+- [Memberships](#memberships)
 
 &nbsp;
 
-## Projects and Professional Experience
+## Projects and Work Experience
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
