@@ -3,13 +3,13 @@ layout: page
 title: Physicist & Data Scientist | Expert on Machine-Learning 
 ---
 
-Welcome to my homepage. Below you´ll find some information about my personal [professional background](#personal-professional-background), my [expertise](#expertise) and my [value proposition](#value-proposition)
+Welcome to my homepage. Below you´ll find some information about my [professional background](#personal-professional-background), my [expertise](#expertise) and my [value proposition](#value-proposition)
 
 ![screenshot](images/artificial_intelligence.png)
 
 &nbsp;
 
-## Personal Professional Background
+## Professional Background
 I am a former researcher and now passionate data scientist with more than 10 years of experience in academic research applying profound knowledge in medical physics, maths and statistics to solve many real-world challenges in applied medical imaging and signal processing. After academia, I gained a wide range of experience in the renewable energy industry in the role of a data scientist consultant and machine learning (ml) developer. I consulted various departments on developing data science solution to solve real-world business problems. I also implemented numerous ml and deep-learning (dl) models in proof-of-concept (PoC) studies.
 
 My favourite quote:
