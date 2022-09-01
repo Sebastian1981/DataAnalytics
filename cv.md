@@ -5,6 +5,8 @@ title: Curriculum Vitae
 
 My resume is structured into the sections [Projects and Professional Experience](#projects-and-professional-experience), [Education](#education), [Expertise and Tools](#expertise-and-tools), [Certified Qualifications](#certified-qualifications), [Conferences and Presentations](#conferences-and-presentations), [Awards and Promotions](#awards-and-promotions), [Hobbies](#hobbies) and [Memberships](#memberships).
 
+&nbsp;
+
 ## Projects and Professional Experience
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
@@ -45,6 +47,8 @@ My resume is structured into the sections [Projects and Professional Experience]
 - Reviewer for various international research journals with special focus on Magnetic Resonance Imaging and signal- and imaging processing
 - Tools: Matlab, Microsoft Powerpoint, Microsoft Excel
 
+
+&nbsp;
 
 ## Education
 
@@ -92,6 +96,8 @@ My resume is structured into the sections [Projects and Professional Experience]
 - English (**grade: *"satisfactory"***)
 
 
+&nbsp;
+
 ## Expertise and Tools
 
 **Expertise**
@@ -124,6 +130,8 @@ My resume is structured into the sections [Projects and Professional Experience]
 - German (C2, mother tongue)
 - English (C1)
 
+&nbsp;
+
 ## Certified Qualifications
 
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
@@ -142,6 +150,8 @@ My resume is structured into the sections [Projects and Professional Experience]
 ***Mannheim, Germany***
 - Attending lectures, seminars, workshops on the topic of "Learning, memory, and brain plasticity: Implications for psychopathology"
 - 01/2012 – 03/2012, Research Internship, Clinic for Addictive Behavior and Addiction Medicine, Central Institute for Mental Health: Tasks: Optimization of MR-sequences to measure the orbitofrontal cortex and implementation of statistical evaluation methods to detect neuronal activation
+
+&nbsp;
 
 ## Conferences and Presentations
 
@@ -162,14 +172,20 @@ My resume is structured into the sections [Projects and Professional Experience]
 - 2007 - *ISMRM* (speaker & poster presenter) - Wuerzburg, Germany
 
 
+&nbsp;
+
 ## Awards and Promotions
 - 2014 - Dissertation prize, awarded 10,000 € by the *Thomas Gessmann Foundation* for the engineering department
 - 2011/2012 - Doctoral scholarship, funded by the *Collaborative Research Center (SFB 636)* of the German Research Foundation
+
+&nbsp;
 
 ## Hobbies
 - Physics, Science, Artifical Intelligence 
 - Hiking, fitness, model plane aerobatics, skiing, windsurfing
 - Athletics (greatest successes: 2003, German university champion (4x400m relay); 2002, Baden vice champion (400m); 2000/2001, Bavarian junior champion (400m/800m)
+
+&nbsp;
 
 ## Memberships
 - German Physical Society 

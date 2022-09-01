@@ -5,6 +5,8 @@ title: Scientific Publications
 
 In the following, I provide an overview of the scientific work I published in international [journal papers](#journal-papers), at major [conferences](#conference-contributions) or in the [university library](#phd-and-diploma-thesis) of the University of Heidelberg.
 
+&nbsp;
+
 ## Journal Papers
 
 ### 2018
@@ -29,6 +31,8 @@ In the following, I provide an overview of the scientific work I published in in
 ### 2012
 - **S. Domsch**, A. Lemke, S. Weingärtner and L. Schad. „A novel temporal filtering strategy for functional MRI using UNFOLD”; Neuroimage, 62 (1), pp.59-66 (2012); doi:10.1016/j.neuroimage.2012.03.064
 
+
+&nbsp;
 
 ## Conference Contributions
 
@@ -84,6 +88,8 @@ In the following, I provide an overview of the scientific work I published in in
 ### 2007
 - **S. Domsch**, A. Kroll and L. Schad. „Vergleich von BOLD- und ASL-fMRT bei 3.0 Tesla an einem Fingertapping-Experiment"; 10. Jahrestagung der Deutschen Sektion der International Society for Magnetic Resonance in Medicine (ISMRM), Würzburg (2007)
 
+
+&nbsp;
 
 ## PhD and Diploma Thesis:
 
