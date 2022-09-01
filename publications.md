@@ -3,7 +3,7 @@ layout: page
 title: Scientific Publications
 ---
 
-In the following, I provide an overview of the scientific work I published in [international journal papers](#journal-papers), [at major conferences](#conference-contributions) or in the [University Library of the University of Heidelberg](#phd-and-diploma-thesis).
+In the following, I provide an overview of the scientific work I published in international [journal papers](#journal-papers), at major [conferences](#conference-contributions) or in the [university library](#phd-and-diploma-thesis) of the University of Heidelberg.
 
 ## Journal Papers
 

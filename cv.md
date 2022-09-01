@@ -3,7 +3,9 @@ layout: page
 title: Curriculum Vitae
 ---
 
-## Project & Professional Experience
+My resume is structured into the sections [Projects and Professional Experience](#projects-and-professional-experience), [Education](#education), [Expertise and Tools](#expertise-and-tools), [Certified Qualifications](#certified-qualifications), [Conferences and Presentations](#conferences-and-presentations), [Awards and Promotions](#awards-and-promotions), [Hobbies](#hobbies) and [Memberships](#memberships).
+
+## Projects and Professional Experience
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
@@ -90,7 +92,7 @@ title: Curriculum Vitae
 - English (**grade: *"satisfactory"***)
 
 
-## Expertise & Tools
+## Expertise and Tools
 
 **Expertise**
 - translation of business probems into data science use cases
@@ -141,7 +143,7 @@ title: Curriculum Vitae
 - Attending lectures, seminars, workshops on the topic of "Learning, memory, and brain plasticity: Implications for psychopathology"
 - 01/2012 – 03/2012, Research Internship, Clinic for Addictive Behavior and Addiction Medicine, Central Institute for Mental Health: Tasks: Optimization of MR-sequences to measure the orbitofrontal cortex and implementation of statistical evaluation methods to detect neuronal activation
 
-## Conferences & Presentations
+## Conferences and Presentations
 
 ### Meetings on Machine Learning and Artificial Intelligence
 - 2021 - *Predictive Analytics World* (virtual visitor) - Berlin, Germany
@@ -164,8 +166,11 @@ title: Curriculum Vitae
 - 2014 - Dissertation prize, awarded 10,000 € by the *Thomas Gessmann Foundation* for the engineering department
 - 2011/2012 - Doctoral scholarship, funded by the *Collaborative Research Center (SFB 636)* of the German Research Foundation
 
-## Interests
+## Hobbies
 - Physics, Science, Artifical Intelligence 
 - Hiking, fitness, model plane aerobatics, skiing, windsurfing
 - Athletics (greatest successes: 2003, German university champion (4x400m relay); 2002, Baden vice champion (400m); 2000/2001, Bavarian junior champion (400m/800m)
-- Memberships: German Physical Society, SOS Children's Village
+
+## Memberships
+- German Physical Society 
+- SOS Children's Village
