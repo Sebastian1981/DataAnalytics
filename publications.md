@@ -91,7 +91,7 @@ In the following, I provide an overview of the scientific work I published in in
 
 &nbsp;
 
-## PhD and Diploma Thesis:
+## PhD and Diploma Thesis
 
 ### 2013
 - **S. Domsch**, „Functional Magnetic Resonance Imaging at High Spatiotemporal Resolution using EPI Combined with Different k-Space Undersampling Techniques at 3 Tesla."; PhD Thesis, Heidelberg University (2013)

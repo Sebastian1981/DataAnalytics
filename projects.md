@@ -7,7 +7,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
-## **My Projects on Machine Learning as Data Science Professional:**
+## **My Projects on Machine Learning as Data Science Professional**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -37,7 +37,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
-# **My Projects on Machine Learning as Academic Researcher:**
+# **My Projects on Machine Learning as Academic Researcher**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -47,7 +47,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
-## **My Personal-Interest Projects on Machine-Learning:**
+## **My Personal-Interest Projects on Machine-Learning**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
