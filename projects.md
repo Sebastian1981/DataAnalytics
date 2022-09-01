@@ -5,6 +5,17 @@ title: Data Science Project Experience
 
 In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as a data science professional, the projects I carried out as an academic researcher and those I carried out due to personal interests.
 
+
+
+
+[Custom foo description](#foo)
+
+
+
+
+
+
+
 &nbsp;
 
 ## **My Projects on Machine-Learning as a Data-Science Professional:**
@@ -66,3 +77,8 @@ In the following, I provide an overview of the projects related to machine-learn
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | **Churn Prediction API** ![churn_pred_api](images/projects/churn.png) | **Implement and deploy a churn risk model in fast-api and docker using auto-ml** | *First, I trained a few classification models on public data to predict individual churn risks. Thereby, the model with the best performance was identified applying a custom scoring function in order to meet business requirements (e.g. a false negative prediction leads to higher costs than a false positive prediction). Moreover, aspects of responsible AI such as model explainability and also model fairness were analyzed. I deployed the best performing model using fast-api running in docker. (The code and more details are provided in my github.)* | **Automated Machine-Learning, Explainable AI, Fair AI, Data Preparation, Data Visualization, Python (numpy, pandas, pycaret, fastapi, docker), VSCode, Jupyter** |
 
+
+
+
+
+# Foo
