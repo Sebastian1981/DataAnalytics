@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu xxx
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "Curriculum Vitae", sidebaricon: home}
-  - {file: "projects.md", title: "my Projects", sidebaricon: home}
-  - {file: "publications.md", title: "my Publications", sidebaricon: home}
-  - {file: "myblog.md", title: "my Blog", sidebaricon: home}
+  - {file: "projects.md", title: "Projects", sidebaricon: home}
+  - {file: "publications.md", title: "Publications", sidebaricon: home}
+  - {file: "myblog.md", title: "Blog", sidebaricon: home}
   - {file: "contact.md", title: "Contact", sidebaricon: home}
   - {file: "imprint.md", title: "Imprint", sidebaricon: home}
  
