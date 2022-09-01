@@ -9,8 +9,15 @@ I am a former researcher and now passionate data scientist with more than 10 yea
 
 My favourite quote:
 *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
+
+&nbsp;
+
+
 ## My Expertise:
 I have specialized on rapid ml-prototyping and on fast automation of ml-workflows using open-source low-code python libraries. ML-workflows include the development of model prototypes, model deployment and also monitoring data and model drifts over time. Over the last couple of years numerous of such low-code ml-libraries have been published allowing to speed up the ml-workflow exponentially which significantly benefits the productivity of a data scientist or the whole developer team of data engineers, data scientists and ml-engineers. 
+
+&nbsp;
+
 ## My Offers:
 - Explaining data science to both technical and non-technical audiences
 - Supporting the specialist department to translate business questions into well defined data science use cases
