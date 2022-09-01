@@ -3,7 +3,7 @@ layout: page
 title: Data Science Project Experience
 ---
 
-In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as a data science professional [(link)](#my-projects-on-machine-learning-as-data-science-professional), the projects I carried out as an academic researcher [(link)](#my-projects-on-machine-learning-as-academic-researcher) and those I carried out due to personal interests [(link)](#my-personal-interest-projects-on-machine-learning).
+In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as [data science professional](#my-projects-on-machine-learning-as-data-science-professional), the projects I carried out as an [academic researcher](#my-projects-on-machine-learning-as-academic-researcher) and those I carried out due to [personal interests](#my-personal-interest-projects-on-machine-learning).
 
 
 &nbsp;
