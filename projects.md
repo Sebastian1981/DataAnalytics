@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ml). They will be subdivided into three major groups, which are the ml-projects I carried out as [data science professional](#data-science-professional-ml-projects), the ml-projects I carried out as an [academic researcher](#academic-research-ml-projects) and the ml-projects I carried out due to [personal interests](#personal-interest-ml-projects).
+In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ml). They will be subdivided into three major groups, which are the ml-projects I carried out as [data science professional](#data-science-professional-ml-projects), as [academic researcher](#academic-research-ml-projects) and as [free time developer](#free-time-developer-ml-projects).
 
 
 &nbsp;
@@ -48,7 +48,7 @@ In the following, I provide an overview of the projects I was involved in relate
 
 &nbsp;
 
-## **Personal-Interest ML-Projects**
+## **Free Time Developer ML-Projects**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -64,7 +64,7 @@ In the following, I provide an overview of the projects I was involved in relate
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | **Diabetis Risk** ![default_pred_app](images/projects/diabetis_image.png) <small><small>*Image courtesy: aok-erleben.de*</small> | **To predict diabetis risks** | *In my free time I implemented an explainable classification model, trained on tabular data, to predict diabetis risks. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a flask-api backend. (The code and more details are provided in my github.)* | Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fair-learn, docker), Jupyter, VSCode |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| **Customer Churn** ![churn_pred_api](images/projects/churn.png) | **To predict customer churn** | *In my free time I implemented an explainable classification models, trained on tabular data, to predict customer churn risks using auto-machine-learning. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a fast-api backend. (The code and more details are provided in my github.)* | Automated Machine-Learning, Explainable AI, Fair AI, Data Preparation, Data Visualization, Python (numpy, pandas, pycaret, fastapi, docker), Jupyter, VSCode |
+| **Customer Churn** ![churn_pred_api](images/projects/churn.png) | **To predict customer churn** | *In my free time I implemented an explainable classification model, trained on tabular data, to predict customer churn risks using auto-machine-learning. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a fast-api backend. (The code and more details are provided in my github.)* | Automated Machine-Learning, Explainable AI, Fair AI, Data Preparation, Data Visualization, Python (numpy, pandas, pycaret, fastapi, docker), Jupyter, VSCode |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | **Customer Value** ![clv](images/projects/customer_value.png) | **To predict customer lifetime values** | *In my free time I implemented an explainable and fair regression model, trained on tabular data, to predict customer lifetime values.(The code and more details are provided in my github.)* | Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fairlearn), Jupyter, VSCode |
 
