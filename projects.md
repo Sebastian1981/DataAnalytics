@@ -3,11 +3,12 @@ layout: page
 title: Data Science Project Experience
 ---
 
-In the following, I provide an overview of the projects related to machine-learning, deep-learning or data science in general. They will be subdivided into three group, which are the projects I carried out as [data science professional](#my-projects-on-machine-learning-as-data-science-professional), the projects I carried out as an [academic researcher](#my-projects-on-machine-learning-as-academic-researcher) and those I carried out due to [personal interests](#my-personal-interest-projects-on-machine-learning).
+In the following, I provide an overview of the projects related to machine-learning. They will be subdivided into three major groups, which are the projects I carried out as [data science professional](#data-science-professional-ml-projects), the projects I carried out as an [academic researcher](#academic-research-ml-projects) and those I carried out due to [personal interests](#personal-interest-ml-projects).
+
 
 &nbsp;
 
-## **My Projects on Machine Learning as Data Science Professional**
+## **Data Science Professional ML-Projects**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -37,7 +38,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
-# **My Projects on Machine Learning as Academic Researcher**
+# **Academic Research ML-Projects**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -47,7 +48,7 @@ In the following, I provide an overview of the projects related to machine-learn
 
 &nbsp;
 
-## **My Personal-Interest Projects on Machine-Learning**
+## **Personal-Interest ML-Projects**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
