@@ -3,12 +3,12 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ml). They will be subdivided into three major groups, which are the ml-projects I carried out as [data science professional](#data-science-professional-ml-projects), as [academic researcher](#academic-research-ml-projects) and as [free time developer](#free-time-developer-ml-projects).
+In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ml). They will be subdivided into three major groups, which are the ml-projects I carried out as [data science professional](#data-science-professional-projects), as [academic researcher](#academic-research-projects-on-machine-learning) and as [free time developer](#free-time-developer-projects-on-machine-learning).
 
 
 &nbsp;
 
-## **Data Science Professional ML-Projects**
+## **Data Science Professional Projects**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -38,7 +38,7 @@ In the following, I provide an overview of the projects I was involved in relate
 
 &nbsp;
 
-# **Academic Research ML-Projects**
+# **Academic Research Projects on Machine Learning**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -49,7 +49,7 @@ In the following, I provide an overview of the projects I was involved in relate
 
 &nbsp;
 
-## **Free Time Developer ML-Projects**
+## **Free Time Developer Projects on Machine Learning**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
