@@ -18,7 +18,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.md", title: "Curriculum Vitae", sidebaricon: home}
   - {file: "projects.md", title: "Project-Portfolio", sidebaricon: home}
   - {file: "publications.md", title: "Publications", sidebaricon: home}
-  - {file: "myblog.md", title: "Blog", sidebaricon: home}
+  #- {file: "myblog.md", title: "Blog", sidebaricon: home}
+  - {file: "ml_apps.md", title: "ML-Apps", sidebaricon: home}
   - {file: "contact.md", title: "Contact & Imprint", sidebaricon: home}
   #- {file: "imprint.md", title: "Imprint", sidebaricon: home}
  
