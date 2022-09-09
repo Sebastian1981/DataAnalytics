@@ -51,16 +51,8 @@ In the following, I provide an overview of the projects I was involved in relate
 
 # **Hobby Projects on Machine Learning**
 
-The following projects are seperated into the following categories:
-
-- [Implementing ML-Apps](#implementing-ml-apps)
-- [Implementing ML-APIs](#implementing-ml-apis)
-- [Implementing ML Using Cloud](#implementing-ml-using-aws-and-azure)
-- [Implementing Explainable ML-Models](#implementing-explainable-ml-models)
-
-
 &nbsp;
-## **Implementing ML-Apps:**
+## **ML-Apps:**
 &nbsp;
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
@@ -69,7 +61,7 @@ The following projects are seperated into the following categories:
 
 
 &nbsp;
-## **Implementing ML-APIs:**
+## **ML-APIs:**
 &nbsp;
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
@@ -83,7 +75,7 @@ The following projects are seperated into the following categories:
 
 
 &nbsp;
-## **Implementing ML Using AWS and Azure:**
+## **Cloud ML in AWS and Azure:**
 &nbsp;
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
@@ -97,7 +89,7 @@ The following projects are seperated into the following categories:
 
 
 &nbsp;
-## **Implementing Explainable ML-Models:**
+## **Explainable ML:**
 &nbsp;
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
