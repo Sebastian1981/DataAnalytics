@@ -1,8 +1,10 @@
 ---
 layout: page
-#title: Contact & Imprint
+title: Contact & Imprint
 ---
 
+
+&nbsp;
 # **Contact**
 
 **Dr. rer. nat. Sebastian Domsch**\
