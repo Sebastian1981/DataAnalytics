@@ -49,51 +49,43 @@ In the following, I provide an overview of the projects I was involved in relate
 
 &nbsp;
 
+
 # **Hobby Projects on Machine Learning**
 
-&nbsp;
-## **ML-Apps:**
-&nbsp;
+## **Implementing ML-Apps:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Credit Default*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To predict credit default risks* | *In my free time I implemented a classification model, trained on tabular data, to predict credit default risks. I deployed the model in docker with streamlit for both backend and frontend. (The code and more details are provided in my github.)* | *Machine Learning, Data Preparation, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit, docker), Jupyter, VSCode* |
+| ***Credit Default*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction app* | *In my free time I implemented a classification model, trained on tabular data, to predict credit default risks. I deployed the model in docker with streamlit for both backend and frontend. (The code and more details are provided in my github repo: "CustomerAnalytics_CreditDefaultPrediction")* | *Machine Learning, Data Preparation, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit, docker), Jupyter, VSCode* |
 
 
-&nbsp;
-## **ML-APIs:**
-&nbsp;
+## **Implementing ML-APIs:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Topic Modeling*** ![topic_modeling](images/projects/topic_modeling.png) | *To extract topics from documents* | *In my free time I implemented a natural language processing model using the latent-dirichlet-allocation algorithm and trained on raw text data to extract topics from articles. I deployed the model with flask-api as backend. (The code and more details are provided in my github.)* | *Natural Language Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, nltk, flask), VSCode, Jupyter* |
+| ***Topic Modeling*** ![topic_modeling](images/projects/topic_modeling.png) | *To implement a topics modeling API* | *In my free time I implemented a natural language processing model using the latent-dirichlet-allocation algorithm and trained on raw text data to extract topics from articles. I deployed the model with flask-api as backend. (The code and more details are provided in my github.)* | *Natural Language Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, nltk, flask), VSCode, Jupyter* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Diabetis Risk*** ![default_pred_app](images/projects/diabetis_image.png) <small><small>*Image courtesy: aok-erleben.de*</small> | *To predict diabetis risks* | *In my free time I implemented an explainable classification model, trained on tabular data, to predict diabetis risks. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a flask-api backend. (The code and more details are provided in my github.)* | *Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fair-learn, docker, flask), Jupyter, VSCode* |
+| ***Diabetis Risk*** ![default_pred_app](images/projects/diabetis_image.png) <small><small>*Image courtesy: aok-erleben.de*</small> | *To implement a diabetis risks prediction API* | *In my free time I implemented an explainable classification model, trained on tabular data, to predict diabetis risks. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a flask-api backend. (The code and more details are provided in my github.)* | *Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fair-learn, docker, flask), Jupyter, VSCode* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Customer Churn*** ![churn_pred_api](images/projects/churn.png) | *To predict customer churn* | *In my free time I implemented an explainable classification model, trained on tabular data, to predict customer churn risks using auto-machine-learning. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a fast-api backend. (The code and more details are provided in my github.)* | *Automated Machine-Learning, Explainable AI, Fair AI, Data Preparation, Data Visualization, Python (numpy, pandas, pycaret, fastapi, docker), Jupyter, VSCode* |
+| ***Customer Churn*** ![churn_pred_api](images/projects/churn.png) | *To implement a customer churn prediction API* | *In my free time I implemented an explainable classification model, trained on tabular data, to predict customer churn risks using auto-machine-learning. Thereby, the scoring function was customized to meet business criteria (e.g. a false negative prediction leads to higher costs than a false positive prediction). I deployed the model in docker with a fast-api backend. (The code and more details are provided in my github.)* | *Automated Machine-Learning, Explainable AI, Fair AI, Data Preparation, Data Visualization, Python (numpy, pandas, pycaret, fastapi, docker), Jupyter, VSCode* |
 
 
 
-&nbsp;
-## **Cloud ML in AWS and Azure:**
-&nbsp;
+## **Implementing ML-Models in AWS and Azure:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Cardio Vascular Disease*** ![cardio_vascular_disease](images/projects/cardio_vascular_disease.png) <small><small>*Image courtesy: guardian.ng*</small> | *To predict cardio vascular disease* | *In my free time I implemented a classification model, trained on tabular data, providing disease risk propensity scores. I deployed the model as an endpoint in aws-sagemaker. (The code and more details are provided in my github.)* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, seaborn, sagemaker, boto3), Sagemaker Studio* |
+| ***Cardio Vascular Disease*** ![cardio_vascular_disease](images/projects/cardio_vascular_disease.png) <small><small>*Image courtesy: guardian.ng*</small> | *To predict cardio vascular disease using AWS Sagemaker* | *In my free time I implemented a classification model, trained on tabular data, providing disease risk propensity scores. I deployed the model as an endpoint in aws-sagemaker. (The code and more details are provided in my github.)* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, seaborn, sagemaker, boto3), Sagemaker Studio* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Object Detection*** ![object_detection](images/projects/object_detection.png) | *To detect fruits on images* | *In my free time I implemented a fruit detection model, trained on image data, using Azure cognitive services. (The code and more details are provided in my github.)* | *Image Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, pil), VSCode, Jupyter, Azure Cognitive Services* |
+| ***Object Detection*** ![object_detection](images/projects/object_detection.png) | *To implement a fruit detector in Azure* | *In my free time I implemented a fruit detection model, trained on image data, using Azure cognitive services. (The code and more details are provided in my github.)* | *Image Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, pil), VSCode, Jupyter, Azure Cognitive Services* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Text Analysis*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To recognize text* | *In my free time I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in my github.)* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
+| ***Text Analysis*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *In my free time I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in my github.)* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
 
 
-
-&nbsp;
-## **Explainable ML:**
-&nbsp;
+## **Development of Explainable ML:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Customer Value*** ![clv](images/projects/customer_value.png) | *To predict customer lifetime values* | *In my free time I implemented an explainable and fair regression model, trained on tabular data, to predict customer lifetime values. (The code and more details are provided in my github.)* | *Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fairlearn), Jupyter, VSCode* |
+| ***Customer Value*** ![clv](images/projects/customer_value.png) | *To implement an explainable ml-model for customer value prediction* | *In my free time I implemented an explainable and fair regression model, trained on tabular data, to predict customer lifetime values. (The code and more details are provided in my github.)* | *Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fairlearn), Jupyter, VSCode* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Sales Forecasting*** ![sales_forecast](images/projects/sales_forecast.png) | *To forecast sales and identify driving features* | *In my free time I compared different modeling approaches forecasting sales using explainable models (i.e. classical ml-models in combination with shapley-values and the novel neural-prophet algorithm by facebook) to identify driving features like saisonality, holiday, promo etc. (The code and more details are provided in my github.)* | *Explainable AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, neural-prophet), Jupyter, VSCode* |
+| ***Sales Forecasting*** ![sales_forecast](images/projects/sales_forecast.png) | *To implement an explainable ml-model for sales prediction* | *In my free time I compared different modeling approaches forecasting sales using explainable models (i.e. classical ml-models in combination with shapley-values and the novel neural-prophet algorithm by facebook) to identify driving features like saisonality, holiday, promo etc. (The code and more details are provided in my github.)* | *Explainable AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, neural-prophet), Jupyter, VSCode* |
