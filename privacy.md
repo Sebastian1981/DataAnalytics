@@ -18,3 +18,6 @@ Im Wingert 3\
 Germany\
 +49 176 / 611 49 507\
 SDomsch314@gmail.com
+
+## **Customer's Initiative Contact By E-Mail**
+If you initiate business contact with me by e-mail, I will only collect your personal data (name, e-mail address, message text) to the extent you have made them available. The data processing serves to process and answer your contact request. If the establishment of contact serves to carry out pre-contractual measures (e.g. advice on purchase interest, preparation of an offer) or concerns a contract already concluded between you and me, this data processing takes place on the basis of Article 6 Paragraph 1 lit. b GDPR. If contact is made for other reasons, this data processing takes place on the basis of Article 6 (1) (f) GDPR from our overriding legitimate interest in processing and answering your request. In this case, you have the right, for reasons arising from your particular situation, to object to the processing of your personal data based on Article 6 (1) (f) GDPR at any time. I only use your e-mail address to process your request. Your data will then be deleted in compliance with statutory retention periods, unless you have consented to further processing and use.
