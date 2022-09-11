@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ML). They are subdivided into three major groups. In group one and two are the ml-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. In order to complete the overall picture of my competences and experiences in the field of data science and ML, I finally put together some [hobby-projects](#hobby-projects-on-machine-learning) in group three that I have implemented in my free time just for fun and curiosity.    
+In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ML). They are subdivided into three major groups. In group one and two are the ml-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. Finally, in group three I put together some [hobby-projects](#hobby-projects-on-machine-learning) I implemented in my free time just for fun and curiosity.    
 
 
 &nbsp;
