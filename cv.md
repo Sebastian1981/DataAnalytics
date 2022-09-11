@@ -3,7 +3,6 @@ layout: page
 title: Curriculum Vitae
 ---
 
-My resume is structured into the following sections: 
 - [Projects and Work Experience](#projects-and-work-experience)
 - [Education](#education) 
 - [Expertise and Tools](#expertise-and-tools) 
