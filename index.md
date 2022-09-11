@@ -5,7 +5,7 @@ title: Physicist & Data Scientist | Expert on Machine-Learning
 
 Welcome to my homepage. Below you´ll find some information about my [professional background](#personal-professional-background), my [expertise](#expertise) and my [value proposition](#value-proposition) for your business.
 
-![universe](images/artificial_intelligence.png)
+![universe](images/artificial_intelligence.png)\
 <sub>*Image Credit: Wikipedia*
 
 *“It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.” ― Richard P. Feynman ―*
