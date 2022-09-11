@@ -22,7 +22,8 @@ Germany
 # **Imprint**
 
 **Legal Provider Identification:**\
-Dr. rer. nat. Sebastian Domsch\
+Dr. Sebastian Domsch\
+Im Wingert 3\
 68519 Viernheim\
 Germany
 
