@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Physicist & Data Scientist | Expert on Machine-Learning 
+title: Physicist | Data Scientist | Expert on Machine-Learning 
 ---
 
-Welcome to my homepage. Below you´ll find some information about my [professional background](#personal-professional-background), my [expertise](#expertise) and my [value proposition](#value-proposition) for your business.
+Welcome to my homepage. Below you´ll find some information about my [professional background](#professional-background), my [expertise](#expertise) and my [value proposition](#value-proposition) for your business.
 
 ![universe](images/artificial_intelligence.png)\
 <sub>*Image Credit: Wikipedia*
@@ -30,3 +30,5 @@ I have specialized on rapid ML-prototyping and on fast automation of ML-workflow
 - Presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
 - Supporting ML-model deployment
 - Supporting an agil developer team with structured thinking and clean code
+
+[Top of Page](#professional-background)

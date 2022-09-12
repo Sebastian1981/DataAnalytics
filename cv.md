@@ -58,6 +58,7 @@ My resume is structured into the following sections:
 - Reviewer for various international research journals with special focus on Magnetic Resonance Imaging and signal- and imaging processing
 - Tools: Matlab, Microsoft Powerpoint, Microsoft Excel
 
+[Top of Page](#projects-and-work-experience)
 
 &nbsp;
 
@@ -106,6 +107,7 @@ My resume is structured into the following sections:
 - history (**grade: *"very good"***) 
 - English (**grade: *"satisfactory"***)
 
+[Top of Page](#projects-and-work-experience)
 
 &nbsp;
 
@@ -141,6 +143,8 @@ My resume is structured into the following sections:
 - German (C2, mother tongue)
 - English (C1)
 
+[Top of Page](#projects-and-work-experience)
+
 &nbsp;
 
 ## Certified Qualifications
@@ -162,6 +166,8 @@ My resume is structured into the following sections:
 - Attending lectures, seminars, workshops on the topic of "Learning, memory, and brain plasticity: Implications for psychopathology"
 - 01/2012 – 03/2012, Research Internship, Clinic for Addictive Behavior and Addiction Medicine, Central Institute for Mental Health: Tasks: Optimization of MR-sequences to measure the orbitofrontal cortex and implementation of statistical evaluation methods to detect neuronal activation
 
+[Top of Page](#projects-and-work-experience)
+
 &nbsp;
 
 ## Conferences and Presentations
@@ -182,12 +188,15 @@ My resume is structured into the following sections:
 - 2009 - *ESMRMB* (poster presenter) - Antalya, Turkey
 - 2007 - *ISMRM* (speaker & poster presenter) - Wuerzburg, Germany
 
+[Top of Page](#projects-and-work-experience)
 
 &nbsp;
 
 ## Awards and Promotions
 - 2014 - Dissertation prize, awarded 10,000 € by the *Thomas Gessmann Foundation* for the engineering department
 - 2011/2012 - Doctoral scholarship, funded by the *Collaborative Research Center (SFB 636)* of the German Research Foundation
+
+[Top of Page](#projects-and-work-experience)
 
 &nbsp;
 
@@ -196,8 +205,12 @@ My resume is structured into the following sections:
 - Hiking, fitness, model plane aerobatics, skiing, windsurfing
 - Athletics (greatest successes: 2003, German university champion (4x400m relay); 2002, Baden vice champion (400m); 2000/2001, Bavarian junior champion (400m/800m)
 
+[Top of Page](#projects-and-work-experience)
+
 &nbsp;
 
 ## Memberships
 - German Physical Society 
 - SOS Children's Village
+
+[Top of Page](#projects-and-work-experience)
