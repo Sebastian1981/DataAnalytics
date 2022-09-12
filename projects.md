@@ -36,6 +36,8 @@ In the following, I provide an overview of the projects I was involved in relate
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Meter Forecasting*** ![meter_reading_forecast](images/projects/meter_reading_forecast.png)| *To forecast meter-readings* | *As a data scientist, I developed a regression model based on historical time-series data to forecast meter-readings. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep-Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
 
+[Top of Page](#data-science-professional-projects)
+
 &nbsp;
 
 # **Academic Research Projects on Machine Learning**
@@ -46,6 +48,8 @@ In the following, I provide an overview of the projects I was involved in relate
 | ***MRI-based OEF Mapping*** ![qBOLD_regularization](images/projects/qBOLD_regularization.png) | *To research on improving the mapping of the OEF (=oxygen extraction fraction) with regularized regression* | *As a post-doc researcher, I developed a regularized regression model to improve the quality of OEF maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. Further, I advised other colleagues on the development of this data modeling strategy. (More details are provided in: Domsch et al., Proc. ESMRMB Congress, Edinburgh, UK, 32, p.36, 2015); S. Thomas, S. Hubertus, S. Domsch and L. Schad, Proc. Int. Soc. Magn. Reson. Med., Paris, France, 26, p.2093, 2018* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***MRI-based Diffusion Imaging*** ![diff_ann](images/projects/diff_ann.png) | *To research on improving the mapping of diffusion parameters with artificlial neural networks* | *As a post-doc researcher, I advised other colleagues on the development of an artificial neural network regression model to improve the quality of diffusion parameter maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. (More details are provided in: Domsch and Bertleff et al., NMR Biomed, 30(12), 2017)* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
+
+[Top of Page](#data-science-professional-projects)
 
 &nbsp;
 
@@ -91,3 +95,5 @@ In the following, I provide an overview of the projects I was involved in relate
 | ***Customer Lifetime Value (CLV)*** ![clv](images/projects/customer_value.png) | *To implement an explainable ml-model for CLV prediction* | *In my free time I implemented an explainable and fair regression model, trained on tabular data, to predict CLV. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/CustomerAnalytics_CLV))* | *Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fairlearn), Jupyter, VSCode* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ***Sales Forecasting*** ![sales_forecast](images/projects/sales_forecast.png) | *To implement an explainable ml-model for sales prediction* | *In my free time I compared different modeling approaches forecasting sales using explainable models (i.e. classical ml-models in combination with shapley-values and the novel neural-prophet algorithm by facebook) to identify driving features like saisonality, holiday, promo etc. (The code and more details are provided in the [github repo 1](https://github.com/Sebastian1981/Sales_Prediction) and the [github repo 2](https://github.com/Sebastian1981/Time_Series_Sales_Prediction))* | *Explainable AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, neural-prophet), Jupyter, VSCode* |
+
+[Top of Page](#data-science-professional-projects)

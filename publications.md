@@ -61,6 +61,7 @@ In the following, I provide an overview of the scientific work I published at ma
 ### 2007
 - **S. Domsch**, A. Kroll and L. Schad. „Vergleich von BOLD- und ASL-fMRT bei 3.0 Tesla an einem Fingertapping-Experiment"; 10. Jahrestagung der Deutschen Sektion der International Society for Magnetic Resonance in Medicine (ISMRM), Würzburg (2007)
 
+[Top of Page](#conference-contributions)
 
 &nbsp;
 
@@ -89,6 +90,7 @@ In the following, I provide an overview of the scientific work I published at ma
 ### 2012
 - **S. Domsch**, A. Lemke, S. Weingärtner and L. Schad. „A novel temporal filtering strategy for functional MRI using UNFOLD”; Neuroimage, 62 (1), pp.59-66 (2012); doi:10.1016/j.neuroimage.2012.03.064
 
+[Top of Page](#conference-contributions)
 
 &nbsp;
 
@@ -100,3 +102,5 @@ In the following, I provide an overview of the scientific work I published at ma
 
 ### 2008
 - **S. Domsch**, „Vergleich von ASL- und BOLD-fMRI an einem Fingertapping-Experiment bei 3,0 Tesla und Entwicklung einer echoplanaren Bildgebungssequenz mit variabler Echozeit."; Diploma Thesis, Heidelberg University (2008)
+
+[Top of Page](#conference-contributions)
