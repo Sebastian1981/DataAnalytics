@@ -63,6 +63,14 @@ In the following, I provide an overview of the projects I was involved in relate
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ***Sales Forecasting*** ![sales_forecast](images/projects/sales_forecast.png) | *To implement an explainable ml-model for sales prediction* | *I compared different modeling approaches forecasting sales using explainable models (i.e. classical ml-models in combination with shapley-values and the novel neural-prophet algorithm by facebook) to identify driving features like saisonality, holiday, promo etc. (The code and more details are provided in the [github repo 1](https://github.com/Sebastian1981/Sales_Prediction) and the [github repo 2](https://github.com/Sebastian1981/Time_Series_Sales_Prediction))* | *Explainable AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, neural-prophet), Jupyter, VSCode* |
 
+[Top of Page](#data-science-professional-projects)
+
+## **Cluster Analysis:**
+
+show some protfolio optimization model here
+
+[Top of Page](#data-science-professional-projects)
+
 ## **Classification Models:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
@@ -75,6 +83,8 @@ In the following, I provide an overview of the projects I was involved in relate
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ***Cardio Vascular Disease Prediction*** ![cardio_vascular_disease](images/projects/cardio_vascular_disease.png) <small><small>*Image courtesy: guardian.ng*</small> | *To implement and deploy a cardio vascular disease model with AWS Sagemaker* | *I implemented a classification model, trained on tabular data, providing disease risk propensity scores. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/AWS_Sagemaker_CVD_Prediction))* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, seaborn, sagemaker, boto3), Sagemaker Studio* |
 
+[Top of Page](#data-science-professional-projects)
+
 ## **Regression Models:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
@@ -82,6 +92,8 @@ In the following, I provide an overview of the projects I was involved in relate
 | ***Insurance Bill Prediction Web-App*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ***Customer Lifetime Value (CLV)*** ![clv](images/projects/customer_value.png) | *To implement an explainable ml-model for CLV prediction* | *I implemented an explainable and fair regression model, trained on tabular data, to predict CLV. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/CustomerAnalytics_CLV))* | *Explainable AI, Fair AI, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, shap, fairlearn), Jupyter, VSCode* |
+
+[Top of Page](#data-science-professional-projects)
 
 ## **Natural Language Processing:**
 
@@ -91,11 +103,12 @@ In the following, I provide an overview of the projects I was involved in relate
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ***Topic Modeling*** ![topic_modeling](images/projects/topic_modeling.png) | *To implement a topic modeling API* | *I implemented a natural language processing model using the latent-dirichlet-allocation algorithm and trained on raw text data to extract topics from articles. I deployed the model with flask-api as backend. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/natural_language_processing))* | *Natural Language Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, nltk, flask), VSCode, Jupyter* |
 
+[Top of Page](#data-science-professional-projects)
+
 ## **Image Analysis:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Object Detection*** ![object_detection](images/projects/object_detection.png) | *To implement a fruit detector in Azure* | *I implemented a fruit detection model, trained on image data, using Azure cognitive services. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Object_Detection))* | *Image Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, pil), VSCode, Jupyter, Azure Cognitive Services* |
-
 
 [Top of Page](#data-science-professional-projects)
