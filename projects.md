@@ -57,7 +57,7 @@ In the following, I provide an overview of the projects I was involved in relate
 # **Hobby Projects on Machine Learning**
 
 
-[Time-Series Analysis](.\hobby_projects\timeseries.md)
+[Time-Series Analysis](./hobby_projects/timeseries.md)
 
 
 
