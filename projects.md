@@ -55,7 +55,7 @@ In the following, I provide an overview of the projects I was involved in relate
 
 
 # **Hobby Projects on Machine Learning**
-## **Time-Series Forecasting:**
+### **Time-Series Forecasting:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -63,12 +63,12 @@ In the following, I provide an overview of the projects I was involved in relate
 
 Please check out my github for further projects on time-series forecasting such as sales prediction with [machine learning](https://github.com/Sebastian1981/Sales_Prediction) and sales prediction with [facebook´s neural prophet](https://github.com/Sebastian1981/Time_Series_Sales_Prediction).
 
-## **Cluster Analysis:**
+### **Cluster Analysis:**
 
 show some protfolio optimization model here
 
 
-## **Classification Models:**
+### **Classification Models:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -76,7 +76,7 @@ show some protfolio optimization model here
 
 Please check out my github for further projects on classification problems such as [diabetis risk prediction](https://github.com/Sebastian1981/Healthrisk_Modeling), [customer churn prediction](https://github.com/Sebastian1981/Churn_Prediction_AutoML) or [cardio-vascular disease prediction](https://github.com/Sebastian1981/AWS_Sagemaker_CVD_Prediction). 
 
-## **Regression Models:**
+### **Regression Models:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -84,7 +84,7 @@ Please check out my github for further projects on classification problems such 
 
 Please check out my github for further projects on regression problems such as [customer life time value prediction](https://github.com/Sebastian1981/CustomerAnalytics_CLV).
 
-## **Natural Language Processing:**
+### **Natural Language Processing:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -92,7 +92,7 @@ Please check out my github for further projects on regression problems such as [
 
 Please check out my github for further projects on natural language processing problems such as [topic modeling](https://github.com/Sebastian1981/natural_language_processing).
 
-## **Image Analysis:**
+### **Image Analysis:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
