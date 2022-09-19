@@ -1,5 +1,0 @@
-# Time-Series Analysis
-
-In this project, we forecast ....
-
-
