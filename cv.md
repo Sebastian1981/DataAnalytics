@@ -3,8 +3,9 @@ layout: page
 title: Resume
 ---
 
-![universe](images/profil_fotos.png)
+# Physicist | Data Scientist | Research Scientist
 
+![universe](images/profil_fotos.png)
 
 My resume is structured into the following sections:
 - [Projects and Work Experience](#projects-and-work-experience)
