@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physicist | Data Scientist | Expert on Machine-Learning 
+title: Physicist | Data Scientist | Research Scientist 
 ---
 
 Welcome to my homepage. Below you´ll find some information about my [professional background](#professional-background), my [expertise](#expertise) and my [value proposition](#value-proposition) for your business.
