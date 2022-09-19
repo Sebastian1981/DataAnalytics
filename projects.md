@@ -56,6 +56,11 @@ In the following, I provide an overview of the projects I was involved in relate
 
 # **Hobby Projects on Machine Learning**
 
+
+[Time-Series Analysis](timeseries.md)
+
+
+
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***COVID-19 Prediction Web-App*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets provided by www.ourworldindata.org to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://sebastian1981-covid-prediction-streamlit-appapp-i8x7ho.streamlitapp.com) and as an [azure web-app](https://covid19app.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
