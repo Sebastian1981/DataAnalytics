@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Resume
+title: Physicist | Data Scientist | Research Scientist
 ---
-
-# Physicist | Data Scientist | Research Scientist
 
 ![universe](images/profil_fotos.png)
 
