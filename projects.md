@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, I provide an overview of the projects I was involved in related to data science and machine learning (ML). They are subdivided into three major groups. In group one and two are the ml-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. Finally, in group three I put together some [hobby-projects](#hobby-projects-on-machine-learning) I implemented in my free time just for fun and curiosity.    
+In the following, you´ll find an overview of my projects experience in healthcare and renewable energy. They are subdivided into three major groups. In group one and two are the ML-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. Finally, in group three I put together some [hobby-projects in finance and healthcare](#hobby-projects-in-finance-and-healthcare) I implemented in my free time just for fun and curiosity.    
 
 
 &nbsp;
@@ -54,21 +54,23 @@ In the following, I provide an overview of the projects I was involved in relate
 &nbsp;
 
 
-# **Hobby Projects on Machine Learning**
-### **Time-Series Forecasting:**
+# **Hobby Projects in Finance and Healthcare**
+## **Healthcare Projects:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***COVID-19 Prediction Web-App*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets provided by www.ourworldindata.org to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://sebastian1981-covid-prediction-streamlit-appapp-i8x7ho.streamlitapp.com) and as an [azure web-app](https://covid19app.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ***Insurance Bill Prediction Web-App*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
+
+
+Please check out my github for further projects on regression problems such as [customer life time value prediction](https://github.com/Sebastian1981/CustomerAnalytics_CLV).
+
 
 Please check out my github for further projects on time-series forecasting such as sales prediction with [machine learning](https://github.com/Sebastian1981/Sales_Prediction) and sales prediction with [facebook´s neural prophet](https://github.com/Sebastian1981/Time_Series_Sales_Prediction).
 
-### **Cluster Analysis:**
 
-show some protfolio optimization model here
-
-
-### **Classification Models:**
+## **Finance Projects:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -76,13 +78,7 @@ show some protfolio optimization model here
 
 Please check out my github for further projects on classification problems such as [diabetis risk prediction](https://github.com/Sebastian1981/Healthrisk_Modeling), [customer churn prediction](https://github.com/Sebastian1981/Churn_Prediction_AutoML) or [cardio-vascular disease prediction](https://github.com/Sebastian1981/AWS_Sagemaker_CVD_Prediction). 
 
-### **Regression Models:**
 
-| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***Insurance Bill Prediction Web-App*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
-
-Please check out my github for further projects on regression problems such as [customer life time value prediction](https://github.com/Sebastian1981/CustomerAnalytics_CLV).
 
 ### **Natural Language Processing:**
 
