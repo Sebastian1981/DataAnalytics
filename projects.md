@@ -3,10 +3,8 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, you´ll find an overview of my projects experience in healthcare and renewable energy. They are subdivided into three major groups. In group one and two are the ML-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. Finally, in group three I put together some [hobby-projects in finance and healthcare](#hobby-projects-in-finance-and-healthcare) I implemented in my free time just for fun and curiosity.    
+In the following, you´ll find an overview of my projects experience in healthcare and renewable energy. They are subdivided into three major groups. In group one and two are the ML-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. Finally, in group three I put together some [hobby-projects in healthcare and finance](#hobby-projects-in-healthcare-and-finance) I implemented in my free time just for fun and curiosity.    
 
-
-&nbsp;
 
 # **Data Science Professional Projects**
 
@@ -54,7 +52,7 @@ In the following, you´ll find an overview of my projects experience in healthca
 &nbsp;
 
 
-# **Hobby Projects in Finance and Healthcare**
+# **Hobby Projects in Healthcare and Finance**
 ## **Healthcare Projects:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
