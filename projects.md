@@ -6,13 +6,13 @@ title: Project Portfolio
 In the following, you´ll find an overview of my project experiences in healthcare and the renewable energy industry. They are subdivided into two major groups. In group one you´ll find a brief description of the the ML-projects I carried out as a [data science professional](#data-science-professional-projects). In group two you´ll find a brief description of the the projects related to ML I carried out as an [academic researcher](#academic-research-projects-on-machine-learning). Last but not least, I put together some [hobby-projects in healthcare and finance](#hobby-projects-in-healthcare-and-finance) I implemented in my free time just for fun and curiosity.
 
 # **Data Science Professional Projects**
-## **Healthcare Projects:**
+### **Healthcare Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
 
-## **Renewable Energy Projects:**
+### **Renewable Energy Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -57,7 +57,7 @@ In the following, you´ll find an overview of my project experiences in healthca
 
 
 # **Hobby Projects in Healthcare and Finance**
-## **Healthcare Projects:**
+### **Healthcare Projects:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -72,7 +72,7 @@ Please check out my github for further projects on regression problems such as [
 Please check out my github for further projects on time-series forecasting such as sales prediction with [machine learning](https://github.com/Sebastian1981/Sales_Prediction) and sales prediction with [facebook´s neural prophet](https://github.com/Sebastian1981/Time_Series_Sales_Prediction).
 
 
-## **Finance Projects:**
+### **Finance Projects:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
