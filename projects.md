@@ -3,15 +3,19 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, you´ll find an overview of my projects experience in healthcare and renewable energy. They are subdivided into three major groups. In group one and two are the ML-projects I carried out as a [data science professional](#data-science-professional-projects) and as an [academic researcher](#academic-research-projects-on-machine-learning), respectively. Finally, in group three I put together some [hobby-projects in healthcare and finance](#hobby-projects-in-healthcare-and-finance) I implemented in my free time just for fun and curiosity.    
-
+In the following, you´ll find an overview of my project experiences in healthcare and the renewable energy industry. They are subdivided into two major groups. In group one you´ll find a brief description of the the ML-projects I carried out as a [data science professional](#data-science-professional-projects). In group two you´ll find a brief description of the the projects related to ML I carried out as an [academic researcher](#academic-research-projects-on-machine-learning). Last but not least, I put together some [hobby-projects in healthcare and finance](#hobby-projects-in-healthcare-and-finance) I implemented in my free time just for fun and curiosity.
 
 # **Data Science Professional Projects**
+## **Healthcare Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
+
+## **Renewable Energy Projects:**
+
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
 | ***Purchase Analysis*** ![maverick_buying](images/projects/maverick_buying.png)| *To identity incorrect order processes* | *I developed a classification model from historical tabular data providing propensity scores for incorrect orders. I deployed and updated the model in SPSS modeler. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Natural Language Processing (bag-of-words), Python (numpy, pandas, sklearn, matplotlib), R, Jupyter, RStudio, Spyder, SPSS Modeler* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Predictive Maintenance*** ![pred_maintenance](images/projects/pred_maintenance.png)| *To predict machine-failure of wind turbines* | *I developed a classification model based on weather and sensory time-series data providing propensity scores for imminent failure of wind turbines. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
