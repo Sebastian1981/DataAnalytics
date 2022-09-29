@@ -3,33 +3,15 @@ layout: page
 title: Datenschutz
 ---
 
-Unless otherwise stated below, the provision of your personal data is not required by law or contract, nor is it necessary for the conclusion of a contract. You are not obliged to provide the data. Failure to provide it has no consequences. This only applies if no other information is given in the subsequent processing operations.
-"Personal data" means any information relating to an identified or identifiable natural person.
-
-**Server Logfiles**\
-You can visit my website without providing any personal information. Every time you access my website, usage data is transmitted to us or our web host/IT service provider by your Internet browser and stored in log data (so-called server log files). This stored data includes, for example, the name of the page accessed, the date and time of access, the IP address, the amount of data transferred and the requesting provider. The processing takes place on the basis of Art. 6 Paragraph 1 lit. f GDPR from our overriding legitimate interest in ensuring trouble-free operation of our website and improving our offer.
-
-**Responsible**\
-Contact me if you wish. Responsible for data processing is:
-
-Dr. Sebastian Domsch\
-Im Wingert 3\
-68519 Viernheim\
-Germany\
-+49 176 / 611 49 507\
-SDomsch314@gmail.com
-
-**Customer's Initiative Contact By E-Mail**\
-If you initiate business contact with me by e-mail, I will only collect your personal data (name, e-mail address, message text) to the extent you have made them available. The data processing serves to process and answer your contact request. If the establishment of contact serves to carry out pre-contractual measures (e.g. advice on purchase interest, preparation of an offer) or concerns a contract already concluded between you and me, this data processing takes place on the basis of Article 6 Paragraph 1 lit. b GDPR. If contact is made for other reasons, this data processing takes place on the basis of Article 6 (1) (f) GDPR from our overriding legitimate interest in processing and answering your request. In this case, you have the right, for reasons arising from your particular situation, to object to the processing of your personal data based on Article 6 (1) (f) GDPR at any time. I only use your e-mail address to process your request. Your data will then be deleted in compliance with statutory retention periods, unless you have consented to further processing and use.
-
 **Allgemeiner Hinweis und Pflichtinformationen**\
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:\
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+
 Dr. Sebastian Domsch\
 Im Wingert 3\
-68519 Viernheim\
+68519 Viernheim
 
 Telefon: +49 176 / 611 49 507\
-Mail: SDomsch314@gmail.com\
+Mail: SDomsch314@gmail.com
 
 **Schriftliche oder telefonische Anfragen**\
 Wenn Sie uns schriftlich (z.B. per E-Mail) oder auf anderem Wege (z.B. telefonisch) kontaktieren,  wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Mailadresse, Telefonnummer Anfrage, etc.) zum Zwecke der Bearbeitung und Beantwortung Ihres Anliegens bei uns gespeichert und verarbeitet. 
@@ -48,7 +30,6 @@ Weiterhin steht Ihnen das Recht zu, Daten, die wir auf Grundlage Ihrer Einwillig
 Sollten Sie von einem dieser Rechte Gebrauch machen wollen oder Fragen hierzu haben, können Sie sich an den verantwortlichen Kontakt für die Datenverarbeitung wenden.
 
 **Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde**\
-
 Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet. Der folgende Link stellt eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten bereit:\
 https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
