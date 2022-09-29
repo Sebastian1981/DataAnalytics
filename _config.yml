@@ -1,6 +1,6 @@
 title: "Dr. Sebastian Domsch | Physicist | Data Scientist | Research Scientist"
 author: "Dr. Sebastian Domsch"
-description: "Contact me to turn your data into oil or even rocket fuel!"
+description: "Dr. Sebastian Domsch"
 permalink: /title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,8 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "projects.md", title: "Projects", sidebaricon: home}
   - {file: "publications.md", title: "Publications", sidebaricon: home}
   - {file: "contact.md", title: "Contact", sidebaricon: home}
-  - {file: "imprint.md", title: "Imprint", sidebaricon: home}
-  - {file: "privacy.md", title: "Privacy", sidebaricon: home}
+  #- {file: "imprint.md", title: "Imprint", sidebaricon: home}
+  #- {file: "privacy.md", title: "Privacy", sidebaricon: home}
   #- {file: "myblog.md", title: "Blog", sidebaricon: home}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -30,7 +30,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/Sebastian1981"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Sebastian-Domsch"}
   - {title: Mail, icon: envelope, url: "mailto: SDomsch@gmail.com"}
-  - {title: "Privacy_test", sidebaricon: home, file: "privacy.md"}
+  - {title: "Imprint", sidebaricon: home, file: "imprint.md",  }
+  - {title: "Privacy", sidebaricon: home, file: "privacy.md"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
