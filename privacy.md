@@ -12,7 +12,7 @@ The responsible body for data processing on this website is:
 
 Dr Sebastian Domsch\
 Im Wingert 3\
-68519 Viernheim
+68519 Viernheim\
 Germany\
 Phone: +49 176 / 611 49 507\
 Mail: SDomsch314@gmail.com
@@ -94,8 +94,8 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Dr. Sebastian Domsch\
 Im Wingert 3\
-68519 Viernheim
-
+68519 Viernheim\
+Deutschland, Hessen\
 Telefon: +49 176 / 611 49 507\
 Mail: SDomsch314@gmail.com
 
