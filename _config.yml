@@ -30,8 +30,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/Sebastian1981"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Sebastian-Domsch"}
   - {title: Mail, icon: envelope, url: "mailto: SDomsch@gmail.com"}
-  - {title: "Impressum", sidebaricon: home, file: "imprint.md",  }
-  - {title: "Datenschutz", sidebaricon: home, file: "privacy.md"}
+  - {title: "Imprint", sidebaricon: home, file: "imprint.md",  }
+  - {title: "Privacy", sidebaricon: home, file: "privacy.md"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
