@@ -76,6 +76,11 @@ Please check out my github for further projects on time-series forecasting such 
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
+| ***Asset-Portfolio Optimization Web-App*** ![portfolio_optimization](images/projects/portfolio_optimization.png) | *To implement an asset-portfolio optimization web-app* | *I implemented a simulation based asset-portfolio optimization algorithm to maximize the expected return for a given risk. The web-app was imlemented in streamlit and deployed in the [streamlit-cloud](https://sebastian1981-stock-prediction-app-392vq0.streamlitapp.com). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit), Jupyter, VSCode* |
+
+
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
 | ***Credit Default Prediction Web-App*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction web-app* | *I implemented a classification model to predict credit default risks. Then I developed a streamlit web-app, which I deployed as an [azure web-app](https://creditdefaultapp.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/CustomerAnalytics_CreditDefaultPrediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
 
 Please check out my github for further projects on classification problems such as [diabetis risk prediction](https://github.com/Sebastian1981/Healthrisk_Modeling), [customer churn prediction](https://github.com/Sebastian1981/Churn_Prediction_AutoML) or [cardio-vascular disease prediction](https://github.com/Sebastian1981/AWS_Sagemaker_CVD_Prediction). 
