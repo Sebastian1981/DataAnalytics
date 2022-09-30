@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum
+title: Imprint
 ---
 
 **Legal Provider Identification:**\
