@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Feel free to contact me at any time to discuss exciting data science ideas or project proposals.
+Feel free to contact me. I am excited to discuss with you interesting data science ideas or project proposals.
 
 **Dr. Sebastian Domsch**\
 **Phone:** +49 176 / 611 49 507\
