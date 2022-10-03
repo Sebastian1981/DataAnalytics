@@ -126,9 +126,9 @@ My resumee is structured into the following sections:
 - Statistics
 - Data Modeling (e.g. Machine Learning)
 - Monte-Carlo Simulation
-- Linear Optimizazionization
+- Linear Optimization
 - AB-Testing
-- Image Procesing
+- Image Processing
 - Signal Processing
 - Presentation / Publication of Scientific or Complex Issues
 - Team / Agile Working (e.g. KANBAN) 
