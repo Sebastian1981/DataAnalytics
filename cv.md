@@ -118,28 +118,35 @@ My resumee is structured into the following sections:
 ## Expertise and Tools
 
 **Expertise**
-- translation of business probems into data science use cases
-- exploratory data analysis and data visualization 
-- rapid model prototyping, model evaluation and communication of the results to a non-technical audience
-- monte carlo simulations & A/B testing 
-- pyhsics & (functional) magnetic resonance imaging 
-- image processing & signal processing 
-- agile working (e.g. KANBAN) & teamwrok
+- Physics
+- Medical Physics
+- Magnetic Resonance Imaging
+- Data Analysis
+- Data Visualization
+- Statistics
+- Data Modeling (e.g. Machine Learning)
+- Monte-Carlo Simulation
+- Linear Optimizazionization
+- AB-Testing
+- Image Procesing
+- Signal Processing
+- Presentation / Publication of Scientific or Complex Issues
+- Team / Agile Working (e.g. KANBAN) 
 
 **Programming**
 - Python (+++)
-- Matlab (+++)
-- R (++) 
+- R (++)
+- Matlab (+++) 
 - SQL (+)
 
 **Tools**
 - VSCode (+++)
 - Jupyter (+++)
-- Google Colab (+++)
-- Azure Machine Learning SDK (+++)
-- Azure Cognitive Services API (++)
-- Amazon Sagemaker Studio (++)
 - RStudio (++)
+- Google Colab (+++)
+- Amazon Sagemaker Studio (++)
+- Azure Machine Learning SDK (+++)
+- Azure Cognitive Services API (+)
 - SPSS-Modeller (++)
 - Git (+)
 
