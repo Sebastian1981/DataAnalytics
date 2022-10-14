@@ -76,7 +76,7 @@ Please check out my github for further projects on time-series forecasting such 
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Asset-Portfolio Optimization Web-App*** ![portfolio_optimization](images/projects/portfolio.png) | *To implement an asset-portfolio optimization web-app* | *I implemented a simulation based asset-portfolio optimization algorithm to maximize the expected return for a given risk. The web-app was imlemented in streamlit and deployed in the [streamlit-cloud](https://sebastian1981-stock-prediction-app-392vq0.streamlitapp.com). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit), Jupyter, VSCode* |
+| ***Asset-Portfolio Optimization Web-App*** ![portfolio_optimization](images/projects/portfolio.png) | *To implement a portfolio optimization web-app* | *I implemented a  finance portfolio optimization app to maximize the expected return for a given risk using monte-carlo simulations and artificial swarm intelligence. The app was deployed in the [streamlit-cloud](https://portfoliooptimization.streamlitapp.com). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Artificial Swarm Intelligence, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit, pyswarm), Jupyter, VSCode* |
 
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
