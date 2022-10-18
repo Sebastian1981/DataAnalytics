@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Physicist | Data Scientist | Research Scientist
+title: Physicist | Expert on Machine Learning and Optimization
 ---
 
 ![universe](images/profil_fotos.png)
@@ -24,7 +24,7 @@ My resumee is structured into the following sections:
 ***Delft, Netherlands***
 - Advice and support on machine-learning based active reduction of noise in MRI
 - Advice and support on publishing in peer-reviewed journals
-- Skills: Magnetic Resonance Imaging, Scientific Reading and Writing, Machine-Learning, Deep Learning
+- Skills: Magnetic Resonance Imaging, Scientific Reading/Writing, Machine-Learning, Deep-Learning
 - Tools: Python, Jupyter, VSCode
 
 **04/2022 – 06/2022 | Data Scientist (freelance / remote)**\
@@ -40,7 +40,7 @@ My resumee is structured into the following sections:
 ***Darmstadt, Germany***
 - Teaching of data science basics at management level within the framework of a group-wide data competence center
 - Advising the specialist departments of the ENTEGA Group on the translation of business probem into a data science use case
-- Prototype development of machine learning models as part of feasibility studies based on tabular data sets and time series (e.g. churn score, customer value, customer segmentation, default score, predictive maintenance)
+- Development of machine learning model prototypes as part of feasibility studies to create forecasts or to solve optimization tasks (e.g. churn prediction, assessment of creditworthiness, optimization of machine parameters, optimization of completion-rates)
 - Visualization and communication of data science results to the specialist departments and management
 - Support for data engineers in integrating machine learning models into a productive environment
 - Support in setting up a group-wide big-data platform
@@ -57,7 +57,7 @@ My resumee is structured into the following sections:
 - Lecturer in physics, medicine, medical physics and medical engineering within lectures and seminars 
 - Publication of research results in international journals and at research conferences
 - Reviewer for various international research journals with special focus on Magnetic Resonance Imaging and signal- and imaging processing
-- Skills: Medical Physics, Magnetic Resonance Imaging, Time-Series Analysis, Statistics, Image Processing, Signal Processing, Regression Methods, Scientific Reading and Writing
+- Skills: Medical Physics, Magnetic Resonance Imaging, Time-Series Analysis, Statistics, Image Processing, Signal Processing, Regression Methods, Monte-Carlo Simulations, A/B Testing, Scientific Reading/Writing
 - Tools: Matlab, Microsoft Powerpoint, Microsoft Excel
 
 [Top of Page](#projects-and-work-experience)
@@ -72,7 +72,7 @@ My resumee is structured into the following sections:
 - Prototype development of fast MRI imaging sequences in C++ to robustly measure neural activity in the human brain; Working title: "Functional magnetic resonance imaging with high spatial and temporal resolution, using EPI combined with various k-space undersampling techniques at 3 Tesla"
 - Evaluation of complex fMRI studies in Matlab based on 3D-image data and time-series data
 - Publication of research results in international journals and at research conferences
-- Skills: Medical Physics, Magnetic Resonance Imaging, Time-Series Analysis, Statistics, Image Processing, Signal Processing, Regression Methods, Scientific Reading and Writing
+- Skills: Medical Physics, Magnetic Resonance Imaging, Time-Series Analysis, Statistics, Image Processing, Signal Processing, Regression Methods, Monte-Carlo Simulations, A/B Testing, Scientific Reading/Writing
 - Tools: Matlab, Latex, Microsoft Powerpoint, Microsoft Excel
 
 **07/2007 – 06/2008 | Preparation of a Diploma Thesis (grade: *"very good"*)**\
@@ -80,7 +80,7 @@ My resumee is structured into the following sections:
 ***Heidelberg, Germany***
 - Working title: "Comparison of ASL and BOLD fMRI in a finger tapping experiment at 3T and development of an EPI measurement sequence with variable echo time"; 
 - Tasks: Prototype development of MR imaging sequences in C++ to measure neuronal activity in the human brain; Implementation of image/signal analysis methods in Matlab
-- Skills: Medical Physics, Magnetic Resonance Imaging, Time-Series Analysis, Statistics, Image Processing, Signal Processing, Regression Methods, Scientific Reading and Writing
+- Skills: Medical Physics, Magnetic Resonance Imaging, Time-Series Analysis, Statistics, Image Processing, Signal Processing, Regression Methods, Monte-Carlo Simulations, A/B Testing, Scientific Reading/Writing
 - Tools: Matlab, C++, Latex, Microsoft Powerpoint, Microsoft Excel
 
 **10/2001 – 06/2008 | Diploma in Physics**\
@@ -118,20 +118,16 @@ My resumee is structured into the following sections:
 ## Expertise and Tools
 
 **Expertise**
-- Physics
-- Medical Physics
-- Magnetic Resonance Imaging
-- Data Analysis
-- Data Visualization
-- Statistics
-- Data Modeling (e.g. Machine Learning)
+- Physics, Medical Physics, Magnetic Resonance Imaging
+- Data Analysis, Data Visualization
+- Statistics, AB-Testing
+- Machine-Learning, Deep-Learning
 - Monte-Carlo Simulation
-- Linear Optimization
-- AB-Testing
-- Image Processing
-- Signal Processing
-- Presentation / Publication of Scientific or Complex Issues
-- Team / Agile Working (e.g. KANBAN) 
+- Linear/Noninear Optimization under Constraints
+- Image Processing, Signal Processing
+- Presentation Complex Topics
+- Scientific Reading/Writing
+- Working in an agile Team (e.g. KANBAN) 
 
 **Programming**
 - Python (+++)
@@ -159,6 +155,12 @@ My resumee is structured into the following sections:
 &nbsp;
 
 ## Certified Qualifications
+
+**2019 – today | Certificates Earned through Hands-On Programming on DataCamp's Interactive Online Learning Platform (https://www.datacamp.com)**\
+- 2022 - *“Supply Chain Analytics in Python”, “Introduction to Natural Language Processing in Python”* 
+- 2021 - *“Introduction to Git”, “Advanced Deep Learning with Keras”* 
+- 2020 - *“Object-Oriented Programming in Python”, “Writing Efficient Python Code”* 
+- 2019 - *“Introduction to PySpark”, “Introduction to SQL”, “Intermediate SQL Queries”, “Introduction to Python”, ”Intermediate Python”, “Python Data Science Toolbox (Part 1)”, “Introduction to Deep-Learning” , “Machine Learning for Time Series Data in Python”, ”Time Series Analysis in Python”*
 
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
 **Bitkom Academy Certificate Course | Steinbeis University Berlin**\
