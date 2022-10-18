@@ -156,7 +156,7 @@ My resumee is structured into the following sections:
 
 ## Certified Qualifications
 
-**2019 – today | Certificates Earned through Hands-On Programming on DataCamp's Interactive Online Learning Platform (https://www.datacamp.com)**\
+**2019 – today | Certificates Earned through Hands-On Programming on DataCamp's Interactive Online Learning Platform (https://www.datacamp.com)**
 - 2022 - *“Supply Chain Analytics in Python”, “Introduction to Natural Language Processing in Python”* 
 - 2021 - *“Introduction to Git”, “Advanced Deep Learning with Keras”* 
 - 2020 - *“Object-Oriented Programming in Python”, “Writing Efficient Python Code”* 
