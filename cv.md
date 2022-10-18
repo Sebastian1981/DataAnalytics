@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physicist | Data Scientist | Research Scientist
+#title: Physicist | Data Scientist | Research Scientist
 ---
 
 ![universe](images/profil_fotos.png)

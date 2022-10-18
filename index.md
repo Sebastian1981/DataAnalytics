@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physicist | Expert for Machine Learning and Optimization 
+#title: Physicist | Expert for Machine Learning and Optimization 
 ---
 
 ![universe](images/artificial_intelligence.png)\
