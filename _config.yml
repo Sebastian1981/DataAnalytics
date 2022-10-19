@@ -28,6 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/dr-sebastian-domsch-342a3642"}
   - {title: Youtube, icon: youtube, url: "https://www.youtube.com"}
   - {title: Github, icon: github, url: "https://github.com/Sebastian1981"}
+  - {title: Dockerhub, icon: docker, url: "https://hub.docker.com/u/63531981"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Sebastian-Domsch"}
   - {title: Mail, icon: envelope, url: "mailto: SDomsch@gmail.com"}
   - {title: "Imprint", sidebaricon: home, file: "imprint.md",  }
