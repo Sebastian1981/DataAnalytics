@@ -38,7 +38,7 @@ In the following, you´ll find an overview of my project experiences in healthca
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Meter Forecasting*** ![meter_reading_forecast](images/projects/meter_reading_forecast.png)| *To forecast meter-readings* | *I developed a regression model based on historical time-series data to forecast meter-readings. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep-Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
 
-[Top of Page](#data-science-professional-projects)
+[Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
 
 &nbsp;
 
@@ -51,7 +51,7 @@ In the following, you´ll find an overview of my project experiences in healthca
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***MRI-based Diffusion Imaging*** ![diff_ann](images/projects/diff_ann.png) | *To research on improving the mapping of diffusion parameters with artificlial neural networks* | *I advised other colleagues on the development of an artificial neural network regression model to improve the quality of diffusion parameter maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. (More details are provided in: Domsch and Bertleff et al., NMR Biomed, 30(12), 2017)* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
 
-[Top of Page](#data-science-professional-projects)
+[Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
 
 &nbsp;
 
@@ -60,39 +60,43 @@ In the following, you´ll find an overview of my project experiences in healthca
 
 Below you find a brief overview of some sample projects I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) for more interesting coding-projects on topics such as customer life time value prediction, churn prediction, sales forecast, diabetis risk prediction, natural language processing or object detection.
 
+&nbsp;
 
-### **------------------------------- Healthcare -------------------------------**
-
-| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***COVID-19 Prediction Web-App*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets provided by www.ourworldindata.org to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://sebastian1981-covid-prediction-streamlit-appapp-i8x7ho.streamlitapp.com) and as an [azure web-app](https://covid19app.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
-| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Insurance Bill Prediction Web-App*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and web-api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
-
-
-### **------------------------------- Finance -------------------------------**
+### **------------------------------------- Healthcare -------------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Asset-Portfolio Optimization Web-App*** ![portfolio_optimization](images/projects/portfolio.png) | *To implement a portfolio optimization web-app* | *I implemented a  finance portfolio optimization app to maximize the expected return for a given risk using monte-carlo simulations and artificial swarm intelligence. The app was deployed in the [streamlit-cloud](https://portfoliooptimization.streamlitapp.com). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Artificial Swarm Intelligence, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit, pyswarm), Jupyter, VSCode* |
+| ***COVID-19 Prediction*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets provided by www.ourworldindata.org to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://sebastian1981-covid-prediction-streamlit-appapp-i8x7ho.streamlitapp.com) and as an [azure web-app](https://covid19app.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ***Insurance Bill Prediction*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and web-api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
+
+&nbsp;
+
+### **------------------------------------- Finance -------------------------------------**
+
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***Asset-Portfolio Optimization*** ![portfolio_optimization](images/projects/portfolio.png) | *To implement a portfolio optimization web-app* | *I implemented a  finance portfolio optimization app to maximize the expected return for a given risk using monte-carlo simulations, genetic algorithms and artificial swarm intelligence. The app was deployed in the [streamlit-cloud](https://portfoliooptimization.streamlitapp.com). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Genetic Algorithms, Artificial Swarm Intelligence, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit,geneticalgorithm, pyswarm), Jupyter, VSCode* |
 
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Credit Default Prediction Web-App*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction web-app* | *I implemented a classification model to predict credit default risks. Then I developed a streamlit web-app, which I deployed as an [azure web-app](https://creditdefaultapp.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/CustomerAnalytics_CreditDefaultPrediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
+| ***Credit Default Prediction*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction web-app* | *I implemented a classification model to predict credit default risks. Then I developed a streamlit web-app, which I deployed as an [azure web-app](https://creditdefaultapp.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/CustomerAnalytics_CreditDefaultPrediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
 
-### **------------------------------- Natural Language Processing -------------------------------**
+&nbsp;
+
+### **------------------------------------- Natural Language Processing -------------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Text Analysis*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
+| ***NLP - Text Recognition*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
 
+&nbsp;
 
-
-### **-------------------------------Image Analysis -------------------------------**
+### **----------------------------------Image Analysis ----------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Object Detection*** ![object_detection](images/projects/object_detection.png) | *To implement a fruit detector in Azure* | *I implemented a fruit detection model, trained on image data, using Azure cognitive services. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Object_Detection))* | *Image Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, pil), VSCode, Jupyter, Azure Cognitive Services* |
 
-[Top of Page](#data-science-professional-projects)
+[Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
