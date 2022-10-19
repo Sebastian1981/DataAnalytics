@@ -3,9 +3,9 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, you´ll find an overview of my project experiences in healthcare and the renewable energy industry. They are subdivided into two major groups. In group one you´ll find a brief description of the the machine learning projects I carried out as a [data science professional](#data-science-professional-projects). In the second group you´ll find a brief description of the the projects related to machine learning and optimization I carried out as an [academic researcher](#academic-research-projects-on-machine-learning). Last but not least, I put together some [side-hustle-projects](#side-hustle-projects-on-machine-learning-and-optimization) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization.
+In the following, you´ll find an overview of my project experiences in healthcare and the renewable energy industry. They are subdivided into two major groups. In group one you´ll find a brief description of the the machine learning projects I carried out as a [data science professional](#data-science-professional-projects-on-machine-learning-and-optimization). In the second group you´ll find a brief description of the the projects related to machine learning and optimization I carried out as an [academic researcher](#academic-research-projects-on-machine-learning-and-optimization). Last but not least, I put together some [side-hustle-projects](#side-hustle-projects-on-machine-learning-and-optimization) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization.
 
-# **Data Science Professional Projects**
+# **Data Science Professional Projects on Machine Learning and Optimization**
 ### **Healthcare Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
@@ -42,12 +42,12 @@ In the following, you´ll find an overview of my project experiences in healthca
 
 &nbsp;
 
-# **Academic Research Projects on Machine Learning**
+# **Academic Research Projects on Machine Learning and Optimization**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***MRI-based OEF Mapping*** ![qBOLD_ann](images/projects/qBOLD_ann.png) | *To research on improving the mapping of the OEF (=oxygen extraction fraction) with artificlial neural networks* | *I developed an artificial neural network regression model to improve the quality of OEF maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. (More details are provided in: Domsch et al., Magnetic Resonance in Medicine, 79(2), pp.890-899, 2018)* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
-| ***MRI-based OEF Mapping*** ![qBOLD_regularization](images/projects/qBOLD_regularization.png) | *To research on improving the mapping of the OEF (=oxygen extraction fraction) with regularized regression* | *I developed a regularized regression model to improve the quality of OEF maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. Further, I advised other colleagues on the development of this data modeling strategy. (More details are provided in: Domsch et al., Proc. ESMRMB Congress, Edinburgh, UK, 32, p.36, 2015); S. Thomas, S. Hubertus, S. Domsch and L. Schad, Proc. Int. Soc. Magn. Reson. Med., Paris, France, 26, p.2093, 2018* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
+| ***MRI-based OEF Mapping*** ![qBOLD_ann](images/projects/qBOLD_ann.png) | *To improving mapping of the OEF (=oxygen extraction fraction) with artificlial neural networks* | *I developed an artificial neural network regression model to improve the quality of OEF maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. (More details are provided in: Domsch et al., Magnetic Resonance in Medicine, 79(2), pp.890-899, 2018)* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
+| ***MRI-based OEF Mapping*** ![qBOLD_regularization](images/projects/qBOLD_regularization.png) | *To improve mapping of the OEF (=oxygen extraction fraction) with regularized regression* | *I developed a regularized regression model to improve the quality of OEF maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. Further, I advised other colleagues on the development of this data modeling strategy. (More details are provided in: Domsch et al., Proc. ESMRMB Congress, Edinburgh, UK, 32, p.36, 2015); S. Thomas, S. Hubertus, S. Domsch and L. Schad, Proc. Int. Soc. Magn. Reson. Med., Paris, France, 26, p.2093, 2018* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***MRI-based Diffusion Imaging*** ![diff_ann](images/projects/diff_ann.png) | *To research on improving the mapping of diffusion parameters with artificlial neural networks* | *I advised other colleagues on the development of an artificial neural network regression model to improve the quality of diffusion parameter maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. (More details are provided in: Domsch and Bertleff et al., NMR Biomed, 30(12), 2017)* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
 
@@ -57,22 +57,20 @@ In the following, you´ll find an overview of my project experiences in healthca
 
 
 # **Side-Hustle Projects on Machine Learning and Optimization**
-### **Healthcare Projects:**
+
+Below you find a brief overview of some sample projects I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) for more interesting coding-projects on topics such as customer life time value prediction, churn prediction, sales forecast, diabetis risk prediction, natural language processing or object detection.
+
+
+### **------------------------------- Healthcare -------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***COVID-19 Prediction Web-App*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets provided by www.ourworldindata.org to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://sebastian1981-covid-prediction-streamlit-appapp-i8x7ho.streamlitapp.com) and as an [azure web-app](https://covid19app.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ***Insurance Bill Prediction Web-App*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
+| ***Insurance Bill Prediction Web-App*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and web-api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, streamlit, flask-api), Jupyter, VSCode, docker, azure container registry, azure app service* |
 
 
-Please check out my github for further projects on regression problems such as [customer life time value prediction](https://github.com/Sebastian1981/CustomerAnalytics_CLV).
-
-
-Please check out my github for further projects on time-series forecasting such as sales prediction with [machine learning](https://github.com/Sebastian1981/Sales_Prediction) and sales prediction with [facebook´s neural prophet](https://github.com/Sebastian1981/Time_Series_Sales_Prediction).
-
-
-### **Finance Projects:**
+### **------------------------------- Finance -------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -83,19 +81,15 @@ Please check out my github for further projects on time-series forecasting such 
 | ----------- | ----------- | ----------- | ----------- |
 | ***Credit Default Prediction Web-App*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction web-app* | *I implemented a classification model to predict credit default risks. Then I developed a streamlit web-app, which I deployed as an [azure web-app](https://creditdefaultapp.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/CustomerAnalytics_CreditDefaultPrediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap, streamlit), Jupyter, VSCode, docker, azure container registry, azure app service* |
 
-Please check out my github for further projects on classification problems such as [diabetis risk prediction](https://github.com/Sebastian1981/Healthrisk_Modeling), [customer churn prediction](https://github.com/Sebastian1981/Churn_Prediction_AutoML) or [cardio-vascular disease prediction](https://github.com/Sebastian1981/AWS_Sagemaker_CVD_Prediction). 
-
-
-
-### **Natural Language Processing:**
+### **------------------------------- Natural Language Processing -------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Text Analysis*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
 
-Please check out my github for further projects on natural language processing problems such as [topic modeling](https://github.com/Sebastian1981/natural_language_processing).
 
-### **Image Analysis:**
+
+### **-------------------------------Image Analysis -------------------------------**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
