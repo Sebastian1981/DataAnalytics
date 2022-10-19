@@ -62,7 +62,7 @@ Below you find a brief overview of some sample projects I implemented in my spar
 
 &nbsp;
 
-### **------------------------------------- Finance -------------------------------------**
+## **Finance:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -75,7 +75,7 @@ Below you find a brief overview of some sample projects I implemented in my spar
 
 &nbsp;
 
-### **------------------------------------- Healthcare -------------------------------------**
+## **Healthcare:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -86,7 +86,7 @@ Below you find a brief overview of some sample projects I implemented in my spar
 
 &nbsp;
 
-### **------------------------------------- Natural Language Processing -------------------------------------**
+## **Natural Language Processing:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -94,7 +94,7 @@ Below you find a brief overview of some sample projects I implemented in my spar
 
 &nbsp;
 
-### **----------------------------------Image Analysis ----------------------------------**
+## **Image Analysis:**
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
