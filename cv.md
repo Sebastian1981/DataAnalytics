@@ -156,11 +156,16 @@ My resumee is structured into the following sections:
 
 ## Certified Qualifications
 
-**2019 – today | Certificates Earned through Hands-On Programming on DataCamp's Interactive Online Learning Platform (https://www.datacamp.com)**
-- 2022 - *“Supply Chain Analytics in Python”, “Introduction to Natural Language Processing in Python”* 
-- 2021 - *“Introduction to Git”, “Advanced Deep Learning with Keras”* 
-- 2020 - *“Object-Oriented Programming in Python”, “Writing Efficient Python Code”* 
-- 2019 - *“Introduction to PySpark”, “Introduction to SQL”, “Intermediate SQL Queries”, “Introduction to Python”, ”Intermediate Python”, “Python Data Science Toolbox (Part 1)”, “Introduction to Deep-Learning” , “Machine Learning for Time Series Data in Python”, ”Time Series Analysis in Python”*
+**2019 – 2022 | Online Learning at "DataCamp" (https://www.datacamp.com)**\
+**Certified Hands-On Programming Courses, by Topic:**
+- **Linear Optimization:** “Supply Chain Analytics in Python” 
+- **Python:** “Object-Oriented Programming in Python”, “Writing Efficient Python Code”, “Introduction to Python”, ”Intermediate Python”
+- **Machine-Learning:** “Python Data Science Toolbox (Part 1)”, “Machine Learning for Time Series Data in Python”, ”Time Series Analysis in Python”
+- **Deep-Learning:** “Advanced Deep Learning with Keras”, “Introduction to Deep-Learning”
+- **Natural Language Processing:** “Introduction to Natural Language Processing in Python”
+- **PySpark:** “Introduction to PySpark”
+- **Git:** “Introduction to Git”
+- **SQL:** “Introduction to SQL”, “Intermediate SQL Queries
 
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
 **Bitkom Academy Certificate Course | Steinbeis University Berlin**\
