@@ -78,7 +78,7 @@ Below you find a brief overview of some sample projects I implemented in my spar
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Insurance Bill Prediction*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and web-api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. Then I developed both a streamlit-app and also a flask-api, which were deployed as an [azure web-app](https://insurancebillapp.azurewebsites.net) and an [azure web-api](https://insurancebillapi.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, flask-api), Jupyter, VSCode, streamlit, docker, dockerhub* |
+| ***Insurance Bill Prediction*** ![bill_prediction](images/projects/bill_prediction.png) | *To implement both a web-app and web-api to predict insurance bills* | *I implemented a regression model to predict insurance bills based on user input. The app was deployed in the [streamlit-cloud](https://insurance-bill-predictions.streamlitapp.com) and on [dockerhub](https://hub.docker.com/repository/docker/63531981/insurance_app). (More details are provided in my [github](https://github.com/Sebastian1981/Insurance_Bill_Prediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, flask-api), Jupyter, VSCode, streamlit, docker, dockerhub* |
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
