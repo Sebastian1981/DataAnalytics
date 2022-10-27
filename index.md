@@ -19,9 +19,10 @@ I am able to quickly familiarizing myself with a specialist domain to support th
 - explaining data science to both technical and non-technical audiences
 - supporting the specialist department to translate business questions into well defined data science and/or optimization use cases
 - implementing an evaluating ml-model prototypes for data science use cases
-- implementing mathematical and heuristic models for linear and non-linear optimization use cases
-- presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
-- supporting with the deployment of the models
+- implementing mathematical and heuristic models for operations research use cases
+- presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences
+- deployment of the models in a streamlit web-app in azure 
+- supporting the development team with the deployment of the models
 
 Do you want to tackle data science or optimization projects in your company? Or do you need support in developing ml- or mathematical models? Feel free to get in touch with me - I look forward to supporting you with my expertise and making data science and optimization usable in your company.
 

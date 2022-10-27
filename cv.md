@@ -120,10 +120,10 @@ My resumee is structured into the following sections:
 **Expertise**
 - Physics, Medical Physics, Magnetic Resonance Imaging
 - Data Analysis, Data Visualization
-- Statistics, AB-Testing
+- Statistics, A/B-Testing
 - Machine-Learning, Deep-Learning
 - Monte-Carlo Simulation
-- Linear/Noninear Optimization under Constraints
+- Linear/Nonlinear Optimization, Mixed-Integer Linear Programming
 - Image Processing, Signal Processing
 - Presentation Complex Topics
 - Scientific Reading/Writing
