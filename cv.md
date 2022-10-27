@@ -156,16 +156,19 @@ My resumee is structured into the following sections:
 
 ## Certified Qualifications
 
-**2019 – 2022 | Online Learning at "DataCamp" (https://www.datacamp.com)**\
-**Certified Hands-On Programming Courses, by Topic:**
-- **Linear Optimization:** “Supply Chain Analytics in Python” 
-- **Python:** “Object-Oriented Programming in Python”, “Writing Efficient Python Code”, “Introduction to Python”, ”Intermediate Python”
-- **Machine-Learning:** “Python Data Science Toolbox (Part 1)”, “Machine Learning for Time Series Data in Python”, ”Time Series Analysis in Python”
-- **Deep-Learning:** “Advanced Deep Learning with Keras”, “Introduction to Deep-Learning”
-- **Natural Language Processing:** “Introduction to Natural Language Processing in Python”
-- **PySpark:** “Introduction to PySpark”
-- **Git:** “Introduction to Git”
-- **SQL:** “Introduction to SQL”, “Intermediate SQL Queries
+**2019 – 2022 | Continuous Training on the Online Platforms"DataCamp" (https://www.datacamp.com) and Udemy (https://www.udemy.com)**\
+**Certified Hands-On Programming Courses, sorted by Topic:**
+- Linear Optimization / Operations Research: (2022: ∑16.5h certified)
+- Natural Language Processing: (2022: ∑4h certified)
+- SQL: (2022: ∑5h certified, 2019: ∑6h certified, 2017: ∑16h certified)
+- Git: (2021: ∑4h certified)
+- Python: (2020: ∑8h certified, 2019: ∑8h certified)
+- Deep Learning: (2020: ∑4h certified, 2019: ∑4h certified)
+- Data Science and Machine Learning: (2022: ∑6h certified, 2019: ∑11h certified,
+2017: ∑53.5h certified)
+- PySpark: (2019: ∑4h certified)
+- SPSS Modeler: (2018: ∑6.5h certified)
+- SCRUM / classic project management: (2017: ∑10.5h certified)
 
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
 **Bitkom Academy Certificate Course | Steinbeis University Berlin**\
