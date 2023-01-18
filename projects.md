@@ -22,8 +22,10 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 | ***Price Optimization*** ![price_sensitivity](images/projects/price_sensitivity.png)| *To optimize product prices* | *I developed a classification model based on tabular data as a foundation for further product price optimization. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, spacy), Jupyter, SPSS modeler* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Data Deduplication*** ![entity_res](images/projects/entity_res.png)| *To remove duplicated rows from large datasets* | *I developed a classification-clustering mixture model based on tabular data to detect duplicates of names and addresses. In addition, I supported the development team with building data-pipelines and the deployment of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, dedupe), Jupyter, VSCode, git, SQL* |
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ***Purchase Analysis*** ![maverick_buying](images/projects/maverick_buying.png)| *To identity incorrect order processes* | *I developed a classification model from historical tabular data providing propensity scores for incorrect orders. I deployed and updated the model in SPSS modeler. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Natural Language Processing (bag-of-words), Python (numpy, pandas, sklearn, matplotlib), R, Jupyter, RStudio, Spyder, SPSS Modeler* |
 
-### **Finance Projects:**
+### **Finance Project:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
@@ -35,12 +37,10 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 | ----------- | ----------- | ----------- | ----------- |
 | ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
 
-### **Diverse Projects:**
+### **Time Series Forecasting Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Purchase Analysis*** ![maverick_buying](images/projects/maverick_buying.png)| *To identity incorrect order processes* | *I developed a classification model from historical tabular data providing propensity scores for incorrect orders. I deployed and updated the model in SPSS modeler. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Natural Language Processing (bag-of-words), Python (numpy, pandas, sklearn, matplotlib), R, Jupyter, RStudio, Spyder, SPSS Modeler* |
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Predictive Maintenance*** ![pred_maintenance](images/projects/pred_maintenance.png)| *To predict machine-failure of wind turbines* | *I developed a classification model based on weather and sensory time-series data providing propensity scores for imminent failure of wind turbines. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Price Forecasting*** ![price](images/projects/price.png)| *To predict electricity market prices* | *I developed a regression model based on historical time-series data to estimate the electricity market price for the next day. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep-Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
