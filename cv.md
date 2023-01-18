@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Scientist | Physicist (PhD) | Expert for Marketing Analytics | Research Enthusiast
+title: Resumee
 ---
 ![universe](images/profil_fotos.png)
 
