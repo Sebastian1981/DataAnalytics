@@ -5,7 +5,7 @@ title: Resumee
 ![universe](images/profil_fotos.png)
 
 My resumee is structured into the following sections:
-- [Projects and Work Experience as a Data Scientist](#projects-and-work-experience)
+- [Projects and Work Experience](#projects-and-work-experience)
 - [Education](#education) 
 - [Expertise and Tools](#expertise-and-tools) 
 - [Certified Qualifications](#certified-qualifications) 
@@ -16,7 +16,7 @@ My resumee is structured into the following sections:
 
 &nbsp;
 
-## Projects and Work Experience as a Data Scientist
+## Projects and Work Experience
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
