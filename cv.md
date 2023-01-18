@@ -37,11 +37,11 @@ My resumee is structured into the following sections:
 **09/2017 – 09/2021 | Data Scientist (permanent / onsite)**\
 **COUNT+CARE GmbH | Subsidariary of ENTEGA AG | Department for New Solutions**\
 ***Darmstadt, Germany***
-- Teaching of data science basics at management level within the framework of a group-wide data competence center
+- Development of machine learning models for use cases such as customer value prediction, customer segmentation, marketing engagement and churn prediction. 
+- Conduction proof-of-concept studies and reporting the results to the specialist departments and the management
 - Advising the specialist departments of the ENTEGA Group on the translation of business probem into a data science use case
-- Development of machine learning model prototypes as part of feasibility studies to create forecasts or to solve optimization tasks (e.g. churn prediction, assessment of creditworthiness, optimization of machine parameters, optimization of completion-rates)
-- Visualization and communication of data science results to the specialist departments and management
-- Support for data engineers in integrating machine learning models into a productive environment
+- Teaching of data science basics at management level within the framework of a group-wide data competence center
+- Supporting the machine learning engineers and software developers with the deployment and monitoring of the models
 - Support in setting up a group-wide big-data platform
 - Technical supervision of a working student as part of an AI-project
 - Skills: Machine-Learning, Deep-Learning, Text-Mining, Timeseries Analysis
