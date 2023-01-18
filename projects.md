@@ -7,10 +7,27 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 # **Data Science Projects**
 
+### **Marketing Analytics Projects:**
 
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***Customer Value Prediction*** ![customer_value](images/projects/customer_value.png)| *To improve customer value estimation* | *I consulted the specialist department on how to improve an existing customer value model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ***Customer Churn Prediction*** ![churn](images/projects/churn.png)| *To improve customer churn prediction* | *I consulted the specialist department on how to improve the existing customer churn model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ***Customer Segmentation*** ![customer_segmentation](images/projects/customer_segmentation.png)| *To improve customer segmentation* | *I developed a new customer segmentation model with improved performance compared to the existing model. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ***Conversion Rate Optimization*** ![abschlussquoten_optimierung](images/projects/abschlussquoten_optimierung.png)| *To improve conversion rates* | *I developed a classification model based on tabular data providing propensity scores for conversion that could be used for priorization purposes. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn), Jupyter* |
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ***Price Optimization*** ![price_sensitivity](images/projects/price_sensitivity.png)| *To optimize product prices* | *I developed a classification model based on tabular data as a foundation for further product price optimization. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, spacy), Jupyter, SPSS modeler* |
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ***Data Deduplication*** ![entity_res](images/projects/entity_res.png)| *To remove duplicated rows from large datasets* | *I developed a classification-clustering mixture model based on tabular data to detect duplicates of names and addresses. In addition, I supported the development team with building data-pipelines and the deployment of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, dedupe), Jupyter, VSCode, git, SQL* |
 
+### **Finance Projects:**
 
-
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***Credit Default*** ![creditworthyness](images/projects/creditworthyness.png)| *To predict upcoming payment defaults* | *I developed a classification model based on tabular time-series data providing the propensity scores of upcoming payment defaults. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
 
 ### **Healthcare Project:**
 
@@ -29,28 +46,6 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 | ***Price Forecasting*** ![price](images/projects/price.png)| *To predict electricity market prices* | *I developed a regression model based on historical time-series data to estimate the electricity market price for the next day. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep-Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Meter Forecasting*** ![meter_reading_forecast](images/projects/meter_reading_forecast.png)| *To forecast meter-readings* | *I developed a regression model based on historical time-series data to forecast meter-readings. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep-Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
-
-### **Finance Projects:**
-
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***Credit Default*** ![creditworthyness](images/projects/creditworthyness.png)| *To predict upcoming payment defaults* | *I developed a classification model based on tabular time-series data providing the propensity scores of upcoming payment defaults. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
-
-### **Marketing Analytics Projects:**
-
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***Data Deduplication*** ![entity_res](images/projects/entity_res.png)| *To remove duplicated rows from large datasets* | *I developed a classification-clustering mixture model based on tabular data to detect duplicates of names and addresses. In addition, I supported the development team with building data-pipelines and the deployment of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, dedupe), Jupyter, VSCode, git, SQL* |
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ***Customer Value Prediction*** ![customer_value](images/projects/customer_value.png)| *To improve customer value estimation* | *I consulted the specialist department on how to improve an existing customer value model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ***Customer Churn Prediction*** ![churn](images/projects/churn.png)| *To improve customer churn prediction* | *I consulted the specialist department on how to improve the existing customer churn model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ***Customer Segmentation*** ![customer_segmentation](images/projects/customer_segmentation.png)| *To improve customer segmentation* | *I developed a new customer segmentation model with improved performance compared to the existing model. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ***Conversion Rate Optimization*** ![abschlussquoten_optimierung](images/projects/abschlussquoten_optimierung.png)| *To improve conversion rates* | *I developed a classification model based on tabular data providing propensity scores for conversion that could be used for priorization purposes. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn), Jupyter* |
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ***Price Optimization*** ![price_sensitivity](images/projects/price_sensitivity.png)| *To optimize product prices* | *I developed a classification model based on tabular data as a foundation for further product price optimization. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, spacy), Jupyter, SPSS modeler* |
 
 
 [Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
@@ -73,7 +68,7 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 # **Side-Hustle Projects on Machine Learning and Optimization**
 
-Below you find a brief overview of some sample projects I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) for more interesting coding-projects on topics such as customer life time value prediction, churn prediction, sales forecast, diabetis risk prediction, natural language processing or object detection.
+Below you find a brief overview of some sample projects I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) for more interesting data science projects.
 
 &nbsp;
 
