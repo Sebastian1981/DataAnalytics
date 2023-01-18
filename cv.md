@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Physicist | Expert on Machine Learning and Optimization
+title: Data Scientist | Physicist (PhD) | Expert for Marketing Analytics | Research Enthusiast
 ---
-
 ![universe](images/profil_fotos.png)
 
 My resumee is structured into the following sections:
-- [Projects and Work Experience](#projects-and-work-experience)
+- [Projects and Work Experience as a Data Scientist](#projects-and-work-experience)
 - [Education](#education) 
 - [Expertise and Tools](#expertise-and-tools) 
 - [Certified Qualifications](#certified-qualifications) 
@@ -17,14 +16,14 @@ My resumee is structured into the following sections:
 
 &nbsp;
 
-## Projects and Work Experience
+## Projects and Work Experience as a Data Scientist
 
 **08/2019 – today | Research Consultant (freelance / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
 ***Delft, Netherlands***
 - Advice and support on machine-learning based active reduction of noise in MRI
 - Advice and support on publishing in peer-reviewed journals
-- Skills: Magnetic Resonance Imaging, Scientific Reading/Writing, Machine-Learning, Deep-Learning
+- Skills: Magnetic Resonance Imaging, Scientific Reading & Writing, Machine-Learning, Deep-Learning
 - Tools: Python, Jupyter, VSCode
 
 **04/2022 – 06/2022 | Data Scientist (freelance / remote)**\
@@ -126,14 +125,14 @@ My resumee is structured into the following sections:
 - Linear/Nonlinear Optimization, Mixed-Integer Linear Programming
 - Image Processing, Signal Processing
 - Presentation Complex Topics
-- Scientific Reading/Writing
-- Working in an agile Team (e.g. KANBAN) 
+- Scientific Reading & Writing
+- Agile Working (KANBAN) 
 
 **Programming**
 - Python (+++)
 - R (++)
 - Matlab (+++) 
-- SQL (+)
+- SQL (++)
 
 **Tools**
 - VSCode (+++)
@@ -144,7 +143,7 @@ My resumee is structured into the following sections:
 - Azure Machine Learning SDK (+++)
 - Azure Cognitive Services API (+)
 - SPSS-Modeller (++)
-- Git (+)
+- Git (++)
 
 **Linguistic Proficiency**
 - German (C2, mother tongue)
@@ -155,20 +154,6 @@ My resumee is structured into the following sections:
 &nbsp;
 
 ## Certified Qualifications
-
-**2019 – 2022 | Continuous Training on the Online Platforms"DataCamp" (https://www.datacamp.com) and Udemy (https://www.udemy.com)**\
-**Certified Hands-On Programming Courses, sorted by Topic:**
-- Linear Optimization / Operations Research: (2022: ∑16.5h certified)
-- Natural Language Processing: (2022: ∑4h certified)
-- SQL: (2022: ∑5h certified, 2019: ∑6h certified, 2017: ∑16h certified)
-- Git: (2021: ∑4h certified)
-- Python: (2020: ∑8h certified, 2019: ∑8h certified)
-- Deep Learning: (2020: ∑4h certified, 2019: ∑4h certified)
-- Data Science and Machine Learning: (2022: ∑6h certified, 2019: ∑11h certified,
-2017: ∑53.5h certified)
-- PySpark: (2019: ∑4h certified)
-- SPSS Modeler: (2018: ∑6.5h certified)
-- SCRUM / classic project management: (2017: ∑10.5h certified)
 
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
 **Bitkom Academy Certificate Course | Steinbeis University Berlin**\
@@ -222,9 +207,9 @@ My resumee is structured into the following sections:
 &nbsp;
 
 ## Hobbies
-- Physics, Science, Artifical Intelligence 
-- Hiking, fitness, model plane aerobatics, skiing, windsurfing
-- Athletics (greatest successes: 2003, German university champion (4x400m relay); 2002, Baden vice champion (400m); 2000/2001, Bavarian junior champion (400m/800m)
+- physics, science 
+- hiking, fitness, model plane aerobatics, skiing, windsurfing
+- athletics (greatest successes, long time ago :-), 2003, German university champion (4x400m relay), 2002, Baden vice champion (400m); 2000/2001, Bavarian junior champion (400m/800m)
 
 [Top of Page](#projects-and-work-experience)
 
