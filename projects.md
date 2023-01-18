@@ -37,6 +37,7 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 ### **Marketing Analytics Projects:**
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
 | ***Data Deduplication*** ![entity_res](images/projects/entity_res.png)| *To remove duplicated rows from large datasets* | *I developed a classification-clustering mixture model based on tabular data to detect duplicates of names and addresses. In addition, I supported the development team with building data-pipelines and the deployment of the model.* | *Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, dedupe), Jupyter, VSCode, git, SQL* |
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Customer Value Prediction*** ![customer_value](images/projects/customer_value.png)| *To improve customer value estimation* | *I consulted the specialist department on how to improve an existing customer value model applying state-of-the-art machine learning methods. I further supported the data engineering team to continuously deploy new model versions.* | *Machine Learning, Data Preparation, Data Visualization, SPSS Modeler* |
