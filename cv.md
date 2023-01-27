@@ -154,6 +154,9 @@ title: Resumee
 
 ## Certified Qualifications
 
+**2022 | LinkedIn Online Test Machine Learning (Rank: Top-15%)**
+- 07/2022: Top-15% Scorer from a total of 1.4 million test participants (LinkedIn Badge)
+
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
 **Bitkom Academy Certificate Course | Steinbeis University Berlin**\
 ***Berlin, Germany***
