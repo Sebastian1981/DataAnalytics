@@ -20,11 +20,3 @@ I am a physicist and data scientist with 4 years of professional experience in a
 - supporting the development team with the deployment of the models
 
 Do you want to add value to your company by applying state-of-the-art data science? Then please feel free to get in touch with me any time!
-
-<br>
-
-<!--freelancermap-Badge White-->
-<a href="https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/427366-profil-sebastian-domsch-data-scientist-physiker-prom-experte-fuer-machine-learning-in-marketing-analytics.html" target="_blank" title="Profil von Sebastian Domsch auf www.freelancermap.de">
-    <img loading="lazy" style="width:118px; height:24px" src="https://www.freelancermap.de/images/widgets/dashboard/fm-profile-badge-white.svg">
-</a>
-                
