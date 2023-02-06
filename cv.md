@@ -17,13 +17,15 @@ title: Resumee
 
 ## Projects and Work Experience
 
-**08/2019 – today | Research Consultant (freelance / remote)**\
-**Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
-***Delft, Netherlands***
-- Advice and support on machine-learning based active reduction of noise in MRI
-- Advice and support on publishing in peer-reviewed journals
-- Skills: Magnetic Resonance Imaging, Scientific Reading & Writing, Machine-Learning, Deep-Learning
-- Tools: Python, Jupyter, VSCode
+**01/2023 – 02/2023 | Artificial Intelligence Consultant (freelance / remote)**\
+**Alexander Ziegler GmbH**\
+***Munich, Germany***
+- Consulting on the use of ChatGPT in editing, research, content creation, and search 
+engine optimization (SEO)
+- Feasibility analysis for the generation of SEO content using ChatGPT
+- Creation of a ChatGPT instruction template for increased efficiency
+- Skills: Natural Language Processing
+- Tools: OpenAI ChatGPT, MS Powerpoint, MS Word
 
 **04/2022 – 06/2022 | Data Scientist (freelance / remote)**\
 **mediaire GmbH (digital StartUp of the year 2021) | Digital Innovation in Radiology**\
@@ -32,6 +34,14 @@ title: Resumee
 - Documentation of relevant scientific publications
 - Skills: Magnetic Resonance Imaging, Scientific Reading, Machine-Learning
 - Tools: Python, Jupyter, Google-Colab, VSCode, Gitlab, MITK-Workbench
+
+**08/2019 – today | Research Consultant (part-time / remote)**\
+**Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
+***Delft, Netherlands***
+- Advice and support on machine-learning based active reduction of noise in MRI
+- Advice and support on publishing in peer-reviewed journals
+- Skills: Magnetic Resonance Imaging, Scientific Reading & Writing, Machine-Learning, Deep-Learning
+- Tools: Python, Jupyter, VSCode
 
 **09/2017 – 09/2021 | Data Scientist (permanent / onsite)**\
 **COUNT+CARE GmbH | Subsidariary of ENTEGA AG | Department for New Solutions**\
