@@ -25,7 +25,7 @@ engine optimization (SEO)
 - Feasibility analysis for the generation of SEO content using ChatGPT
 - Creation of a ChatGPT instruction template for increased efficiency
 - Skills: Natural Language Processing
-- Tools: OpenAI ChatGPT, ChatGPT Playground, ChatGPT API, MS Powerpoint
+- Tools: OpenAI ChatGPT Playground & API, VSCode, MS PowerPoint
 
 **04/2022 – 06/2022 | Data Scientist (freelance / remote)**\
 **mediaire GmbH (digital StartUp of the year 2021) | Digital Innovation in Radiology**\
