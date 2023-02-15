@@ -148,9 +148,7 @@ engine optimization (SEO)
 - Jupyter (+++)
 - RStudio (++)
 - Google Colab (+++)
-- Amazon Sagemaker Studio (++)
-- Azure Machine Learning SDK (+++)
-- Azure Cognitive Services API (+)
+- Amazon Sagemaker (++)
 - SPSS-Modeller (++)
 - Git (++)
 
@@ -167,17 +165,13 @@ engine optimization (SEO)
 **2022 | LinkedIn Online Test Machine Learning (Rank: Top-15%)**
 - 07/2022: Top-15% Scorer from a total of 1.4 million test participants (LinkedIn Badge)
 
-**2017 - present | Further Training Courses on the Online Platforms Udemy and Datacamp**
--  01/2023: „Learn Analytics with AWS Athena and Quicksight“ (Udemy Certificate)
-- 10/2022: „Optim. with Python: Solve Operations Research Problems“ (Udemy Certific.)
-- 10/2022: „Supply Chain Analytics in Python“ (Datacamp Certificate)
-- 08/2022: „Introduction to Nat. Language Processing in Python“ (Datacamp Certificate)
-- 03/2021: „Introduction to Git“ (Datacamp Certificate)
-- 08/2020: „Advanced Deep Learning with Keras“ (Datacamp Certificate)
-- 09/2019: „Introduction to PySpark“ (Datacamp Certificate)
-- 04/2019: „Intermediate SQL Queries“ (Datacamp Certificate)
-- 08/2017: „The Complete SQL Bootcamp“ (Udemy Certificate)
-- 08/2017: „Scrum: Agiles Project Management for Users“ (Udemy Certificate)
+**2019 - present | Professional Training on the Online Platform Datacamp**
+- 10/2022: „Supply Chain Analytics in Python“ (Certificate)
+- 08/2022: „Introduction to Nat. Language Processing in Python“ (Certificate)
+- 03/2021: „Introduction to Git“ (Certificate)
+- 08/2020: „Advanced Deep Learning with Keras“ (Certificate)
+- 09/2019: „Introduction to PySpark“ (Certificate)
+- 04/2019: „Intermediate SQL Queries“ (Certificate)
 
 **2016 – 2017 | Certified Practitioner Data Science (15 ECTS; grade: *"very good"*)**\
 **Bitkom Academy Certificate Course | Steinbeis University Berlin**\
