@@ -18,7 +18,7 @@ title: Resumee
 ## Projects and Work Experience
 
 **01/2023 – 02/2023 | Artificial Intelligence Consultant (freelance / remote)**\
-**Alexander Ziegler GmbH**\
+**Das Lektorat | Alexander Ziegler GmbH**\
 ***Munich, Germany***
 - Consulting on the use of ChatGPT in editing, research, content creation, and search 
 engine optimization (SEO)
