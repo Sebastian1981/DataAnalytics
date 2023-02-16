@@ -130,6 +130,7 @@ engine optimization (SEO)
 - Data Analysis, Data Visualization
 - Statistics, A/B-Testing
 - Machine-Learning, Deep-Learning
+- Natural Language Processing
 - Monte-Carlo Simulation
 - Linear/Nonlinear Optimization, Mixed-Integer Linear Programming
 - Image Processing, Signal Processing
