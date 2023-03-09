@@ -15,12 +15,12 @@ title: Resumee
 
 &nbsp;
 
-## Projects and Work Experience
+## Professional Experience as a Data Scientist and Researcher
 
 **08/2019 – today | Research Consultant (part-time / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
 ***Delft, Netherlands***
-- Advice and support on machine-learning based active reduction of noise in MRI
+- Advice and support on deep-learning based active noise-reduction in MRI
 - Advice and support on publishing in peer-reviewed journals
 - Skills: Magnetic Resonance Imaging, Scientific Reading & Writing, Machine-Learning, Deep-Learning
 - Tools: Python, Jupyter, VSCode
