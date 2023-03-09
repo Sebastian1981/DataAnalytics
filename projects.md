@@ -19,7 +19,7 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
+| ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.PNG) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
 
 [Top of Page](#data-science-projects)
 
