@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Physicist | Expert for Machine Learning and Optimization 
+#title: Physicist & Data Scientist | Expert for Machine Learning, Deep Learning and Natural Language Processing 
 ---
 
 ![universe](images/artificial_intelligence.png)\
@@ -10,13 +10,4 @@ layout: page
 
 
 ## My Professional Background
-I am a physicist and data scientist with 4 years of professional experience in applying machine learning to improve data-driven marketing analytics. I developed state-of-the-art machine learning models for use cases such as customer value prediction, customer segmentation, marketing engagement and churn prediction. Moreover, I consulted various specialist departments on using data science to solve different business problems. Thereby, I developed and validated machine-learning models in numerous proof-of-concept studies. I also supported the machine learning engineers and software developers with the deployment and monitoring of the models. Before transitioning into the world of data science I worked as an academic researcher for 10 years and gained deep insights into medical physics, medical imaging, signal processing, mathematics, statistics and regression analysis. 
-
-## My Value Proposition
-- consultation on marketing analytics use cases such as customer value prediction, customer segmentation, sales prediction, marketing engagement and churn prediction
-- supporting specialist departments to translate business questions into well defined data science use cases
-- implementing an evaluating model prototypes
-- presenting the key analytical findings in a clear and understandable way to both technical and non-technical audiences 
-- supporting the development team with the deployment of the models
-
-Do you want to add value to your company by applying state-of-the-art data science? Then please feel free to get in touch with me any time!
+I have 6 years of professional experience in applying state-of-the-art machine learning and deep learning algorithms to the fields of marketing analytics, healthcare and natural language processing. My work included developing and validating machine-learning models for use cases such as customer value prediction, customer segmentation, churn prediction, disease prediction, and AI-based SEO-content generation. I consulted various specialist departments on translating business problems into well-defined data science use cases, as well as supporting machine learning engineers and software developers with the deployment and monitoring of models. Additionally, I bring 10 years of research experience in medical physics, medical imaging, signal processing, mathematics, statistics, and regression analysis from my past work as an academic researcher.
