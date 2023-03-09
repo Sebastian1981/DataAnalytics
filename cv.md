@@ -18,6 +18,8 @@ title: Resumee
 ## Projects and Work Experience
 
 **03/2022 – 03/2023 | Data Scienist Freelancer**
+- Consultation services to assist businesses in translating their questions into well-defined use cases for data science and artificial intelligence, with a focus on marketing analytics, healthcare, and natural language processing
+- Implementation and evaluation of model prototypes, clear and understandable presentation of key analytical findings to both technical and non-technical audiences, and support for the development team with deployment of models are all offered services.
 
 **08/2019 – today | Research Consultant (part-time / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
