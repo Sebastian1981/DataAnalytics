@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, you´ll find an overview of my [data science projects](#data-science-projects) working in industry. Then you´ll find some [research projects on machine learning](#research-projects-on-machine-learning) working in academia. For the matter of completeness I appended some [side-hustle projects](#side-hustle-projects-on-machine-learning-and-optimization) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowledge in the field of machine learning and optimization. There you will also find some AI data apps deployed in streamlit community cloud or docker hub.
+In the following, you´ll find an overview of my [data science projects](#data-science-projects) working in industry. Then you´ll find some [research projects on machine learning](#research-projects-on-machine-learning) working in academia. For the matter of completeness I appended some [side-hustle projects](#side-hustle-projects) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowledge in the field of machine learning and optimization. There you will also find some AI data apps deployed in streamlit community cloud or docker hub.
 
 # **Data Science Projects**
 
@@ -66,9 +66,19 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 &nbsp;
 
 
-# **Side-Hustle Projects on Machine Learning and Optimization**
+# **Side-Hustle Projects**
 
-Below you find a brief overview of some sample projects I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) for more interesting data science projects.
+Below you find a brief overview of some sample projects in the field of machine learning, natural language processing and optimization which I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) and [docker-hub](https://hub.docker.com/u/63531981) for more interesting data science projects and ai data apps.
+
+&nbsp;
+
+## **Natural Language Processing:**
+
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***NLP - Text Recognition*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
+
+
 
 &nbsp;
 
@@ -102,13 +112,6 @@ Below you find a brief overview of some sample projects I implemented in my spar
 | ----------- | ----------- | ----------- | ----------- |
 | ***AI Data App - COVID-19 Prediction*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets, provided by www.ourworldindata.org, to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://covidprediction-webpap.streamlitapp.com) and on [dockerhub](https://hub.docker.com/repository/docker/63531981/covid_app). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret), Jupyter, VSCode, streamlit, docker, dockerhub* |
 
-&nbsp;
-
-## **Natural Language Processing:**
-
-| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***NLP - Text Recognition*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
 
 &nbsp;
 
