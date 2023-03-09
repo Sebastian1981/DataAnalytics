@@ -17,23 +17,7 @@ title: Resumee
 
 ## Projects and Work Experience
 
-**01/2023 – 02/2023 | Artificial Intelligence Consultant (freelance / remote)**\
-**Das Lektorat | Alexander Ziegler GmbH**\
-***Munich, Germany***
-- Consulting on the use of ChatGPT in editing, research, content creation, and search 
-engine optimization (SEO)
-- Feasibility analysis for the generation of SEO content using ChatGPT
-- Creation of a ChatGPT instruction template for increased efficiency
-- Skills: Natural Language Processing
-- Tools: OpenAI ChatGPT Playground & API, VSCode, MS PowerPoint
-
-**04/2022 – 06/2022 | Data Scientist (freelance / remote)**\
-**mediaire GmbH (digital StartUp of the year 2021) | Digital Innovation in Radiology**\
-***Berlin, Germany***
-- Development of machine learning solutions for the detection of cerebral structural changes based on MRT image data
-- Documentation of relevant scientific publications
-- Skills: Magnetic Resonance Imaging, Scientific Reading, Machine-Learning
-- Tools: Python, Jupyter, Google-Colab, VSCode, Gitlab, MITK-Workbench
+**03/2022 – 03/2023 | Data Scienist Freelancer**
 
 **08/2019 – today | Research Consultant (part-time / remote)**\
 **Magnetic Resonance Systems Lab | Department of Imaging Physics | TU Delft**\
