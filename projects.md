@@ -25,17 +25,23 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Purchase Analysis*** ![maverick_buying](images/projects/maverick_buying.png)| *To identity incorrect order processes* | *I developed a classification model from historical tabular data providing propensity scores for incorrect orders. I deployed and updated the model in SPSS modeler. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Data Preparation, Data Visualization, Natural Language Processing (bag-of-words), Python (numpy, pandas, sklearn, matplotlib), R, Jupyter, RStudio, Spyder, SPSS Modeler* |
 
+[Top of Page](#data-science-projects)
+
 ### **Finance Project:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Credit Default*** ![creditworthyness](images/projects/creditworthyness.png)| *To predict upcoming payment defaults* | *I developed a classification model based on tabular time-series data providing the propensity scores of upcoming payment defaults. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
 
+[Top of Page](#data-science-projects)
+
 ### **Healthcare Project:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
+
+[Top of Page](#data-science-projects)
 
 ### **Time Series Forecasting Projects:**
 
@@ -47,8 +53,7 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***Meter Forecasting*** ![meter_reading_forecast](images/projects/meter_reading_forecast.png)| *To forecast meter-readings* | *I developed a regression model based on historical time-series data to forecast meter-readings. In addition, I advised the specialist department on the benefits and pitfalls during use of the model.* | *Machine Learning, Deep-Learning, Data Preparation, Data Visualization, Python (numpy, pandas, matplotlib, sklearn, keras), Jupyter, VSCode* |
 
-
-[Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
+[Top of Page](#data-science-projects)
 
 &nbsp;
 
@@ -61,7 +66,7 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ***MRI-based Diffusion Imaging*** ![diff_ann](images/projects/diff_ann.png) | *To research on improving the mapping of diffusion parameters with artificlial neural networks* | *I advised other colleagues on the development of an artificial neural network regression model to improve the quality of diffusion parameter maps, very important for assessing tissue vitality, tumor diagnosis or planing radio therapy. (More details are provided in: Domsch and Bertleff et al., NMR Biomed, 30(12), 2017)* | *Magnetic Resonance Imaging, Machine Learning, Artificial Neural Networks, Matlab* |
 
-[Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
+[Top of Page](#data-science-projects)
 
 &nbsp;
 
@@ -69,6 +74,8 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 # **Side-Hustle Projects**
 
 Below you find a brief overview of some sample projects in the field of machine learning, natural language processing and optimization which I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowlede in the field of machine learning and optimization. Please check out my [github](https://github.com/Sebastian1981/) and [docker-hub](https://hub.docker.com/u/63531981) for more interesting data science projects and ai data apps.
+
+[Top of Page](#data-science-projects)
 
 &nbsp;
 
@@ -78,7 +85,7 @@ Below you find a brief overview of some sample projects in the field of machine 
 | ----------- | ----------- | ----------- | ----------- |
 | ***NLP - Text Recognition*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
 
-
+[Top of Page](#data-science-projects)
 
 &nbsp;
 
@@ -87,6 +94,8 @@ Below you find a brief overview of some sample projects in the field of machine 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***AI Data App - Supply-Chain Optimization*** ![supply_chain_analytics](images/projects/supplychain_analytics.png) | *To implement a supply-chain optimization web-app* | *I implemented a  supply-chain app to minimize the production costs by optimizing the production site locations and the respective quantities produced. The supply-chain was modeled using mixed-integer linear programming (MILP). Based on MILP combined with Monte-Carlo simulations, distributions were calculated for the production costs, the slack and the shadow prices and the production sites and their respective quantities.The app was deployed in [streamlit-cloud](https://operationsresearch.streamlitapp.com) and on [dockerhub](https://hub.docker.com/repository/docker/63531981/supply_chain_app). (More details are provided in my [github](https://github.com/Sebastian1981/Operations_Research))* | *Mixed-Integer Linear Programming, Monte-Carlo Simulation, Python (numpy, pandas, matplotlib, PuLP), Jupyter, VSCode, streamlit, docker* |
+
+[Top of Page](#data-science-projects)
 
 &nbsp;
 
@@ -104,6 +113,8 @@ Below you find a brief overview of some sample projects in the field of machine 
 | ----------- | ----------- | ----------- | ----------- |
 | ***AI Data App - Credit Default Prediction*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction web-app* | *I implemented a classification model to predict credit default risks. Then I developed a streamlit web-app, which I deployed on [dockerhub](https://hub.docker.com/repository/docker/63531981/credit_app). (More details are provided in my [github](https://github.com/Sebastian1981/CustomerAnalytics_CreditDefaultPrediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap), Jupyter, VSCode, streamlit, docker, dockerhub, azure app service* |
 
+[Top of Page](#data-science-projects)
+
 &nbsp;
 
 ## **Healthcare:**
@@ -112,6 +123,7 @@ Below you find a brief overview of some sample projects in the field of machine 
 | ----------- | ----------- | ----------- | ----------- |
 | ***AI Data App - COVID-19 Prediction*** ![default_pred_app](images/projects/virus.png) <small><small>*Image courtesy: ndr.de*</small> | *To implement a web-app for predicting COVID-19 patients in ICU* | *I implemented a time-series regression model on public covid datasets, provided by www.ourworldindata.org, to predict the number of COVID-19 patients in ICU (=intensive care units) for different countries worldwide in real-time. Then I developed a streamlit app, which I deployed in [streamlit-cloud](https://covidprediction-webpap.streamlitapp.com) and on [dockerhub](https://hub.docker.com/repository/docker/63531981/covid_app). (More details are provided in my [github](https://github.com/Sebastian1981/covid_prediction))* | *Auto-ML, Python (numpy, pandas, matplotlib, pycaret), Jupyter, VSCode, streamlit, docker, dockerhub* |
 
+[Top of Page](#data-science-projects)
 
 &nbsp;
 
@@ -121,4 +133,4 @@ Below you find a brief overview of some sample projects in the field of machine 
 | ----------- | ----------- | ----------- | ----------- |
 | ***Object Detection*** ![object_detection](images/projects/object_detection.png) | *To implement a fruit detector in Azure* | *I implemented a fruit detection model, trained on image data, using Azure cognitive services. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Object_Detection))* | *Image Processing, Machine Learning, Data Preparation, Data Visualization, Python (numpy, pandas, sklearn, matplotlib, pil), VSCode, Jupyter, Azure Cognitive Services* |
 
-[Top of Page](#data-science-professional-projects-on-machine-learning-and-optimization)
+[Top of Page](#data-science-projects)
