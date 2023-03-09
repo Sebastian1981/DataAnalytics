@@ -79,15 +79,6 @@ Below you find a brief overview of some sample projects in the field of machine 
 
 &nbsp;
 
-## **Natural Language Processing:**
-
-| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***NLP - Text Recognition*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
-
-[Top of Page](#data-science-projects)
-
-&nbsp;
 
 ## **Operations Research:**
 
@@ -112,6 +103,17 @@ Below you find a brief overview of some sample projects in the field of machine 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
 | ***AI Data App - Credit Default Prediction*** ![default_pred_app](images/projects/default_pred_app.png) <small><small>*Image courtesy: kindpng.com*</small> | *To implement a credit default prediction web-app* | *I implemented a classification model to predict credit default risks. Then I developed a streamlit web-app, which I deployed on [dockerhub](https://hub.docker.com/repository/docker/63531981/credit_app). (More details are provided in my [github](https://github.com/Sebastian1981/CustomerAnalytics_CreditDefaultPrediction))* | *Machine Learning, Python (numpy, pandas, matplotlib, sklearn, shap), Jupyter, VSCode, streamlit, docker, dockerhub, azure app service* |
+
+[Top of Page](#data-science-projects)
+
+&nbsp;
+
+
+## **Natural Language Processing:**
+
+| **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***NLP - Text Recognition*** ![sentiment](images/projects/sentiment.png) <small><small>*Image courtesy: thedatascientist.com*</small>  | *To implement a text recognizer in Azure* | *I implemented a language recognition model, trained on raw text, using Azure cognitive services to identify language, extract keywords and entities and analyse sentiments from hotel reviews. (The code and more details are provided in the [github repo](https://github.com/Sebastian1981/Text_Analysis))* | *Natural Language Processing, Machine Learning, Data Preparation, Python (numpy, pandas, sklearn, matplotlib), VSCode, Jupyter Notebook, Azure Cognitive Services* |
 
 [Top of Page](#data-science-projects)
 
