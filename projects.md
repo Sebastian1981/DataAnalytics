@@ -11,7 +11,7 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***AI Data App - SEO Content Creation using ChatGPT*** ![chat_gpt](images/projects/chat_gpt.png) | *To implement a web-app for the generation of SEO content using ChatGPT* | *I implemented a web-app to generate search-engine optimized (SEO) content.* | *Python (numpy, pandas, spacy, nltk, googlesearch, openai, docs, requests, re), Jupyter, VSCode, streamlit* |
+| ***AI Data App - SEO Content Creation using ChatGPT*** ![chat_gpt](images/projects/chatgpt.png) | *To implement a web-app for the generation of SEO content using ChatGPT* | *I implemented a web-app to generate search-engine optimized (SEO) content.* | *Python (numpy, pandas, spacy, nltk, googlesearch, openai, docs, requests, re), Jupyter, VSCode, streamlit* |
 
 [Top of Page](#data-science-projects)
 
