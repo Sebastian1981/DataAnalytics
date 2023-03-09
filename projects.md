@@ -7,6 +7,23 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 # **Data Science Projects**
 
+### **Natural Language Processing Project:**
+
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***AI Data App - SEO Content Creation using ChatGPT*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To implement a web-app for the generation of SEO content using ChatGPT* | *I implemented a web-app to generate search-engine optimized content.* | *Python (numpy, pandas, spacy, openai), Jupyter, VSCode, streamlit* |
+
+[Top of Page](#data-science-projects)
+
+### **Healthcare Project:**
+
+| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
+| ----------- | ----------- | ----------- | ----------- |
+| ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
+
+[Top of Page](#data-science-projects)
+
+
 ### **Marketing Analytics Projects:**
 
 | **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
@@ -35,13 +52,6 @@ In the following, you´ll find an overview of my [data science projects](#data-s
 
 [Top of Page](#data-science-projects)
 
-### **Healthcare Project:**
-
-| **Use Case** | **Project Goal** | **my Role** | **Skills & Tools** |
-| ----------- | ----------- | ----------- | ----------- |
-| ***Cerebral Disease Detection*** ![brain_volumetry](images/projects/brain_volumetry.png) | *To identity pathological cerebral changes* | *I developed explainable classification ml-models providing disease propensity scores based on labeled MRI volumetry datasets. In addition, I documented relevant scientific publications on this topic.* | *Magnetic Resonance Imaging, Image Analysis, Machine Learning, Data Preparation, Data Visualization, Explainable AI (shapley values), Python (numpy, pandas, sklearn, matplotlib, shap), Jupyter, Colab, VSCode, Gitlab* |
-
-[Top of Page](#data-science-projects)
 
 ### **Time Series Forecasting Projects:**
 
