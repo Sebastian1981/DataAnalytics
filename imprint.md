@@ -15,9 +15,6 @@ Germany
 **Mail:**\
 SDomsch314@gmail.com
 
-**Tax-ID:**\
-DE352234109
-
 **Initial Release:**\
 April of 2022
 
