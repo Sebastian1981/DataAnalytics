@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, you´ll find an overview of my [data science projects](#data-science-projects) working in industry. Then you´ll find some [research projects on machine learning](#research-projects-on-machine-learning) working in academia. For the matter of completeness I appended some [side-hustle projects](#side-hustle-projects) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowledge in the field of machine learning and optimization. There you will also find some AI data apps deployed in streamlit community cloud or docker hub.
+In the following, you´ll find an overview of my [data science projects](#data-science-projects) working in industry. Then you´ll find some [research projects on machine learning](#research-projects-on-machine-learning) working in academia. For the matter of completeness I appended some [side-hustle projects](#side-hustle-projects) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowledge in the field of machine learning and optimization. There you will also find some interesting AI data apps e.g. my fanstatic asset portolio optimization app deployed in [azure](https://portfolio-optimizer.azurewebsites.net) .
 
 # **Data Science Projects**
 
