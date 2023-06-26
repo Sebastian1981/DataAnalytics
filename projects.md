@@ -3,7 +3,7 @@ layout: page
 title: Project Portfolio
 ---
 
-In the following, you´ll find an overview of my [data science projects](#data-science-projects) working in industry. Then you´ll find some [research projects on machine learning](#research-projects-on-machine-learning) working in academia. For the matter of completeness I appended some [side-hustle projects](#side-hustle-projects) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowledge in the field of machine learning and optimization. There you will also find some of my AI data apps e.g. the [asset portolio app](https://portfolio-optimizer.azurewebsites.net).
+In the following, you´ll find an overview of my [data science projects](#data-science-projects) working in industry. Then you´ll find some [research projects on machine learning](#research-projects-on-machine-learning) working in academia. For the matter of completeness I appended some [side-hustle projects](#side-hustle-projects) I implemented in my spare time just for fun, curiosity or my eagerness to expand my knowledge in the field of machine learning and optimization.
 
 # **Data Science Projects**
 
@@ -104,7 +104,7 @@ Below you find a brief overview of some sample projects in the field of machine 
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
-| ***AI Data App - Asset-Portfolio Optimization*** ![portfolio_optimization](images/projects/portfolio.png) | *To implement a portfolio optimization web-app* | *I implemented a  finance portfolio optimization app to maximize the expected return for a given risk using monte-carlo simulations, genetic algorithms and artificial swarm intelligence. The app is deployed on [dockerhub](https://hub.docker.com/repository/docker/63531981/portfolio_optimize) and in the [azure-cloud](https://portfolio-optimizer.azurewebsites.net). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Genetic Algorithms, Artificial Swarm Intelligence, Python (numpy, pandas, matplotlib, sklearn, shap, geneticalgorithm, pyswarm), Jupyter, VSCode, streamlit, docker, dockerhub* |
+| ***AI Data App - Asset-Portfolio Optimization*** ![portfolio_optimization](images/projects/portfolio.png) | *To implement a portfolio optimization web-app* | *I implemented a  finance portfolio optimization app to maximize the expected return for a given risk using monte-carlo simulations, genetic algorithms and artificial swarm intelligence. The app is deployed on [dockerhub](https://hub.docker.com/repository/docker/63531981/portfolio_optimize). (More details are provided in my [github](https://github.com/Sebastian1981/Stock_Prediction))* | *Monte-Carlo Simulation, Machine Learning, Genetic Algorithms, Artificial Swarm Intelligence, Python (numpy, pandas, matplotlib, sklearn, shap, geneticalgorithm, pyswarm), Jupyter, VSCode, streamlit, docker, dockerhub* |
 
 | **Use Case** | **Project Goal** | **Implementation** | **Skills & Tools** |
 | ----------- | ----------- | ----------- | ----------- |
