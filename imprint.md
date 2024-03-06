@@ -10,10 +10,10 @@ Im Wingert 3\
 Germany
 
 **Phone:**\
-+49 176 / 611 49 507
++49 179 / 700 55 85
 
 **Mail:**\
-SDomsch314@gmail.com
+sebastian.domsch@googlemail.com
 
 **Initial Release:**\
 April of 2022
