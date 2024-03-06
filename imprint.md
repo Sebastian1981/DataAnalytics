@@ -16,7 +16,7 @@ Germany
 sebastian.domsch@googlemail.com
 
 **Initial Release:**\
-April of 2022
+October of 2021
 
 **Domain:**\
 https://sebastian1981.github.io/DataAnalytics
