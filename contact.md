@@ -5,6 +5,7 @@ title: Contact
 
 
 **Dr. Sebastian Domsch**\
-**Phone:** +49 176 / 611 49 507\
-**Mail:** SDomsch314@gmail.com\
+**Phone:** +49 179 / 700 55 85\
+**Mail:** sebastian.domsch@googlemail.com\
 **Homepage:** https://sebastian1981.github.io/DataAnalytics
+
