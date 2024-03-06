@@ -14,8 +14,8 @@ Dr Sebastian Domsch\
 Im Wingert 3\
 68519 Viernheim\
 Germany\
-Phone: +49 176 / 611 49 507\
-Mail: SDomsch314@gmail.com
+Phone: +49 179 / 700 55 85\
+Mail: sebastian.domsch@googlemail.com
 
 **Written or Telephone Inquiries:**\
 If you contact us in writing (e.g. by e-mail) or by other means (e.g. by telephone), your request including all personal data resulting from it (name, e-mail address, telephone number request, etc.) will be used for the purpose of processing and answering your request stored and processed by us.
@@ -96,7 +96,7 @@ Dr. Sebastian Domsch\
 Im Wingert 3\
 68519 Viernheim\
 Deutschland, Hessen\
-Telefon: +49 176 / 611 49 507\
+Telefon: +49 179 / 700 55 85\
 Mail: SDomsch314@gmail.com
 
 **Schriftliche oder telefonische Anfragen:**\
