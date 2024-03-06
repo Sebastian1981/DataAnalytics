@@ -97,7 +97,7 @@ Im Wingert 3\
 68519 Viernheim\
 Deutschland, Hessen\
 Telefon: +49 179 / 700 55 85\
-Mail: SDomsch314@gmail.com
+Mail: sebastian.domsch@googlemail.com
 
 **Schriftliche oder telefonische Anfragen:**\
 Wenn Sie uns schriftlich (z.B. per E-Mail) oder auf anderem Wege (z.B. telefonisch) kontaktieren,  wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Mailadresse, Telefonnummer Anfrage, etc.) zum Zwecke der Bearbeitung und Beantwortung Ihres Anliegens bei uns gespeichert und verarbeitet. 
